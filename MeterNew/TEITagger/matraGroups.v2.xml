@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE matraGroups SYSTEM "matraGroups.dtd">
+<matraGroups>
+	<category name='ekAkzara'> <!-- Contains values of a single syllable, i.e. g, l, and x -->
+		<matraGroup name='g'>
+			<matra value='g'/> <!-- g -->
+		</matraGroup>
+
+		<matraGroup name='l'>
+			<matra value='l'/> <!-- l -->
+		</matraGroup>
+
+		<matraGroup name='x'>
+			<matra value='g'/> <!-- g -->
+			<matra value='l'/> <!-- l -->
+		</matraGroup>
+	</category>
+
+	<category name='tryakzara'> <!-- Contains values of syllable-triplets, i.e. the eight gaRas yrtBjsmn and the group 6 -->
+		<matraGroup name='y'>
+			<matra value='lgg'/> <!-- y -->
+		</matraGroup>
+
+		<matraGroup name='r'>
+			<matra value='glg'/> <!-- r -->
+		</matraGroup>
+
+		<matraGroup name='t'>
+			<matra value='ggl'/> <!-- t -->
+		</matraGroup>
+
+		<matraGroup name='B'>
+			<matra value='gll'/> <!-- B -->
+		</matraGroup>
+
+		<matraGroup name='j'>
+			<matra value='lgl'/> <!-- j -->
+		</matraGroup>
+
+		<matraGroup name='s'>
+			<matra value='llg'/> <!-- s -->
+		</matraGroup>
+
+		<matraGroup name='m'>
+			<matra value='ggg'/> <!-- m -->
+		</matraGroup>
+
+		<matraGroup name='n'>
+			<matra value='lll'/> <!-- n -->
+		</matraGroup>
+
+		<matraGroup name='6'> <!-- gaRa not = n or s -->
+			<matra value='lgg'/> <!-- y -->
+			<matra value='glg'/> <!-- r -->
+			<matra value='ggl'/> <!-- t -->
+			<matra value='gll'/> <!-- B -->
+			<matra value='lgl'/> <!-- j -->
+			<matra value='ggg'/> <!-- m -->
+		</matraGroup>
+	</category>
+
+	<category name='caturmAtrA'> <!-- Contains values of morae (mAtrAs) that add up to exactly four beats, i.e. the original intent of matraGroups.xml -->
+		<matraGroup name='B'>
+			<matra value='gll'/> <!-- B -->
+		</matraGroup>
+
+		<matraGroup name='j'>
+			<matra value='lgl'/> <!-- j -->
+		</matraGroup>
+
+		<matraGroup name='s'>
+			<matra value='llg'/> <!-- s -->
+		</matraGroup>
+
+		<matraGroup name='L'>
+			<matra value='llll'/> <!-- not a gana -->
+		</matraGroup>
+
+		<matraGroup name='G'>
+			<matra value='gg'/> <!-- G -->
+		</matraGroup>
+
+		<matraGroup name='b'> <!-- not n or s -->
+			<matra value='gg'/> <!-- G -->
+			<matra value='gll'/> <!-- B -->
+		</matraGroup>
+
+		<matraGroup name='h'>
+			<matra value='lgl'/> <!-- j -->
+			<matra value='llll'/> <!-- L -->
+		</matraGroup>
+
+		<matraGroup name='S'>
+			<matra value='gg'/> <!-- G -->
+			<matra value='llg'/> <!-- s -->
+		</matraGroup>
+
+		<matraGroup name='J'>
+			<matra value='gg'/> <!-- G -->
+			<matra value='gll'/> <!-- B -->
+			<matra value='llg'/> <!-- s -->
+			<matra value='llll'/> <!-- L -->
+		</matraGroup>
+		
+		<matraGroup name='4'>
+			<matra value='gg'/> <!-- G -->
+			<matra value='gll'/> <!-- B -->
+			<matra value='llg'/> <!-- s -->
+			<matra value='lgl'/> <!-- j -->
+			<matra value='llll'/> <!-- L -->
+		</matraGroup>
+
+		<matraGroup name='H'> <!-- G, B or s -->
+			<matra value='gg'/> <!-- G -->
+			<matra value='gll'/> <!-- B -->
+			<matra value='llg'/> <!-- s -->
+		</matraGroup>
+
+		<matraGroup name='K'> <!-- begins with l, i.e. L, j, or s -->
+			<matra value='llll'/> <!-- L -->
+			<matra value='lgl'/> <!-- j -->
+			<matra value='llg'/> <!-- s -->
+		</matraGroup>
+	</category>
+
+	<category name='dvizaqazwamAtrA'> <!-- Contains values of morae (mAtrAs) that add up to exactly two, six and eight beats as used in the vEtAlIya meter class. -->
+		<!-- In these sequences the even mAtrAs cannot be paired with the following odd mAtrAs in a heavy syllable. -->
+		<!-- That is, there is one or are three or four pairs of mAtrAs that have two possible values: two light syllables or one heavy syllable. -->
+		<matraGroup name='D'> <!-- d for dvi 'two', sequences of two mAtrAs, a pair of mAtrAs, with two possible values = 2 -->
+			<matra value='g'/>
+			<matra value='ll'/>
+		</matraGroup>
+		<matraGroup name='Z'> <!-- z for zaz 'six', sequences of six mAtrAs, three pairs of mAtrAs with two possible values = 2 cubed = 8 -->
+			<matra value='ggg'/>
+			<matra value='llgg'/>
+			<matra value='gllg'/>
+			<matra value='llllg'/>
+			<matra value='ggll'/>
+			<matra value='llgll'/>
+			<matra value='gllll'/>
+			<matra value='llllll'/>
+		</matraGroup>
+		<matraGroup name='A'> <!-- a for azwa 'eight', sequences of eight mAtrAs, four pairs of mAtrAs with two possible values but excluding those sequences in which there are six lights in a row -->
+   <!-- The 8th, 15th and 16th sequences are thus excluded in the prastAra which begins with four g's then replaces the first g with two l's, etc. -->
+			<!-- = 2 to the 4th = 16 - 3 = 13 -->
+			<matra value='gggg'/>
+			<matra value='llggg'/>
+			<matra value='gllgg'/>
+			<matra value='llllgg'/>
+			<matra value='ggllg'/>
+			<matra value='llgllg'/>
+			<matra value='gllllg'/>
+			<!-- matra value='llllllg'/-->
+			<matra value='gggll'/>
+			<matra value='llggll'/>
+			<matra value='gllgll'/>
+			<matra value='llllgll'/>
+			<matra value='ggllll'/>
+			<matra value='llgllll'/>
+			<!-- matra value='gllllll'/-->
+			<!-- matra value='llllllll'/-->
+		</matraGroup>
+	</category>
+
+	<category name='pAda'> <!-- Contains the group of meters definitions that define a single pAda of the mAtrAsamaka type and which may vary in the pAdAkulaka meter.
+-->
+		<padaGroup name='M'> <!-- JHsS*, JhbS*, JHhS*, JhKS*, or JHBS* -->
+			<sequence type='mAtrAsamaka' value='JHsS*'/> <!-- mAtrAsamaka -->
+			<sequence type='viSloka' value='JhbS*'/> <!-- viSloka -->
+			<sequence type='vAnavAsikA' value='JHhS*'/> <!-- vAnavAsikA -->
+			<sequence type='citra' value='JhKS*'/> <!-- citra -->
+			<sequence type='upacitrA' value='JHBS*'/> <!-- upacitrA -->
+		</padaGroup>
+	</category>
+</matraGroups>

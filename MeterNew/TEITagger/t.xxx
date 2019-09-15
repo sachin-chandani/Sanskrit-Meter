@@ -1,0 +1,1424 @@
+Version number: 28
+SanskritLibrary.jar version number:389
+82. Duplicate pattern: jsg*. Previous occurrence:81
+278. Duplicate pattern: njjr*. Previous occurrence:277
+280. Duplicate pattern: njBy*. Previous occurrence:279
+389. Duplicate pattern: mBnygg*. Previous occurrence:388
+400. Duplicate pattern: sjsylg*. Previous occurrence:399
+411. Duplicate pattern: nnnns*. Previous occurrence:410
+412. Duplicate pattern: nnnns*. Previous occurrence:410
+413. Duplicate pattern: nnnns*. Previous occurrence:410
+428. Duplicate pattern: rnBBr*. Previous occurrence:427
+477. Duplicate pattern: njBjjlg*. Previous occurrence:476
+501. Duplicate pattern: nnrrrr*. Previous occurrence:500
+507. Duplicate pattern: BBBBBs*. Previous occurrence:506
+512. Duplicate pattern: mtnyyy*. Previous occurrence:511
+584. Duplicate pattern: njBjjjr*. Previous occurrence:583
+592. Duplicate pattern: rnrnrnr*. Previous occurrence:591
+647. Duplicate pattern: Bnnsmnnnlg*. Previous occurrence:646
+666. Duplicate pattern: nnBnjnnnnlg*. Previous occurrence:653
+1650. ana arDasamavftta does not contain type AKyAnakI . But found in meterClass(es) upajAti 
+1653. ana arDasamavftta does not contain type viparItAKyAnakI . But found in meterClass(es) upajAti 
+1809. ana vizamavftta does not contain type gATA . But found in meterClass(es) samavftta 
+****1. test meters whose meterClass and meterName are in meterClasses.xml
+
+7. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+11. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+15. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+19. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+23. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+27. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+31. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+35. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+39. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+43. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+48. AryA: mAtrAvftta/AryA (full)
+ Wanted AryA but got unknown meter 
+
+52. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+56. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+60. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+64. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+68. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+72. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+76. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+80. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+84. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+88. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+92. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+99. AryA: mAtrAvftta/AryA (full)
+ Success (AryA) @mAtrAvftta.854 *1
+
+103. AryA: mAtrAvftta/AryA (full)
+ Success (AryA) @mAtrAvftta.854 *1
+
+108. AryA: mAtrAvftta/AryA (full)
+ Wanted AryA but got jaGanacapalA  @mAtrAvftta.852 *1
+ Success (AryA) @mAtrAvftta.854 *1
+
+113. AryA: mAtrAvftta/AryA (full)
+ Success (AryA) @mAtrAvftta.854 *1
+
+121. AryA: mAtrAvftta/AryA (full)
+ Success (AryA) @mAtrAvftta.854 *1
+
+126. AryA: mAtrAvftta/AryA (full)
+ Success (AryA) @mAtrAvftta.854 *1
+
+131. AryA: mAtrAvftta/AryA (full)
+ Success (AryA) @mAtrAvftta.854 *1
+
+136. AryA: mAtrAvftta/AryA (full)
+ Success (AryA) @mAtrAvftta.854 *1
+
+141. AryA: mAtrAvftta/AryA (full)
+ Success (AryA) @mAtrAvftta.854 *1
+
+145. AryA: mAtrAvftta/AryA (full)
+ Success (AryA) @mAtrAvftta.854 *1
+
+149. AryA: mAtrAvftta/AryA (full)
+ Success (AryA) @mAtrAvftta.854 *1
+
+154. AryA: mAtrAvftta/AryA (full)
+ Success (AryA) @mAtrAvftta.854 *1
+
+158. AryA: mAtrAvftta/AryA (full)
+ Success (AryA) @mAtrAvftta.854 *1
+
+162. AryA: mAtrAvftta/AryA (full)
+ Success (AryA) @mAtrAvftta.854 *1
+
+167. AryA: mAtrAvftta/AryA (full)
+ Success (AryA) @mAtrAvftta.854 *1
+
+171. AryA: mAtrAvftta/capalA (full)
+ Success (capalA) @mAtrAvftta.850 *1
+ Wanted capalA but got muKacapalA  @mAtrAvftta.851 *1
+ Wanted capalA but got jaGanacapalA  @mAtrAvftta.852 *1
+ Wanted capalA but got AryA  @mAtrAvftta.854 *1
+
+175. AryA: mAtrAvftta/muKacapalA (full)
+ Success (muKacapalA) @mAtrAvftta.851 *1
+ Wanted muKacapalA but got AryA  @mAtrAvftta.854 *1
+
+179. AryA: mAtrAvftta/jaGanacapalA (full)
+ Success (jaGanacapalA) @mAtrAvftta.852 *1
+ Wanted jaGanacapalA but got AryA  @mAtrAvftta.854 *1
+
+183. gIti: mAtrAvftta/gIti (full)
+ Success (gIti) @mAtrAvftta.855 *1
+
+187. gIti: mAtrAvftta/upagIti (full)
+ Success (upagIti) @mAtrAvftta.857 *1
+
+191. gIti: mAtrAvftta/udgIti (full)
+ Success (udgIti) @mAtrAvftta.856 *1
+
+195. gIti: mAtrAvftta/AryAgIti (full)
+ Success (AryAgIti) @mAtrAvftta.853 *1
+
+199. vEtAlIya: mAtrAvftta/vEtAlIya (full)
+ Success @mAtrAvftta.864 *2
+
+205. vEtAlIya: mAtrAvftta/vizamavEtAlIya (full)
+ Success @mAtrAvftta.865 *4
+
+210. vEtAlIya: mAtrAvftta/samavEtAlIya (full)
+ Success @mAtrAvftta.866 *4
+
+215. vEtAlIya: mAtrAvftta/vEtAlIya (full)
+ Success @mAtrAvftta.864 *2
+
+220. vEtAlIya: mAtrAvftta/vEtAlIya (full)
+ Success @mAtrAvftta.864 *2
+
+225. vEtAlIya: mAtrAvftta/vEtAlIya (full)
+ Success @mAtrAvftta.864 *2
+
+229. vEtAlIya: mAtrAvftta/OpacCandasika (half)
+ Success (OpacCandasika) @mAtrAvftta.867 *1
+
+234. vEtAlIya: mAtrAvftta/vizamOpacCandasika (full)
+ Wanted vizamOpacCandasika but got vAnavAsikA  @mAtrAsamaka.842 *4
+ Wanted vizamOpacCandasika but got pAdAkulaka  @mAtrAsamaka.845 *4
+ Success @mAtrAvftta.868 *4
+
+239. vEtAlIya: mAtrAvftta/samOpacCandasika (full)
+ Wanted samOpacCandasika but got ekarUpa  @samavftta.249 *4
+ Success @mAtrAvftta.869 *4
+
+244. vEtAlIya: mAtrAvftta/OpacCandasika (full)
+ Success @mAtrAvftta.867 *2
+
+249. vEtAlIya: mAtrAvftta/OpacCandasika (full)
+ Success @mAtrAvftta.867 *2
+
+253. vEtAlIya: mAtrAvftta/ApAtalikA (half)
+ Success (ApAtalikA) @mAtrAvftta.870 *1
+
+257. vEtAlIya: mAtrAvftta/vizamApAtalikA (full)
+ Success. Program found ApAtalikAcAruhAsinI in meterClasses.xml @mAtrAvftta.911 *4. If this is replaced with alternate name vizamApAtalikA we have a match with the test file.
+
+262. vEtAlIya: mAtrAvftta/samApAtalikA (full)
+ Wanted samApAtalikA but got upacitrA  @mAtrAsamaka.844 *4
+ Wanted samApAtalikA but got pAdAkulaka  @mAtrAsamaka.845 *4
+ Success. Program found ApAtalikAparAntikA in meterClasses.xml @mAtrAvftta.902 *4. If this is replaced with alternate name samApAtalikA we have a match with the test file.
+
+267. vEtAlIya: mAtrAvftta/ApAtalikA (full)
+ Success @mAtrAvftta.870 *2
+
+272. vEtAlIya: mAtrAvftta/ApAtalikA (full)
+ Success @mAtrAvftta.870 *2
+
+277. vEtAlIya: mAtrAvftta/ApAtalikA (full)
+ Success @mAtrAvftta.870 *2
+
+282. vEtAlIya: mAtrAvftta/ApAtalikA (full)
+ Success @mAtrAvftta.870 *2
+
+286. vEtAlIya: mAtrAvftta/vEtAlIyadakziRAntikA (half)
+ Success (vEtAlIyadakziRAntikA) @mAtrAvftta.873 *1
+
+290. vEtAlIya: mAtrAvftta/OpacCandasikadakziRAntikA (full)
+ Success @mAtrAvftta.874 *2
+
+295. vEtAlIya: mAtrAvftta/ApAtalikAdakziRAntikA (full)
+ Success @mAtrAvftta.875 *2
+
+300. vEtAlIya: mAtrAvftta/vEtAlIyadakziRAntikA (full)
+ Success @mAtrAvftta.873 *2
+
+305. vEtAlIya: mAtrAvftta/vEtAlIyadakziRAntikA (full)
+ Success @mAtrAvftta.873 *2
+
+310. vEtAlIya: mAtrAvftta/vEtAlIyadakziRAntikA (full)
+ Success @mAtrAvftta.873 *2
+
+314. vEtAlIya: mAtrAvftta/vEtAlIyodicyavftti (half)
+ Success (vEtAlIyodicyavftti) @mAtrAvftta.878 *1
+
+318. vEtAlIya: mAtrAvftta/vEtAlIyodicyavftti (full)
+ Success @mAtrAvftta.878 *2
+
+323. vEtAlIya: mAtrAvftta/vEtAlIyodicyavftti (full)
+ Success @mAtrAvftta.878 *2
+
+328. vEtAlIya: mAtrAvftta/ApAtalikodicyavftti (full)
+ Success @mAtrAvftta.880 *2
+
+333. vEtAlIya: mAtrAvftta/OpacCandasikodicyavftti (full)
+ Success @mAtrAvftta.879 *2
+
+338. vEtAlIya: mAtrAvftta/vEtAlIyodicyavftti (full)
+ Success @mAtrAvftta.878 *2
+
+342. vEtAlIya: mAtrAvftta/vEtAlIyaprAcyavftti (half)
+ Success (vEtAlIyaprAcyavftti) @mAtrAvftta.883 *1
+
+346. vEtAlIya: mAtrAvftta/OpacCandasikaprAcyavftti (full)
+ Success @mAtrAvftta.884 *2
+
+351. vEtAlIya: mAtrAvftta/ApAtalikAprAcyavftti (full)
+ Success @mAtrAvftta.885 *2
+
+356. vEtAlIya: mAtrAvftta/vEtAlIyaprAcyavftti (full)
+ Success @mAtrAvftta.883 *2
+
+361. vEtAlIya: mAtrAvftta/vEtAlIyaprAcyavftti (full)
+ Success @mAtrAvftta.883 *2
+
+366. vEtAlIya: mAtrAvftta/OpacCandasikaprAcyavftti (full)
+ Success @mAtrAvftta.884 *2
+
+371. vEtAlIya: mAtrAvftta/vEtAlIyaprAcyavftti (full)
+ Success @mAtrAvftta.883 *2
+
+375. vEtAlIya: mAtrAvftta/vEtAlIyapravfttaka (half)
+ Success (vEtAlIyapravfttaka) @mAtrAvftta.891 *1
+
+379. vEtAlIya: mAtrAvftta/OpacCandasikapravfttaka (full)
+ Success @mAtrAvftta.892 *2
+
+384. vEtAlIya: mAtrAvftta/ApAtalikApravfttaka (full)
+ Success @mAtrAvftta.893 *2
+
+389. vEtAlIya: mAtrAvftta/vEtAlIyapravfttaka (full)
+ Success @mAtrAvftta.891 *2
+
+394. vEtAlIya: mAtrAvftta/vEtAlIyapravfttaka (full)
+ Success @mAtrAvftta.891 *2
+
+399. vEtAlIya: mAtrAvftta/OpacCandasikapravfttaka (full)
+ Success @mAtrAvftta.892 *2
+
+404. vEtAlIya: mAtrAvftta/ApAtalikApravfttaka (full)
+ Success @mAtrAvftta.893 *2
+
+409. vEtAlIya: mAtrAvftta/vEtAlIyapravfttaka (full)
+ Success @mAtrAvftta.891 *2
+
+413. vEtAlIya: mAtrAvftta/vEtAlIyAparAntikA (pada)
+ Wanted vEtAlIyAparAntikA but got raTodDatA  @samavftta.254 *1
+ Success (vEtAlIyAparAntikA) @mAtrAvftta.898 *1
+
+417. vEtAlIya: mAtrAvftta/OpacCandasikAparAntikA (full)
+ Success @mAtrAvftta.899 *4
+
+422. vEtAlIya: mAtrAvftta/ApAtalikAparAntikA (full)
+ Success @mAtrAvftta.900 *4
+
+427. vEtAlIya: mAtrAvftta/vEtAlIyAparAntikA (full)
+ Wanted vEtAlIyAparAntikA but got raTodDatA  @samavftta.254 *4
+ Success @mAtrAvftta.898 *4
+
+433. vEtAlIya: mAtrAvftta/vEtAlIyAparAntikA (full)
+ Success. Program found samavEtAlIya in meterClasses.xml @mAtrAvftta.866 *4. If this is replaced with alternate name vEtAlIyAparAntikA we have a match with the test file.
+
+438. vEtAlIya: mAtrAvftta/OpacCandasikAparAntikA (full)
+ Wanted OpacCandasikAparAntikA but got ekarUpa  @samavftta.249 *4
+ Success. Program found samOpacCandasika in meterClasses.xml @mAtrAvftta.869 *4. If this is replaced with alternate name OpacCandasikAparAntikA we have a match with the test file.
+
+443. vEtAlIya: mAtrAvftta/ApAtalikAparAntikA (full)
+ Wanted ApAtalikAparAntikA but got upacitrA  @mAtrAsamaka.844 *4
+ Wanted ApAtalikAparAntikA but got pAdAkulaka  @mAtrAsamaka.845 *4
+ Success @mAtrAvftta.902 *4
+
+448. vEtAlIya: mAtrAvftta/vEtAlIyaprAcyavfttyaparAntikA (full)
+ Success. Program found vEtAlIyAparAntikA in meterClasses.xml @mAtrAvftta.898 *4. If this is replaced with alternate name vEtAlIyaprAcyavfttyaparAntikA we have a match with the test file.
+
+453. vEtAlIya: mAtrAvftta/OpacCandasikaprAcyavfttyaparAntikA (full)
+ Success. Program found OpacCandasikAparAntikA in meterClasses.xml @mAtrAvftta.899 *4. If this is replaced with alternate name OpacCandasikaprAcyavfttyaparAntikA we have a match with the test file.
+
+458. vEtAlIya: mAtrAvftta/ApAtalikAprAcyavfttyaparAntikA (full)
+ Success. Program found ApAtalikAparAntikA in meterClasses.xml @mAtrAvftta.900 *4. If this is replaced with alternate name ApAtalikAprAcyavfttyaparAntikA we have a match with the test file.
+
+463. vEtAlIya: mAtrAvftta/vEtAlIyAparAntikA (full)
+ Wanted vEtAlIyAparAntikA but got raTodDatA  @samavftta.254 *4
+ Success @mAtrAvftta.898 *4
+
+467. vEtAlIya: mAtrAvftta/vEtAlIyacAruhAsinI (pada)
+ Wanted vEtAlIyacAruhAsinI but got cAruhAsinI  @samavftta.144 *1
+ Success (vEtAlIyacAruhAsinI) @mAtrAvftta.907 *1
+
+471. vEtAlIya: mAtrAvftta/OpacCandasikacAruhAsinI (full)
+ Success @mAtrAvftta.908 *4
+
+476. vEtAlIya: mAtrAvftta/ApAtalikAcAruhAsinI (full)
+ Success @mAtrAvftta.909 *4
+
+481. vEtAlIya: mAtrAvftta/vEtAlIyacAruhAsinI (full)
+ Wanted vEtAlIyacAruhAsinI but got cAruhAsinI  @samavftta.144 *4
+ Success @mAtrAvftta.907 *4
+
+487. vEtAlIya: mAtrAvftta/vEtAlIyacAruhAsinI (full)
+ Wanted vEtAlIyacAruhAsinI but got ekarUpa  @samavftta.208 *4
+ Success. Program found vizamavEtAlIya in meterClasses.xml @mAtrAvftta.865 *4. If this is replaced with alternate name vEtAlIyacAruhAsinI we have a match with the test file.
+
+492. vEtAlIya: mAtrAvftta/OpacCandasikacAruhAsinI (full)
+ Wanted OpacCandasikacAruhAsinI but got vAnavAsikA  @mAtrAsamaka.842 *4
+ Wanted OpacCandasikacAruhAsinI but got pAdAkulaka  @mAtrAsamaka.845 *4
+ Success. Program found vizamOpacCandasika in meterClasses.xml @mAtrAvftta.868 *4. If this is replaced with alternate name OpacCandasikacAruhAsinI we have a match with the test file.
+
+497. vEtAlIya: mAtrAvftta/ApAtalikAcAruhAsinI (full)
+ Success @mAtrAvftta.911 *4
+
+503. vEtAlIya: mAtrAvftta/OpacCandasikodIcyavftticAruhAsinI (full)
+ Success. Program found OpacCandasikacAruhAsinI in meterClasses.xml @mAtrAvftta.908 *4. If this is replaced with alternate name OpacCandasikodIcyavftticAruhAsinI we have a match with the test file.
+
+508. vEtAlIya: mAtrAvftta/ApAtalikodIcyavftticAruhAsinI (full)
+ Success. Program found ApAtalikAcAruhAsinI in meterClasses.xml @mAtrAvftta.909 *4. If this is replaced with alternate name ApAtalikodIcyavftticAruhAsinI we have a match with the test file.
+
+513. vEtAlIya: mAtrAvftta/vEtAlIyacAruhAsinI (full)
+ Wanted vEtAlIyacAruhAsinI but got cAruhAsinI  @samavftta.144 *4
+ Success @mAtrAvftta.907 *4
+
+517. anuzwuB: vaktra/vaktra (half)
+ Success @vaktra.814 *2
+
+521. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+526. anuzwuB: vaktra/vaktra (full)
+ Success @vaktra.814 *4
+
+531. anuzwuB: vaktra/vaktra (full)
+ Success @vaktra.814 *4
+
+536. anuzwuB: vaktra/vaktra (full)
+ Success @vaktra.814 *4
+
+540. anuzwuB: vaktra/paTyAvaktra (half)
+ Success (paTyAvaktra) @vaktra.816 *1
+
+544. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+549. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+554. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+558. anuzwuB: vaktra/viparItapaTyAvaktra (half)
+ Success (viparItapaTyAvaktra) @vaktra.817 *1
+
+562. anuzwuB: vaktra/viparItapaTyAvaktra (full)
+ Success @vaktra.817 *2
+
+567. anuzwuB: vaktra/viparItapaTyAvaktra (full)
+ Success @vaktra.817 *2
+
+572. anuzwuB: vaktra/viparItapaTyAvaktra (full)
+ Success @vaktra.817 *2
+
+576. anuzwuB: vaktra/capalAvaktra (half)
+ Success (capalAvaktra) @vaktra.818 *1
+
+580. anuzwuB: vaktra/capalAvaktra (full)
+ Success @vaktra.818 *2
+
+585. anuzwuB: vaktra/capalAvaktra (full)
+ Success @vaktra.818 *2
+
+591. anuzwuB: vaktra/capalAvaktra (full)
+ Success @vaktra.818 *2
+
+596. vipulA: vaktra/yugmavipulA (half)
+ Success. Program found paTyAvaktra in meterClasses.xml @vaktra.816 *1. If this is replaced with alternate name yugmavipulA we have a match with the test file.
+
+600. anuzwuB: vaktra/yugmavipulA (full)
+ Success. Program found paTyAvaktra in meterClasses.xml @vaktra.816 *2. If this is replaced with alternate name yugmavipulA we have a match with the test file.
+
+605. anuzwuB: vaktra/yugmavipulA (full)
+ Success. Program found paTyAvaktra in meterClasses.xml @vaktra.816 *2. If this is replaced with alternate name yugmavipulA we have a match with the test file.
+
+610. anuzwuB: vaktra/yugmavipulA (full)
+ Success. Program found paTyAvaktra in meterClasses.xml @vaktra.816 *2. If this is replaced with alternate name yugmavipulA we have a match with the test file.
+
+614. vipulA: vaktra/sEtavavipulA (pada)
+ Success (sEtavavipulA) @vaktra.821 *1
+
+618. anuzwuB: vaktra/sEtavavipulA (full)
+ Success @vaktra.821 *4
+
+623. anuzwuB: vaktra/sEtavavipulA (full)
+ Success @vaktra.821 *4
+
+628. anuzwuB: vaktra/sEtavavipulA (full)
+ Success @vaktra.821 *4
+
+633. vipulA: vaktra/BavipulA (pada)
+ Success (BavipulA) @vaktra.825 *1
+
+637. anuzwuB: vaktra/BavipulA (full)
+ Success @vaktra.824 *2
+
+641. anuzwuB: vaktra/BavipulA (full)
+ Success @vaktra.824 *2
+
+646. anuzwuB: vaktra/navipulA (half)
+ Success (navipulA) @vaktra.828 *1
+
+649. anuzwuB: vaktra/tavipulA (half)
+ Success (tavipulA) @vaktra.830 *1
+
+652. anuzwuB: vaktra/BavipulA (full)
+ Success @vaktra.824 *2
+
+657. anuzwuB: vaktra/BavipulA (half)
+ Success (BavipulA) @vaktra.824 *1
+
+660. anuzwuB: vaktra/paTyAvaktra (half)
+ Success (paTyAvaktra) @vaktra.816 *1
+
+664. anuzwuB: vaktra/paTyAvaktra (half)
+ Success (paTyAvaktra) @vaktra.816 *1
+
+667. anuzwuB: vaktra/BavipulA (half)
+ Success (BavipulA) @vaktra.824 *1
+
+671. anuzwuB: vaktra/BavipulA (full)
+ Success @vaktra.825 *4
+
+675. vipulA: vaktra/ravipulA (pada)
+ Success (ravipulA) @vaktra.827 *1
+
+679. anuzwuB: vaktra/ravipulA (full)
+ Success @vaktra.826 *2
+
+684. anuzwuB: vaktra/ravipulA (half)
+ Success (ravipulA) @vaktra.826 *1
+
+687. anuzwuB: vaktra/paTyAvaktra (half)
+ Success (paTyAvaktra) @vaktra.816 *1
+
+691. anuzwuB: vaktra/paTyAvaktra (half)
+ Success (paTyAvaktra) @vaktra.816 *1
+
+694. anuzwuB: vaktra/ravipulA (half)
+ Success (ravipulA) @vaktra.826 *1
+
+698. anuzwuB: vaktra/ravipulA (full)
+ Success @vaktra.826 *2
+
+703. anuzwuB: vaktra/ravipulA (full)
+ Success @vaktra.827 *4
+
+707. vipulA: vaktra/navipulA (pada)
+ Success (navipulA) @vaktra.829 *1
+
+711. anuzwuB: vaktra/navipulA (full)
+ Success @vaktra.828 *2
+
+715. anuzwuB: vaktra/navipulA (full)
+ Success @vaktra.828 *2
+
+722. anuzwuB: vaktra/navipulA (half)
+ Success (navipulA) @vaktra.828 *1
+
+728. anuzwuB: vaktra/paTyAvaktra (half)
+ Success (paTyAvaktra) @vaktra.816 *1
+
+731. anuzwuB: vaktra/navipulA (half)
+ Success (navipulA) @vaktra.828 *1
+
+735. anuzwuB: vaktra/navipulA (full)
+ Success @vaktra.828 *2
+
+740. anuzwuB: vaktra/navipulA (full)
+ Success @vaktra.829 *4
+
+744. vipulA: vaktra/tavipulA (pada)
+ Success (tavipulA) @vaktra.831 *1
+
+748. anuzwuB: vaktra/tavipulA (full)
+ Success @vaktra.830 *2
+
+754. anuzwuB: vaktra/tavipulA (half)
+ Success (tavipulA) @vaktra.830 *1
+
+757. anuzwuB: vaktra/paTyAvaktra (half)
+ Success (paTyAvaktra) @vaktra.816 *1
+
+762. anuzwuB: vaktra/paTyAvaktra (half)
+ Success (paTyAvaktra) @vaktra.816 *1
+
+765. anuzwuB: vaktra/tavipulA (half)
+ Success (tavipulA) @vaktra.830 *1
+
+770. anuzwuB: vaktra/mavipulA (full)
+ Success @vaktra.832 *2
+
+776. anuzwuB: vaktra/mavipulA (half)
+ Success (mavipulA) @vaktra.832 *1
+
+780. anuzwuB: vaktra/mavipulA (half)
+ Success (mavipulA) @vaktra.832 *1
+
+786. anuzwuB: vaktra/paTyAvaktra (half)
+ Success (paTyAvaktra) @vaktra.816 *1
+
+789. anuzwuB: vaktra/mavipulA (half)
+ Success (mavipulA) @vaktra.832 *1
+
+792. anuzwuB: vaktra/savipulA (half)
+ Success (savipulA) @vaktra.834 *1
+
+796. anuzwuB: vaktra/tavipulA (full)
+ Success @vaktra.830 *2
+
+802. anuzwuB: vaktra/navipulA (half)
+ Success (navipulA) @vaktra.828 *1
+
+805. anuzwuB: vaktra/BavipulA (half)
+ Success (BavipulA) @vaktra.824 *1
+
+810. anuzwuB: vaktra/tavipulA (full)
+ Success @vaktra.831 *4
+
+816. no class: mAtrAsamaka/acalaDfti (pada)
+ Success (acalaDfti) @samavftta.447 *1
+ Wanted acalaDfti but got calaDfti  @samavftta.448 *1
+ Success (acalaDfti) @mAtrAsamaka.839 *1
+
+819. no class: mAtrAsamaka/mAtrAsamaka (pada)
+ Success (mAtrAsamaka) @mAtrAsamaka.840 *1
+ Wanted mAtrAsamaka but got pAdAkulaka  @mAtrAsamaka.845 *1
+
+822. no class: mAtrAsamaka/viSloka (pada)
+ Success (viSloka) @mAtrAsamaka.841 *1
+ Wanted viSloka but got pAdAkulaka  @mAtrAsamaka.845 *1
+
+825. no class: mAtrAsamaka/vAnavAsikA (pada)
+ Success (vAnavAsikA) @mAtrAsamaka.842 *1
+ Wanted vAnavAsikA but got pAdAkulaka  @mAtrAsamaka.845 *1
+ Wanted vAnavAsikA but got vizamOpacCandasika  @mAtrAvftta.868 *1
+
+828. no class: mAtrAsamaka/citrA (pada)
+ Success. Program found citra in meterClasses.xml @mAtrAsamaka.843 *1. If this is replaced with alternate name citrA we have a match with the test file.
+ Wanted citrA but got pAdAkulaka  @mAtrAsamaka.845 *1
+
+831. no class: mAtrAsamaka/upacitrA (pada)
+ Wanted upacitrA but got rukmavatI  @samavftta.191 *1
+ Success (upacitrA) @mAtrAsamaka.844 *1
+ Wanted upacitrA but got pAdAkulaka  @mAtrAsamaka.845 *1
+ Wanted upacitrA but got ApAtalikAparAntikA  @mAtrAvftta.902 *1
+
+835. no class: mAtrAsamaka/citrA (pada)
+ Success. Program found citra in meterClasses.xml @mAtrAsamaka.843 *1. If this is replaced with alternate name citrA we have a match with the test file.
+ Wanted citrA but got pAdAkulaka  @mAtrAsamaka.845 *1
+
+838. no class: mAtrAsamaka/viSloka (pada)
+ Success (viSloka) @mAtrAsamaka.841 *1
+ Wanted viSloka but got pAdAkulaka  @mAtrAsamaka.845 *1
+
+841. no class: mAtrAsamaka/vAnavAsikA (pada)
+ Success (vAnavAsikA) @mAtrAsamaka.842 *1
+ Wanted vAnavAsikA but got pAdAkulaka  @mAtrAsamaka.845 *1
+
+844. no class: mAtrAsamaka/viSloka (pada)
+ Success (viSloka) @mAtrAsamaka.841 *1
+ Wanted viSloka but got pAdAkulaka  @mAtrAsamaka.845 *1
+
+847. no class: mAtrAsamaka/pAdAkulaka (full)
+
+851. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+855. dvipAda: mAtrAvftta/SiKA (full)
+ Success (SiKA) @mAtrAvftta.858 *1
+
+859. dvipAda: mAtrAvftta/KaYjA (full)
+ Success (KaYjA) @mAtrAvftta.859 *1
+
+863. dvipAda: mAtrAvftta/anaNgakrIqA (full)
+ Success. Program found sOmyaSiKA in meterClasses.xml @mAtrAvftta.861 *1. If this is replaced with alternate name anaNgakrIqA we have a match with the test file.
+
+867. dvipAda: mAtrAvftta/atirucirA (half)
+
+873. uktA: samavftta/SrI (pada)
+ Success (SrI) @samavftta.7 *1
+
+876. atyuktA: samavftta/strI (pada)
+ Success (strI) @samavftta.9 *1
+
+879. maDyA: samavftta/nArI (pada)
+ Success (nArI) @samavftta.18 *1
+
+882. maDyA: samavftta/mfgI (pada)
+ Success (mfgI) @samavftta.20 *1
+
+886. maDyA: samavftta/keSA (pada)
+ Success (keSA) @samavftta.19 *1
+
+891. pratizWA: samavftta/kanyA (pada)
+ Success (kanyA) @samavftta.32 *1
+
+895. pratizWA: samavftta/vrIqA (pada)
+ Success (vrIqA) @samavftta.34 *1
+
+900. pratizWA: samavftta/lAsinI (pada)
+ Success. Program found jayA in meterClasses.xml @samavftta.24 *1. If this is replaced with alternate name lAsinI we have a match with the test file.
+
+905. pratizWA: samavftta/sumuKI (pada)
+ Success (sumuKI) @samavftta.30 *1
+
+911. pratizWA: samavftta/sumati (pada)
+ Success (sumati) @samavftta.38 *1
+
+917. pratizWA: samavftta/samfdDi (pada)
+ Success (samfdDi) @samavftta.36 *1
+
+923. supratizWA: samavftta/paNkti (pada)
+ Success (paNkti) @samavftta.45 *1
+ Wanted paNkti but got kalA  @samavftta.665 *1
+
+927. supratizWA: samavftta/prIti (pada)
+ Success (prIti) @samavftta.50 *1
+ Wanted prIti but got kalA  @samavftta.665 *1
+
+932. supratizWA: samavftta/satI (pada)
+ Success (satI) @samavftta.40 *1
+ Wanted satI but got kalA  @samavftta.665 *1
+
+937. supratizWA: samavftta/mandA (pada)
+ Success. Program found nandA in meterClasses.xml @samavftta.42 *1. If this is replaced with alternate name mandA we have a match with the test file.
+ Wanted mandA but got kalA  @samavftta.665 *1
+
+942. gAyatrI: samavftta/tanumaDyA (pada)
+ Success (tanumaDyA) @samavftta.57 *1
+
+945. gAyatrI: samavftta/SaSivadanA (pada)
+ Success (SaSivadanA) @samavftta.61 *1
+
+948. gAyatrI: samavftta/vasumatI (pada)
+ Success (vasumatI) @samavftta.59 *1
+
+951. gAyatrI: samavftta/vidyulleKA (pada)
+ Success. Program found sAvitrI in meterClasses.xml @samavftta.66 *1. If this is replaced with alternate name vidyulleKA we have a match with the test file.
+
+956. gAyatrI: samavftta/sragviRI (pada)
+ Success. Program found haMsamAlA in meterClasses.xml @samavftta.74 *1. If this is replaced with alternate name sragviRI we have a match with the test file.
+
+961. gAyatrI: samavftta/somarAjI (pada)
+ Success (somarAjI) @samavftta.71 *1
+
+966. gAyatrI: samavftta/somakula (pada)
+ Success. Program found mukula in meterClasses.xml @samavftta.69 *1. If this is replaced with alternate name somakula we have a match with the test file.
+
+972. gAyatrI: samavftta/kAmalatikA (pada)
+ Success (kAmalatikA) @samavftta.64 *1
+
+977. gAyatrI: samavftta/sAvitrI (pada)
+ Success (sAvitrI) @samavftta.66 *1
+
+983. gAyatrI: samavftta/nadI (pada)
+ Success. Program found tawI in meterClasses.xml @samavftta.68 *1. If this is replaced with alternate name nadI we have a match with the test file.
+
+988. gAyatrI: samavftta/mukula (pada)
+ Success (mukula) @samavftta.69 *1
+
+994. gAyatrI: samavftta/mAlinI (pada)
+ Success (mAlinI) @samavftta.73 *1
+
+1000. gAyatrI: samavftta/ramaRI (pada)
+ Success (ramaRI) @samavftta.78 *1
+
+1005. uzRij: samavftta/madaleKA (pada)
+ Success (madaleKA) @samavftta.98 *1
+
+1008. uzRij: samavftta/haMsamAlA (pada)
+ Success. Program found dIptA in meterClasses.xml @samavftta.104 *1. If this is replaced with alternate name haMsamAlA we have a match with the test file.
+
+1013. uzRij: samavftta/maDumatI (pada)
+ Success (maDumatI) @samavftta.88 *1
+
+1018. uzRij: samavftta/kumAralalitA (pada)
+ Success (kumAralalitA) @samavftta.81 *1
+ Success (kumAralalitA) @samavftta.82 *1
+
+1023. uzRij: samavftta/cUqAmaRi (pada)
+ Success (cUqAmaRi) @samavftta.84 *1
+
+1028. anuzwuB: samavftta/citrapadA (pada)
+ Success (citrapadA) @samavftta.128 *1
+
+1031. anuzwuB: samavftta/vidyunmAlA (pada)
+ Success (vidyunmAlA) @samavftta.131 *1
+ Wanted vidyunmAlA but got mavipulA  @vaktra.833 *1
+
+1034. anuzwuB: samavftta/mARavaka (pada)
+ Success (mARavaka) @samavftta.126 *1
+
+1037. anuzwuB: samavftta/haMsaruta (pada)
+ Success (haMsaruta) @samavftta.130 *1
+ Wanted haMsaruta but got savipulA  @vaktra.835 *1
+
+1040. anuzwuB: samavftta/samAnikA (pada)
+ Success. Program found samAnI in meterClasses.xml @samavftta.134 *1. If this is replaced with alternate name samAnikA we have a match with the test file.
+ Success. Program found siMhaleKA in meterClasses.xml @samavftta.135 *1. If this is replaced with alternate name samAnikA we have a match with the test file.
+ Wanted samAnikA but got ravipulA  @vaktra.827 *1
+
+1043. anuzwuB: samavftta/pramARikA (pada)
+ Success (pramARikA) @samavftta.110 *1
+ Wanted pramARikA but got sEtavavipulA  @vaktra.821 *1
+
+1046. anuzwuB: samavftta/vitAna (pada)
+ Success (vitAna) @samavftta.106 *1
+ Wanted vitAna but got ravipulA  @vaktra.827 *1
+
+1051. anuzwuB: samavftta/vitAna (full)
+ Wanted vitAna but got narAca  @samavftta.115 *4
+ Wanted vitAna but got sEtavavipulA  @vaktra.821 *4
+
+1056. anuzwuB: samavftta/vitAna (full)
+ Wanted vitAna but got narAca  @samavftta.115 *4
+ Wanted vitAna but got sEtavavipulA  @vaktra.821 *4
+
+1060. anuzwuB: samavftta/vitAna (full)
+ Wanted vitAna but got narAca  @samavftta.115 *4
+ Wanted vitAna but got sEtavavipulA  @vaktra.821 *4
+
+1066. anuzwuB: samavftta/vitAna (full)
+ Success @samavftta.106 *4
+ Wanted vitAna but got ravipulA  @vaktra.827 *4
+
+1070. anuzwuB: samavftta/vitAna (full)
+ Success @samavftta.107 *4
+ Wanted vitAna but got sEtavavipulA  @vaktra.821 *4
+
+1074. anuzwuB: samavftta/nAgaraka (pada)
+ Success (nAgaraka) @samavftta.129 *1
+
+1079. anuzwuB: samavftta/nArAcikA (pada)
+ Success. Program found narAca in meterClasses.xml @samavftta.115 *1. If this is replaced with alternate name nArAcikA we have a match with the test file.
+ Wanted nArAcikA but got sEtavavipulA  @vaktra.821 *1
+
+1084. bfhatI: samavftta/halamuKI (pada)
+ Success (halamuKI) @samavftta.167 *1
+
+1087. bfhatI: samavftta/BujagaSiSuBftA (pada)
+ Success (BujagaSiSuBftA) @samavftta.149 *1
+
+1090. bfhatI: samavftta/BadrikA (pada)
+ Success (BadrikA) @samavftta.166 *1
+
+1096. paNkti: samavftta/SudDavirAj (pada)
+ Success (SudDavirAj) @samavftta.198 *1
+ Wanted SudDavirAj but got samavEtAlIya  @mAtrAvftta.866 *1
+
+1099. paNkti: samavftta/paRava (pada)
+ Success (paRava) @samavftta.194 *1
+ Wanted paRava but got mAtrAsamaka  @mAtrAsamaka.840 *1
+ Wanted paRava but got pAdAkulaka  @mAtrAsamaka.845 *1
+
+1102. paNkti: samavftta/mayUrasAriRI (pada)
+ Success @samavftta.200 *1
+
+1105. paNkti: samavftta/rukmavatI (pada)
+ Success (rukmavatI) @samavftta.191 *1
+ Wanted rukmavatI but got upacitrA  @mAtrAsamaka.844 *1
+ Wanted rukmavatI but got pAdAkulaka  @mAtrAsamaka.845 *1
+ Wanted rukmavatI but got ApAtalikAparAntikA  @mAtrAvftta.902 *1
+
+1108. paNkti: samavftta/campakamAlA (pada)
+ Success. Program found rukmavatI in meterClasses.xml @samavftta.191 *1. If this is replaced with alternate name campakamAlA we have a match with the test file.
+ Wanted campakamAlA but got upacitrA  @mAtrAsamaka.844 *1
+ Wanted campakamAlA but got pAdAkulaka  @mAtrAsamaka.845 *1
+ Wanted campakamAlA but got ApAtalikAparAntikA  @mAtrAvftta.902 *1
+
+1113. paNkti: samavftta/mattA (pada)
+ Success (mattA) @samavftta.197 *1
+ Wanted mattA but got vAnavAsikA  @mAtrAsamaka.842 *1
+ Wanted mattA but got pAdAkulaka  @mAtrAsamaka.845 *1
+
+1116. paNkti: samavftta/manoramA (pada)
+ Success @samavftta.183 *1
+
+1119. paNkti: samavftta/upasTitA (pada)
+ Success @samavftta.176 *1
+
+1122. paNkti: samavftta/haMsI (pada)
+ Success. Program found mattA in meterClasses.xml @samavftta.197 *1. If this is replaced with alternate name haMsI we have a match with the test file.
+ Wanted haMsI but got vAnavAsikA  @mAtrAsamaka.842 *1
+ Wanted haMsI but got pAdAkulaka  @mAtrAsamaka.845 *1
+
+1127. paNkti: samavftta/dIpakamAlA (pada)
+ Success (dIpakamAlA) @samavftta.188 *1
+ Wanted dIpakamAlA but got samavEtAlIya  @mAtrAvftta.866 *1
+
+1132. paNkti: samavftta/meGavitAna (pada)
+ Success (meGavitAna) @samavftta.209 *1
+ Wanted meGavitAna but got ApAtalikAcAruhAsinI  @mAtrAvftta.911 *1
+
+1137. paNkti: samavftta/maRirAga (pada)
+ Success. Program found maRiraNga in meterClasses.xml @samavftta.204 *1. If this is replaced with alternate name maRirAga we have a match with the test file.
+
+1142. paNkti: samavftta/tvaritagati (pada)
+ Success. Program found kulawA in meterClasses.xml @samavftta.180 *1. If this is replaced with alternate name tvaritagati we have a match with the test file.
+
+1147. trizwuB: samavftta/indravajrA (pada)
+ Success (indravajrA) @samavftta.219 *1
+
+1150. trizwuB: samavftta/upendravajrA (pada)
+ Success (upendravajrA) @samavftta.212 *1
+
+1153. trizwuB: upajAti/ArdrA (full)
+ Success (ArdrA) @upajAti.788 *1
+
+1163. trizwuB: samavftta/sumuKI (pada)
+ Success (sumuKI) @samavftta.224 *1
+
+1166. trizwuB: samavftta/doDaka (pada)
+ Success (doDaka) @samavftta.239 *1
+ Wanted doDaka but got upacitrA  @mAtrAsamaka.844 *1
+ Wanted doDaka but got pAdAkulaka  @mAtrAsamaka.845 *1
+ Wanted doDaka but got ApAtalikAparAntikA  @mAtrAvftta.902 *1
+
+1169. trizwuB: samavftta/SAlinI (pada)
+ Success (SAlinI) @samavftta.243 *1
+
+1173. trizwuB: samavftta/vAtormI (pada)
+ Success (vAtormI) @samavftta.244 *1
+
+1176. trizwuB: samavftta/SrI (pada)
+ Success. Program found anukUlA in meterClasses.xml @samavftta.238 *1. If this is replaced with alternate name SrI we have a match with the test file.
+ Wanted SrI but got vAnavAsikA  @mAtrAsamaka.842 *1
+ Wanted SrI but got pAdAkulaka  @mAtrAsamaka.845 *1
+
+1179. trizwuB: samavftta/Bramaravilasita (pada)
+ Success (Bramaravilasita) @samavftta.245 *1
+ Wanted Bramaravilasita but got vAnavAsikA  @mAtrAsamaka.842 *1
+ Wanted Bramaravilasita but got pAdAkulaka  @mAtrAsamaka.845 *1
+
+1182. trizwuB: samavftta/raTodDatA (pada)
+ Success (raTodDatA) @samavftta.254 *1
+ Wanted raTodDatA but got vEtAlIyAparAntikA  @mAtrAvftta.898 *1
+
+1185. trizwuB: samavftta/svAgatA (pada)
+ Success (svAgatA) @samavftta.253 *1
+ Wanted svAgatA but got ApAtalikAparAntikA  @mAtrAvftta.900 *1
+
+1188. trizwuB: samavftta/vfttA (pada)
+ Success. Program found vfntA in meterClasses.xml @samavftta.231 *1. If this is replaced with alternate name vfttA we have a match with the test file.
+
+1191. trizwuB: samavftta/BadrikA (pada)
+ Success (BadrikA) @samavftta.230 *1
+ Wanted BadrikA but got vizamavEtAlIya  @mAtrAvftta.865 *1
+
+1194. trizwuB: samavftta/mOktikamAlA (pada)
+ Success. Program found anukUlA in meterClasses.xml @samavftta.238 *1. If this is replaced with alternate name mOktikamAlA we have a match with the test file.
+ Wanted mOktikamAlA but got vAnavAsikA  @mAtrAsamaka.842 *1
+ Wanted mOktikamAlA but got pAdAkulaka  @mAtrAsamaka.845 *1
+
+1197. trizwuB: samavftta/upasTita (pada)
+ Success (upasTita) @samavftta.214 *1
+
+1200. trizwuB: samavftta/SiKaRqita (pada)
+ Success. Program found upasTita in meterClasses.xml @samavftta.214 *1. If this is replaced with alternate name SiKaRqita we have a match with the test file.
+
+1205. trizwuB: samavftta/SyenikA (pada)
+ Success. Program found SreRi in meterClasses.xml @samavftta.251 *1. If this is replaced with alternate name SyenikA we have a match with the test file.
+
+1211. trizwuB: samavftta/upacitra (pada)
+ Success (upacitra) @samavftta.260 *1
+
+1216. trizwuB: samavftta/kupuruzajanitA (pada)
+ Success (kupuruzajanitA) @samavftta.229 *1
+
+1221. trizwuB: samavftta/anavasitA (pada)
+ Success (anavasitA) @samavftta.233 *1
+ Wanted anavasitA but got upacitrA  @mAtrAsamaka.844 *1
+ Wanted anavasitA but got pAdAkulaka  @mAtrAsamaka.845 *1
+ Wanted anavasitA but got ApAtalikAparAntikA  @mAtrAvftta.902 *1
+
+1226. trizwuB: samavftta/ekarUpa (pada)
+ Success (ekarUpa) @samavftta.249 *1
+ Wanted ekarUpa but got samOpacCandasika  @mAtrAvftta.869 *1
+
+1231. trizwuB: samavftta/vEtikA (pada)
+ Success. Program found SreRi in meterClasses.xml @samavftta.251 *1. If this is replaced with alternate name vEtikA we have a match with the test file.
+
+1236. jagatI: samavftta/candravartma (pada)
+ Success (candravartma) @samavftta.308 *1
+
+1239. jagatI: samavftta/vaMSasTa (pada)
+ Success (vaMSasTa) @samavftta.263 *1
+
+1242. jagatI: samavftta/indravaMSA (pada)
+ Success (indravaMSA) @samavftta.270 *1
+
+1245. jagatI: samavftta/towaka (pada)
+ Success (towaka) @samavftta.314 *1
+ Wanted towaka but got mAtrAsamaka  @mAtrAsamaka.840 *1
+ Wanted towaka but got pAdAkulaka  @mAtrAsamaka.845 *1
+
+1248. jagatI: samavftta/drutavilambita (pada)
+ Success (drutavilambita) @samavftta.291 *1
+
+1252. jagatI: samavftta/puwa (pada)
+ Success (puwa) @samavftta.284 *1
+
+1255. jagatI: samavftta/pramuditavadanA (pada)
+ Success. Program found mandAkinI in meterClasses.xml @samavftta.287 *1. If this is replaced with alternate name pramuditavadanA we have a match with the test file.
+
+1258. jagatI: samavftta/kusumavicitrA (pada)
+ Success (kusumavicitrA) @samavftta.292 *1
+ Wanted kusumavicitrA but got vAnavAsikA  @mAtrAsamaka.842 *1
+ Wanted kusumavicitrA but got pAdAkulaka  @mAtrAsamaka.845 *1
+
+1261. jagatI: samavftta/jalodDatagati (pada)
+ Success (jalodDatagati) @samavftta.268 *1
+
+1264. jagatI: samavftta/BujaNgaprayAta (pada)
+ Success (BujaNgaprayAta) @samavftta.306 *1
+
+1267. jagatI: samavftta/sragviRI (pada)
+ Success (sragviRI) @samavftta.311 *1
+
+1270. jagatI: samavftta/priyaMvadA (pada)
+ Success (priyaMvadA) @samavftta.289 *1
+ Wanted priyaMvadA but got vEtAlIyAparAntikA  @mAtrAvftta.898 *1
+
+1273. jagatI: samavftta/maRimAlA (pada)
+ Success (maRimAlA) @samavftta.274 *1
+
+1276. jagatI: samavftta/lalitA (pada)
+ Success (lalitA) @samavftta.272 *1
+
+1279. jagatI: samavftta/pramitAkzarA (pada)
+ Success (pramitAkzarA) @samavftta.312 *1
+ Wanted pramitAkzarA but got citra  @mAtrAsamaka.843 *1
+ Wanted pramitAkzarA but got pAdAkulaka  @mAtrAsamaka.845 *1
+
+1282. jagatI: samavftta/ujjvalA (pada)
+ Success (ujjvalA) @samavftta.283 *1
+
+1285. jagatI: samavftta/vESvadevI (pada)
+ Success (vESvadevI) @samavftta.305 *1
+
+1288. jagatI: samavftta/jalaDaramAlA (pada)
+ Success (jalaDaramAlA) @samavftta.302 *1
+
+1291. jagatI: samavftta/navamAlikA (pada)
+ Success. Program found navamAlinI in meterClasses.xml @samavftta.279 *1. If this is replaced with alternate name navamAlikA we have a match with the test file.
+ Success. Program found navamAlinI in meterClasses.xml @samavftta.280 *1. If this is replaced with alternate name navamAlikA we have a match with the test file.
+
+1294. jagatI: samavftta/praBA (pada)
+ Success. Program found mandAkinI in meterClasses.xml @samavftta.287 *1. If this is replaced with alternate name praBA we have a match with the test file.
+
+1298. jagatI: samavftta/mAlatI (pada)
+ Success (mAlatI) @samavftta.277 *1
+ Success (mAlatI) @samavftta.278 *1
+ Wanted mAlatI but got samavEtAlIya  @mAtrAvftta.866 *1
+
+1301. jagatI: samavftta/aBinavatAmarasa (pada)
+ Success (aBinavatAmarasa) @samavftta.276 *1
+ Wanted aBinavatAmarasa but got upacitrA  @mAtrAsamaka.844 *1
+ Wanted aBinavatAmarasa but got pAdAkulaka  @mAtrAsamaka.845 *1
+ Wanted aBinavatAmarasa but got ApAtalikAparAntikA  @mAtrAvftta.902 *1
+
+1304. jagatI: samavftta/tatI (pada)
+ Success. Program found mAlatI in meterClasses.xml @samavftta.277 *1. If this is replaced with alternate name tatI we have a match with the test file.
+ Success. Program found mAlatI in meterClasses.xml @samavftta.278 *1. If this is replaced with alternate name tatI we have a match with the test file.
+ Wanted tatI but got samavEtAlIya  @mAtrAvftta.866 *1
+
+1309. jagatI: samavftta/mOktikadAma (pada)
+ Success (mOktikadAma) @samavftta.262 *1
+
+1314. jagatI: samavftta/svamocacAmara (pada)
+ Success. Program found paYcacAmara in meterClasses.xml @samavftta.266 *1. If this is replaced with alternate name svamocacAmara we have a match with the test file.
+
+1319. jagatI: samavftta/mOktikadAma (pada)
+ Success (mOktikadAma) @samavftta.262 *1
+
+1324. jagatI: samavftta/paYcacAmara (pada)
+ Success (paYcacAmara) @samavftta.264 *1
+
+1329. jagatI: samavftta/mandAkinI (pada)
+ Success (mandAkinI) @samavftta.287 *1
+
+1334. atijagatI: samavftta/kzamA (pada)
+ Success. Program found kuwilagati in meterClasses.xml @samavftta.329 *1. If this is replaced with alternate name kzamA we have a match with the test file.
+
+1337. atijagatI: samavftta/praharziRI (pada)
+ Success (praharziRI) @samavftta.345 *1
+
+1340. atijagatI: samavftta/atirucirA (pada)
+ Success. Program found rucirA in meterClasses.xml @samavftta.317 *1. If this is replaced with alternate name atirucirA we have a match with the test file.
+
+1343. atijagatI: samavftta/mattamayUra (pada)
+ Success (mattamayUra) @samavftta.343 *1
+
+1346. atijagatI: samavftta/maYjuBAziRI (pada)
+ Success. Program found jaYA in meterClasses.xml @samavftta.352 *1. If this is replaced with alternate name maYjuBAziRI we have a match with the test file.
+
+1349. atijagatI: samavftta/upasTita (pada)
+ Success (upasTita) @samavftta.318 *1
+
+1354. atijagatI: samavftta/candrikA (pada)
+ Success. Program found kuwilagati in meterClasses.xml @samavftta.329 *1. If this is replaced with alternate name candrikA we have a match with the test file.
+
+1359. atijagatI: samavftta/maYjuhAsinI (pada)
+ Success (maYjuhAsinI) @samavftta.316 *1
+
+1364. atijagatI: samavftta/navanandinI (pada)
+ Success. Program found kuwaja in meterClasses.xml @samavftta.354 *1. If this is replaced with alternate name navanandinI we have a match with the test file.
+
+1369. atijagatI: samavftta/kuwilagati (pada)
+ Success (kuwilagati) @samavftta.323 *1
+
+1374. atijagatI: samavftta/caYcarIkAvalI (pada)
+ Success (caYcarIkAvalI) @samavftta.349 *1
+
+1379. SakvarI: samavftta/asambADA (pada)
+ Success (asambADA) @samavftta.384 *1
+
+1382. SakvarI: samavftta/aparAjitA (pada)
+ Success (aparAjitA) @samavftta.372 *1
+
+1385. SakvarI: samavftta/praharaRakalitA (pada)
+ Success (praharaRakalitA) @samavftta.370 *1
+ Wanted praharaRakalitA but got vAnavAsikA  @mAtrAsamaka.842 *1
+ Wanted praharaRakalitA but got pAdAkulaka  @mAtrAsamaka.845 *1
+
+1388. SakvarI: samavftta/vasantatilakA (pada)
+ Success (vasantatilakA) @samavftta.362 *1
+
+1392. SakvarI: samavftta/siMhonnatA (pada)
+ Success. Program found vasantatilakA in meterClasses.xml @samavftta.362 *1. If this is replaced with alternate name siMhonnatA we have a match with the test file.
+
+1395. SakvarI: samavftta/udDarziRI (pada)
+ Success. Program found vasantatilakA in meterClasses.xml @samavftta.362 *1. If this is replaced with alternate name udDarziRI we have a match with the test file.
+
+1398. SakvarI: samavftta/maDumADavI (pada)
+ Success. Program found vasantatilakA in meterClasses.xml @samavftta.362 *1. If this is replaced with alternate name maDumADavI we have a match with the test file.
+
+1404. SakvarI: samavftta/induvadanA (pada)
+ Success (induvadanA) @samavftta.378 *1
+
+1409. SakvarI: samavftta/alolA (pada)
+ Success (alolA) @samavftta.396 *1
+
+1414. SakvarI: samavftta/vasuDA (pada)
+ Success. Program found maYjarI in meterClasses.xml @samavftta.399 *1. If this is replaced with alternate name vasuDA we have a match with the test file.
+ Wanted vasuDA but got paTyA  @samavftta.400 *1
+
+1419. SakvarI: samavftta/kuwila (pada)
+ Success (kuwila) @samavftta.401 *1
+
+1426. SakvarI: samavftta/Dfti (pada)
+ Success. Program found pramadA in meterClasses.xml @samavftta.365 *1. If this is replaced with alternate name Dfti we have a match with the test file.
+
+1431. SakvarI: samavftta/haMsaSyenI (pada)
+ Wanted haMsaSyenI but got kuwilaka  @samavftta.388 *1
+ Success. Program found haMsaSyAmA in meterClasses.xml @samavftta.389 *1. If this is replaced with alternate name haMsaSyenI we have a match with the test file.
+
+1437. SakvarI: samavftta/candrOrasa (pada)
+ Success (candrOrasa) @samavftta.390 *1
+
+1443. SakvarI: samavftta/devaravaratanu (pada)
+ Success. Program found cakrapada in meterClasses.xml @samavftta.380 *1. If this is replaced with alternate name devaravaratanu we have a match with the test file.
+ Wanted devaravaratanu but got citra  @mAtrAsamaka.843 *1
+ Wanted devaravaratanu but got pAdAkulaka  @mAtrAsamaka.845 *1
+
+1448. SakvarI: samavftta/vAsantI (pada)
+ Success (vAsantI) @samavftta.383 *1
+
+1453. SakvarI: samavftta/vavasanta (pada)
+ Success (vavasanta) @samavftta.368 *1
+
+1458. atiSakvarI: samavftta/SaSikalA (pada)
+ Success. Program found candrAvartA in meterClasses.xml @samavftta.410 *1. If this is replaced with alternate name SaSikalA we have a match with the test file.
+ Wanted SaSikalA but got mAlA  @samavftta.411 *1
+ Wanted SaSikalA but got maRiguRanikara  @samavftta.412 *1
+ Wanted SaSikalA but got rucirA  @samavftta.413 *1
+ Wanted SaSikalA but got citra  @mAtrAsamaka.843 *1
+ Wanted SaSikalA but got pAdAkulaka  @mAtrAsamaka.845 *1
+
+1461. atiSakvarI: samavftta/sraj (pada)
+ Wanted sraj but got candrAvartA  @samavftta.410 *1
+ Success. Program found mAlA in meterClasses.xml @samavftta.411 *1. If this is replaced with alternate name sraj we have a match with the test file.
+ Wanted sraj but got maRiguRanikara  @samavftta.412 *1
+ Wanted sraj but got rucirA  @samavftta.413 *1
+ Wanted sraj but got citra  @mAtrAsamaka.843 *1
+ Wanted sraj but got pAdAkulaka  @mAtrAsamaka.845 *1
+
+1464. atiSakvarI: samavftta/maRiguRanikara (pada)
+ Wanted maRiguRanikara but got candrAvartA  @samavftta.410 *1
+ Wanted maRiguRanikara but got mAlA  @samavftta.411 *1
+ Success (maRiguRanikara) @samavftta.412 *1
+ Wanted maRiguRanikara but got rucirA  @samavftta.413 *1
+ Wanted maRiguRanikara but got citra  @mAtrAsamaka.843 *1
+ Wanted maRiguRanikara but got pAdAkulaka  @mAtrAsamaka.845 *1
+
+1467. atiSakvarI: samavftta/mAlinI (pada)
+ Success @samavftta.415 *1
+
+1471. atiSakvarI: samavftta/praBadraka (pada)
+ Success @samavftta.408 *1
+
+1474. atiSakvarI: samavftta/elA (pada)
+ Success. Program found SaradaSakavirati in meterClasses.xml @samavftta.436 *1. If this is replaced with alternate name elA we have a match with the test file.
+
+1477. atiSakvarI: samavftta/candraleKA (pada)
+ Success @samavftta.425 *1
+
+1480. azwi: samavftta/fzaBagajavilasita (pada)
+ Success (fzaBagajavilasita) @samavftta.454 *1
+
+1483. azwi: samavftta/vARinI (pada)
+ Success (vARinI) @samavftta.444 *1
+
+1486. azwi: samavftta/paYcacAmara (pada)
+ Success @samavftta.440 *1
+
+1491. atyazwi: samavftta/SiKariRI (pada)
+ Success (SiKariRI) @samavftta.492 *1
+
+1494. atyazwi: samavftta/pfTvI (pada)
+ Success (pfTvI) @samavftta.473 *1
+
+1497. atyazwi: samavftta/vaMSapatrapatita (pada)
+ Success (vaMSapatrapatita) @samavftta.486 *1
+
+1500. atyazwi: samavftta/hariRI (pada)
+ Success (hariRI) @samavftta.485 *1
+
+1503. atyazwi: samavftta/mandAkrAntA (pada)
+ Success (mandAkrAntA) @samavftta.487 *1
+
+1506. atyazwi: samavftta/narkuwaka (pada)
+ Success (narkuwaka) @samavftta.476 *1
+ Wanted narkuwaka but got kokilaka  @samavftta.477 *1
+
+1509. atyazwi: samavftta/kokilaka (pada)
+ Wanted kokilaka but got narkuwaka  @samavftta.476 *1
+ Success (kokilaka) @samavftta.477 *1
+
+1512. atyazwi: samavftta/atiSAyinI (pada)
+ Success. Program found citraleKA in meterClasses.xml @samavftta.493 *1. If this is replaced with alternate name atiSAyinI we have a match with the test file.
+
+1517. Dfti: samavftta/kusumitalatAvellitA (pada)
+ Success (kusumitalatAvellitA) @samavftta.511 *1
+ Wanted kusumitalatAvellitA but got citraleKA  @samavftta.512 *1
+
+1520. Dfti: samavftta/sAlasA (pada)
+ Success. Program found nArAca in meterClasses.xml @samavftta.500 *1. If this is replaced with alternate name sAlasA we have a match with the test file.
+ Wanted sAlasA but got tArakA  @samavftta.501 *1
+
+1526. Dfti: samavftta/siMhavisPUrjita (pada)
+ Success (siMhavisPUrjita) @samavftta.517 *1
+
+1531. Dfti: samavftta/siMhavikrIqita (pada)
+ Success. Program found nArAca in meterClasses.xml @samavftta.500 *1. If this is replaced with alternate name siMhavikrIqita we have a match with the test file.
+ Wanted siMhavikrIqita but got tArakA  @samavftta.501 *1
+
+1537. Dfti: samavftta/haranartana (pada)
+ Success (haranartana) @samavftta.527 *1
+
+1542. atiDfti: samavftta/SArdUlavikrIqita (pada)
+ Success (SArdUlavikrIqita) @samavftta.549 *1
+
+1545. atiDfti: samavftta/meGavisPUrjitA (pada)
+ Success (meGavisPUrjitA) @samavftta.557 *1
+
+1551. atiDfti: samavftta/racanA (pada)
+ Success (racanA) @samavftta.537 *1
+
+1556. kfti: samavftta/suvadanA (pada)
+ Success @samavftta.572 *1
+
+1559. kfti: samavftta/vftta (pada)
+ Success @samavftta.575 *1
+
+1562. kfti: samavftta/matteBavikrIqita (pada)
+ Success @samavftta.579 *1
+
+1567. kfti: samavftta/pramadAnana (pada)
+ Success. Program found gItikA in meterClasses.xml @samavftta.578 *1. If this is replaced with alternate name pramadAnana we have a match with the test file.
+
+1572. kfti: samavftta/suvaMSA (pada)
+ Success. Program found citramAlA in meterClasses.xml @samavftta.571 *1. If this is replaced with alternate name suvaMSA we have a match with the test file.
+
+1577. prakfti: samavftta/sragDarA (pada)
+ Success (sragDarA) @samavftta.589 *1
+
+1580. prakfti: samavftta/mattavilAsinI (pada)
+ Success (mattavilAsinI) @samavftta.585 *1
+
+1586. Akfti: samavftta/Badraka (pada)
+ Success. Program found madraka in meterClasses.xml @samavftta.599 *1. If this is replaced with alternate name Badraka we have a match with the test file.
+
+1589. Akfti: samavftta/lAlitya (pada)
+ Success (lAlitya) @samavftta.604 *1
+
+1594. Akfti: samavftta/mahAsragDarA (pada)
+ Success (mahAsragDarA) @samavftta.605 *1
+
+1600. vikfti: samavftta/aSvalalita (pada)
+ Success. Program found adritanayA in meterClasses.xml @samavftta.612 *1. If this is replaced with alternate name aSvalalita we have a match with the test file.
+
+1603. vikfti: samavftta/mattAkrIqA (pada)
+ Success. Program found mattAkrIqa in meterClasses.xml @samavftta.617 *1. If this is replaced with alternate name mattAkrIqA we have a match with the test file.
+
+1606. vikfti: samavftta/mayUragati (pada)
+ Success (mayUragati) @samavftta.614 *1
+
+1611. saNkfti: samavftta/tanvI (pada)
+ Success @samavftta.625 *1
+
+1614. atikfti: samavftta/krOYcapadA (pada)
+ Success @samavftta.637 *1
+
+1617. utkfti: samavftta/BujaNgavijfmBita (pada)
+ Success (BujaNgavijfmBita) @samavftta.649 *1
+
+1620. utkfti: samavftta/apavAha (pada)
+ Success (apavAha) @samavftta.648 *1
+
+1623. daRqaka: samavftta/caRqavfzwiprayAta (pada)
+ Success (caRqavfzwiprayAta) @samavftta.690 *1
+
+1626. daRqaka: samavftta/arRa (pada)
+ Success (arRa) @samavftta.691 *1
+
+1629. daRqaka: samavftta/pracitaka (pada)
+ Success (pracitaka) @samavftta.700 *1
+
+1635. no class: arDasamavftta/upacitra (half)
+ Success (upacitra) @arDasamavftta.720 *1
+
+1638. no class: arDasamavftta/drutamaDyA (half)
+ Success @arDasamavftta.722 *1
+ Wanted drutamaDyA but got upacitrA  @mAtrAsamaka.844 *2
+ Wanted drutamaDyA but got pAdAkulaka  @mAtrAsamaka.845 *2
+ Wanted drutamaDyA but got ApAtalikAparAntikA  @mAtrAvftta.902 *2
+
+1641. no class: arDasamavftta/vegavatI (half)
+ Success (vegavatI) @arDasamavftta.717 *1
+ Wanted vegavatI but got ApAtalikA  @mAtrAvftta.870 *1
+
+1644. no class: arDasamavftta/BadravirAj (half)
+ Success (BadravirAj) @arDasamavftta.714 *1
+ Wanted BadravirAj but got OpacCandasika  @mAtrAvftta.867 *1
+
+1647. no class: arDasamavftta/ketumatI (half)
+ Success (ketumatI) @arDasamavftta.715 *1
+
+1656. no class: arDasamavftta/hariRaplutA (half)
+ Success (hariRaplutA) @arDasamavftta.724 *1
+
+1659. no class: arDasamavftta/aparavaktra (half)
+ Success (aparavaktra) @arDasamavftta.721 *1
+ Wanted aparavaktra but got vEtAlIya  @mAtrAvftta.864 *1
+
+1662. no class: arDasamavftta/aparavaktra (half)
+ Success. Program found muralI in meterClasses.xml @arDasamavftta.716 *1. If this is replaced with alternate name aparavaktra we have a match with the test file.
+ Wanted aparavaktra but got vEtAlIya  @mAtrAvftta.864 *1
+
+1667. no class: arDasamavftta/puzpitAgrA (half)
+ Success (puzpitAgrA) @arDasamavftta.734 *1
+ Wanted puzpitAgrA but got OpacCandasika  @mAtrAvftta.867 *1
+
+1670. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+1674. no class: arDasamavftta/yavamatI (half)
+ Success. Program found parAvatI in meterClasses.xml @arDasamavftta.735 *1. If this is replaced with alternate name yavamatI we have a match with the test file.
+
+1677. no class: arDasamavftta/lalitA (half)
+ Success. Program found muralI in meterClasses.xml @arDasamavftta.716 *1. If this is replaced with alternate name lalitA we have a match with the test file.
+ Wanted lalitA but got vEtAlIya  @mAtrAvftta.864 *1
+
+1680. no class: arDasamavftta/sundarI (half)
+ Success. Program found muralI in meterClasses.xml @arDasamavftta.716 *1. If this is replaced with alternate name sundarI we have a match with the test file.
+ Wanted sundarI but got vEtAlIya  @mAtrAvftta.864 *1
+
+1685. no class: arDasamavftta/mAlaBAriRI (half)
+ Success (mAlaBAriRI) @arDasamavftta.723 *1
+ Wanted mAlaBAriRI but got OpacCandasika  @mAtrAvftta.867 *1
+
+1690. no class: arDasamavftta/OpacCandasika (half)
+ Success. Program found mAlaBAriRI in meterClasses.xml @arDasamavftta.723 *1. If this is replaced with alternate name OpacCandasika we have a match with the test file.
+ Success (OpacCandasika) @mAtrAvftta.867 *1
+
+1698. padacaturUrDva: vizamavftta/padacaturUrDva (full)
+ Success (padacaturUrDva) @vizamavftta.763 *1
+
+1708. padacaturUrDva: vizamavftta/ApIqa (full)
+ Success (ApIqa) @vizamavftta.753 *1
+ Wanted ApIqa but got padacaturUrDva  @vizamavftta.763 *1
+
+1718. padacaturUrDva: vizamavftta/kalikA (full)
+ Success (kalikA) @vizamavftta.756 *1
+
+1728. padacaturUrDva: vizamavftta/lavalI (full)
+ Success (lavalI) @vizamavftta.758 *1
+ Wanted lavalI but got AryAgIti  @mAtrAvftta.853 *1
+
+1738. padacaturUrDva: vizamavftta/amftaDArA (full)
+ Success (amftaDArA) @vizamavftta.762 *1
+
+1748. udgatA: vizamavftta/udgatA (full)
+ Success (udgatA) @vizamavftta.764 *1
+
+1758. udgatA: vizamavftta/sOraBaka (full)
+ Success (sOraBaka) @vizamavftta.765 *1
+
+1768. udgatA: vizamavftta/lalita (full)
+ Success (lalita) @vizamavftta.766 *1
+
+1778. upasTitapracupita: vizamavftta/upasTitapracupita (full)
+ Success (upasTitapracupita) @vizamavftta.769 *1
+
+1788. upasTitapracupita: vizamavftta/varDamAna (full)
+ Success (varDamAna) @vizamavftta.770 *1
+
+1798. upasTitapracupita: vizamavftta/SudDavirAqArzaBa (full)
+ Success. Program found SudDavirAqfzaBa in meterClasses.xml @vizamavftta.771 *1. If this is replaced with alternate name SudDavirAqArzaBa we have a match with the test file.
+
+1822. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+1826. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+1830. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+1834. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+1838. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+1842. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+1846. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+1850. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+1854. anuzwuB: vaktra/paTyAvaktra (full)
+ Success @vaktra.816 *2
+
+1858. prakfti: samavftta/sragDarA (full)
+ Success @samavftta.589 *4
+
+
+****2. All other tests
+
+1650. null: arDasamavftta/AKyAnakI (half)
+ Success. Program found BadrA in meterClasses.xml @upajAti.789 *1. If this is replaced with alternate name AKyAnakI we have a match with the test file.
+
+1653. null: arDasamavftta/viparItAKyAnakI (half)
+ Success. Program found haMsI in meterClasses.xml @upajAti.784 *1. If this is replaced with alternate name viparItAKyAnakI we have a match with the test file.
+
+1809. gATA: vizamavftta/gATA (full)
+ Wanted gATA but got unknown meter 

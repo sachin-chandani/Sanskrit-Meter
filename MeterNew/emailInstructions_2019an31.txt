@@ -1,0 +1,32 @@
+Download
+
+https://sanskritlibrary.org/download/TEITagger.zip
+
+
+Unzip it to create the directory TEITagger
+
+cd TEITagger
+
+Edit folders.txt to point to your folders.xml file. Mine is
+/Volumes/4TB/SanskritLibrary/data/folders.xml
+
+Then run:
+ 
+java -jar dist/TEITagger.jar -testfile=vrttaratnakaraVerses.xml >t.xxx
+
+This will send the output to the file t.xxx
+
+You should see the following in t.xxx (228 is line number in vrttaratnakaraVerses.xml)
+228. no class: mAtrAsamaka/pAdAkulaka (full)
+Success
+Keshav could not identify
+Keshav meter name: null
+
+If you want to test a particular verse (in this case the <lg> at line 4 of vrttaratnakaraVerses.xml:
+
+java -jar dist/TEITagger.jar -verse:"suKasantAnasidDy-arTaM natvA brahmAcyutArcitam .gOrIvinAyakopetaM SaMkaraM lokaSaMkaram ..1.." full
+
+
+If you see things that are wrong please let me know.
+
+Ralph

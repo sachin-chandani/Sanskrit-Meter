@@ -1,0 +1,1871 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE body SYSTEM "vrttaratnakaraVerses.dtd">
+<!-- edition refers to Vrttratnakara.pdf -->
+<!-- Apte refers to appendixAMeters.pdf -->
+<!-- vfttaratnAkara refers to KVr969_Kedarabhatta_Vrttratnakara_with_4_commentaries_SAS_18.pdf -->
+<body>
+ <div type="aDyAya" n="1">
+  <head>saMjYABiDAna</head>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="⏑⏑−−¦⏑−−−¦¦−−−−¦⏑−⏑−/−−⏑−¦⏑−−−¦¦−⏑−−¦⏑−⏑−" n="1">
+   <l>suKasantAnasidDy-arTaM natvA brahmAcyutArcitam .</l>
+   <l>gOrIvinAyakopetaM SaMkaraM lokaSaMkaram ..1..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="−−⏑−¦⏑−−−¦¦−−−−¦⏑−⏑−/−⏑−−¦⏑−−−¦¦⏑⏑−−¦⏑−⏑−" n="2">
+   <l>vedArTaSEvaSAstrajYaH pavyeko 'BUddvijottamaH .</l>
+   <l>tasya putro 'sti kedAraH SivapAdArcate rataH ..2..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="−−−⏑¦⏑−−−¦¦−⏑−⏑¦⏑−⏑−/−⏑−−¦⏑−−⏑¦¦−−−⏑¦⏑−⏑−" n="3">
+   <l>tenedaM kriyate Cando lakzyalakzaRasaMyutaM .</l>
+   <l>vfttaratnAkaraM nAma bAlAnAM suKasidDaye ..3..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="−⏑−⏑¦⏑−−−¦¦⏑−−−¦⏑−⏑−/−−−⏑¦⏑−−−¦¦−−⏑⏑¦⏑−⏑−" n="4">
+   <l>piNgalAdiBirAcAryEr-yad-uktaM lOkikaM dviDA .</l>
+   <l>mAtrAvarRaviBedena cCandas-tad-iha kaTyate ..4..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="⏑⏑−⏑¦⏑−−−¦¦−⏑−⏑¦⏑−⏑−/⏑−⏑⏑¦⏑−−−¦¦−−⏑⏑¦⏑−⏑−" n="5">
+   <l>zaqaDyAyanibadDasya cCandaso 'sya parisPuwam .</l>
+   <l>pramARam-iha vijYeyaM zaw-triMSad-aDikaM Satam ..5..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="⏑−⏑−¦⏑−−−¦¦−−⏑⏑¦⏑−⏑−/⏑−−−¦⏑−−−¦¦−−⏑⏑¦⏑−⏑−" n="6">
+   <l>myarastajaBnagErlAntEreBir-daSaBir-akzarEH .</l>
+   <l>samastaM vANmayaM vyAptaM trElokyam-iva vizRunA ..6..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="−⏑−−¦⏑−−−¦¦⏑−−⏑¦⏑−⏑−/⏑−−−¦⏑−−−¦¦⏑−−⏑¦⏑−⏑−" n="7">
+   <l>sarvagurmo muKAntarlO yarAvantagalO satO .</l>
+   <l>gmaDyAdyO jBO trilo no 'zwO Bavanty-atra guRAstrikAH ..7..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="−−−−¦⏑−−⏑¦¦⏑⏑−⏑¦⏑−⏑−/⏑−⏑−¦⏑−−−¦¦−−−⏑¦⏑−⏑−" n="8">
+   <l>jYeyAH sarvAntam-aDyAdi guravo 'tra catuz-kalAH .</l>
+   <l>gaRAS-catur-laGUpetAH paYcAryAdizu saMsTitAH ..8..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="−−−−¦⏑−−−¦¦−−−⏑¦⏑−⏑−/−−−−¦⏑−−−¦¦−−−−¦⏑−⏑−" n="9">
+   <l>sAnusvAro visargAnto dIrGo yuktaparaS-ca yaH .</l>
+   <l>vA pAdAnte tvasO gvakro jYeyo 'nyo mAtriko lfjuH ..9..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="−−−⏑¦⏑−−⏑¦¦−−−⏑¦⏑−⏑−/⏑−⏑−¦⏑−−−¦¦⏑⏑−−¦⏑−⏑−" n="10">
+   <l>pAdAdAviha varRasya saMyogaH kramasaMjYakaH .</l>
+   <l>puraH-sTitena tena syAl-laGutApi kvacid-guroH ..10..</l>
+  </lg>
+  <!-- The following verse fails to match AryA. The scan is faulty in line 2: The last syllable in the 3rd caturmAtrA "i gr" is heavy, not light. -->
+  <lg length="verse" pattern="xxxxx" class="AryA" type="AryA" ana="mAtrAvftta" scan="⏑⏑−¦−⏑⏑¦−−¦¦⏑−⏑¦−−¦⏑−⏑¦⏑⏑−¦−/−−¦⏑−⏑¦−⏑⏑¦¦−⏑⏑¦−−¦⏑¦−−¦−" n="11">
+   <l>taruRaM sarzapaSAkaM navodanaM picCilAni ca daDIni .</l>
+   <l>alpavyayena sundari grAmyajano mizwam-aSnAti ..11..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="−⏑−⏑¦⏑−−−¦¦−−−−¦⏑−⏑−/−−−−¦⏑−−−¦¦⏑−−−¦⏑−⏑−" n="12">
+   <l>abDiBUtarasAdInAM jYeyAH saMjYAstu lokataH .</l>
+   <l>jYeyaH pAdaS-caturTAMSo yatir-vicCedasaMjYitaH ..12..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="−⏑−⏑¦⏑−−−¦¦−−−−¦⏑−⏑−/⏑⏑−⏑¦⏑−−−¦¦⏑⏑−⏑¦⏑−⏑−" n="13">
+   <l>yuk-samaM vizamaM cAyuk-sTAnaM sadBir-nigadyate .</l>
+   <l>samam-arDasamaM vfttaM vizamaM ca taTAparam ..13..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="−⏑−−¦⏑−−−¦¦−⏑−⏑¦⏑−⏑−/−−−−¦⏑−−−¦¦⏑−−−¦⏑−⏑−" n="14">
+   <l>aNGrayo yasya catvAras-tulyalakzaRalakzitAH .</l>
+   <l>tac-CandaH-SAstratattvajYAH samaM vfttaM pracakzate ..14..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="⏑⏑−⏑¦⏑−−⏑¦¦⏑−−⏑¦⏑−⏑−/⏑−−−¦⏑−−−¦¦⏑−⏑⏑¦⏑−⏑−" n="15">
+   <l>praTamANGrisamo yasya tftIyaS-caraRo Bavet .</l>
+   <l>dvitIyas-turyavad-vfttaM tad-arDasamam-ucyate ..15..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="⏑−−⏑¦⏑−−⏑¦¦−⏑−−¦⏑−⏑−/⏑−−⏑¦⏑−−−¦¦−−−⏑¦⏑−⏑−" n="16">
+   <l>yasya pAdacatuzko 'pi lakzma BinnaM paras-param .</l>
+   <l>tad-Ahur-vizamaM vfttaM CandaH-SAstraviSAradAH ..16..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="−−−−¦⏑−−−¦¦−−−⏑¦⏑−⏑−/⏑−−−¦⏑−−−¦¦−−−−¦⏑−⏑−" n="17">
+   <l>AraByEkAkzarAt-pAdAdekEkAkzaravarDitEH .</l>
+   <l>pfTak-Cando Bavet-pAdEr-yAvat-zaq-viMSatiM gatam ..17..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="⏑−−−¦⏑−−⏑¦¦−⏑−⏑¦⏑−⏑−/−−−−¦⏑−−−¦¦⏑⏑−−¦⏑−⏑−" n="18">
+   <l>tad-UrDvaM caRqavfzwyAdidaRqakAH parikIrtitAH .</l>
+   <l>SezaM gATAs-triBiH zaqBiS-caraRES-copalakzitAH ..18..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="−−−−¦⏑−−−¦¦⏑−−−¦⏑−⏑−/−−−⏑¦⏑−−⏑¦¦⏑⏑−−¦⏑−⏑−" n="19">
+   <l>uktAtyuktA taTA maDyA pratizWAnyA supUrvikA .</l>
+   <l>gAyatry-uzRig-anuzwup ca bfhatI paNktir-eva ca ..19..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="−−⏑⏑¦⏑−−⏑¦¦⏑−⏑⏑¦⏑−⏑−/−⏑−−¦⏑−−−¦¦−−−−¦⏑−⏑−" n="20">
+   <l>trizwup ca jagatI cEva taTAtijagatI matA .</l>
+   <l>SakvarI sAtipUrvA syAd-azwy-atyazwI tataH smfte ..20..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="⏑−−⏑¦⏑−−⏑¦¦⏑−⏑⏑¦⏑−⏑−/⏑⏑−−¦⏑−−⏑¦¦⏑−⏑⏑¦⏑−⏑−" n="21">
+   <l>DftiS-cAtiDftiS-cEva kftiH prakftir-AkftiH .</l>
+   <l>vikftiH saNkftiS-cEva taTAtikftir-utkftiH ..21..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="−−−−¦⏑−−−¦¦⏑⏑−−¦⏑−⏑−/−⏑−−¦⏑−−−¦¦−−−−¦⏑−⏑−" n="22">
+   <l>ity-uktAS-CandasAM saMjYAH kramaSo vacmi sAMpratam .</l>
+   <l>lakzaRaM sarvavfttAnAM mAtrAvfttAnupUrvakam ..22..</l>
+  </lg>
+ </div><!-- aDyAya 1 -->
+ <div type="aDyAya" n="2">
+  <head>mAtrAvftta</head>
+  <lg length="verse" pattern="J4J4JhJg*J4J4JlJg*" class="AryA" type="AryA" ana="mAtrAvftta" scan="−−¦−−¦⏑⏑−¦¦−−¦−⏑⏑¦⏑−⏑¦⏑⏑−¦−/−−¦−⏑⏑¦−−¦¦⏑⏑−¦−⏑⏑¦⏑¦−−¦−" n="23">
+   <l>lakzmEtat-sapta gaRA gopetA Bavati neha vizame jaH .</l>
+   <l>zazWo 'yaM nalaGU vA praTame 'rDe niyatam-AryAyAH ..23..</l>
+  </lg>
+  <lg length="verse" pattern="xxxxx" class="AryA" type="AryA" ana="mAtrAvftta" scan="−−¦⏑−⏑¦−⏑⏑¦−,−¦⏑⏑−¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦−/⏑⏑−¦−−¦⏑⏑−¦¦−−¦⏑⏑⏑⏑¦⏑¦−−¦−" n="24">
+   <l>zazTe dvitIyalAt-parake 'nle muKalAc-ca sayatipadaniyamaH .</l>
+   <l>carame 'rDe paYcamake tasmAd-iha Bavati zazWo laH ..24..</l>
+  </lg>
+  <!-- When the caesura is after the 12th mAtrA, three caturmAtrAs, it is paTyA; when after more than the 12th vipulA -->
+  <lg length="verse" pattern="xxxxx" class="AryA" type="AryA" altName="paTyA" ana="mAtrAvftta" scan="−−¦⏑−⏑¦−−¦¦⏑⏑−¦−−¦⏑−⏑¦−−¦−/−−¦⏑−⏑¦−−¦¦⏑−⏑¦−−¦⏑¦−−¦−" n="25">
+   <l>trizvaMSakezu pAdo dalayor-Adyezu dfSyate yasyAH .</l>
+   <l>paTyeti nAma tasyAH prakIrtitaM nAgarAjena ..25..</l>
+  </lg>
+  <!-- The last foot differs in the vfttaratnAkara as follows: -->
+  <lg length="verse" pattern="xxxxx" class="AryA" type="AryA" altName="paTyA" ana="mAtrAvftta" scan="−−¦⏑−⏑¦−−¦¦⏑⏑−¦−−¦⏑−⏑¦−−¦−/−−¦⏑−⏑¦−−¦¦-−¦−−¦⏑¦−−¦−" n="25b">
+   <l>trizvaMSakezu pAdo dalayor-Adyezu dfSyate yasyAH .</l>
+   <l>paTyeti nAma tasyAH CandovidBiH samAKyAtam ..</l>
+  </lg>
+  <!-- tAtparyawIkA -->
+  <!-- paTyA in the first half, vipulA in the second half is muKapaTyA -->
+  <!-- vipulA in the first half, paTyA in the second half is jaGanapaTyA -->
+  <!-- sukavihfdayAnandinI -->
+  <lg length="verse" pattern="xxxxx" class="AryA" type="AryA" altName="paTyA" ana="mAtrAvftta" scan="−⏑⏑¦−-¦−⏑⏑¦¦-⏑⏑¦⏑⏑−¦⏑−⏑¦−−¦−/−−¦⏑−⏑¦⏑⏑−¦¦-−¦−⏑⏑¦⏑¦⏑⏑−¦−" n="25c">
+   <l>ujJitanepaTyAlakam ujJitatilakAYjanaM yadeRAkzyAH .</l>
+   <l>tasyAH smarAmi virahaprAramBe vadanamatiramyam ..</l>
+  </lg>
+  <!-- Candovftti -->
+  <lg length="verse" pattern="xxxxx" class="AryA" type="AryA" altName="paTyA" ana="mAtrAvftta" scan="−-¦−⏑⏑¦−⏑⏑¦¦--¦⏑⏑−¦⏑−⏑¦−−¦−/−⏑⏑¦−⏑⏑¦-−¦¦-⏑⏑¦−-¦⏑¦-⏑⏑¦−" n="25d">
+   <l>nepaTyAni nirasyati saMtrasyati mattakokilAnAdAt .</l>
+   <l>nindati cendumayUKAMstvadvirahe naH saKI suBaga ..</l>
+  </lg>
+  <!-- paYcikA wants the caesura in the second half as well -->
+  <lg length="verse" pattern="xxxxx" class="AryA" type="AryA" altName="paTyA" ana="mAtrAvftta" scan="⏑⏑-¦⏑-⏑¦−-¦¦--¦-−¦⏑−⏑¦−−¦−/−⏑⏑¦−⏑⏑¦-−¦¦⏑-⏑¦−-¦⏑¦--¦−" n="25e">
+   <l>matimAn sa DarmavettA netA lokasya yaH samastasya .</l>
+   <l>BUpaparAkramabAhuH sadEza saMpAti dozajYAn ..</l>
+  </lg>
+  <!-- If the caesura in both halves occurs after three caturmAtrAs then it is vipulA, uBayavipulA, or mahAvipulA -->
+  <lg length="verse" pattern="xxxxx" class="AryA" type="AryA" altName="vipulA" ana="mAtrAvftta" scan="−−¦⏑⏑−¦⏑⏑−¦⏑−,⏑¦⏑⏑−¦⏑−⏑¦⏑⏑−¦−/−−¦−−¦⏑⏑−¦−,⏑⏑¦−⏑⏑¦⏑¦−−¦−" n="26">
+   <l>ullaNGya gaRatrayam-AdimaM Sakalayor-dvayor-Bavati pAdaH .</l>
+   <l>yasyAstAM {p}iMgalanAgo vipulAm-iti samAKyAti ..26..</l>
+  </lg>
+  <!-- sukavihfdayAnandinI -->
+  <lg length="verse" pattern="xxxxx" class="AryA" type="AryA" altName="uBayavipulA" ana="mAtrAvftta" scan="⏑⏑⏑⏑¦⏑−⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦¦⏑⏑−¦⏑−⏑¦-−¦−/−⏑⏑¦⏑⏑⏑⏑¦-−¦−-¦¦⏑⏑-¦⏑¦−⏑⏑¦−" n="26b">
+   <l>mama Kalu na yAti nayanayugamacalamanimezi paSyatastfptim .</l>
+   <l>trastamfgaSiSudfSastanvaNgyAH jaGanasTalIM vipulAm ..</l>
+  </lg>
+  <lg length="verse" pattern="xxxxx" class="AryA" type="AryA" altName="AdivipulA" ana="mAtrAvftta" scan="⏑⏑-¦−⏑⏑¦⏑⏑-¦--¦¦⏑⏑−¦⏑−⏑¦⏑⏑−¦−/⏑⏑-¦⏑-⏑¦-−¦¦⏑⏑⏑⏑¦⏑⏑-¦⏑¦−-¦−" n="26c">
+   <l>pramadAnAM jayati kawAkzo 'yaM niSitasPuratsmaraSarABaH .</l>
+   <l>hfdayasTitAnurAgaprakawanapawutAM daDat svEram ..</l>
+  </lg>
+  <lg length="verse" pattern="xxxxx" class="AryA" type="AryA" altName="antyavipulA" ana="mAtrAvftta" scan="--¦−⏑⏑¦⏑⏑⏑⏑¦¦--¦-−¦⏑−⏑¦-−¦−/−⏑⏑¦⏑⏑⏑⏑¦-−¦−⏑⏑¦¦--¦⏑¦⏑⏑-¦−" n="26d">
+   <l>prItiM kasya na janayati kurvantI keSabanDanaM nArI .</l>
+   <l>darSitaBujayugamUlAlaNkftiBUtArdranaKapaNktiH ..</l>
+  </lg>
+  <!-- Candovftti -->
+  <lg length="verse" pattern="xxxxx" class="AryA" type="AryA" altName="muKavipulA" ana="mAtrAvftta" scan="⏑⏑⏑⏑¦−-¦--¦⏑,⏑-¦-−¦⏑−⏑¦-−¦−/−-¦--¦--¦¦⏑−⏑¦--¦⏑¦--¦−" n="26e">
+   <l>muKavipulAH paryante tu laGIyAMso Bavanti nIcAnAm .</l>
+   <l>varzAsu grAmARAM pravAhavegA iva snehAH ..</l>
+  </lg>
+  <lg length="verse" pattern="xxxxx" class="AryA" type="AryA" altName="jaGanavipulA" ana="mAtrAvftta" scan="--¦−-¦⏑⏑⏑⏑¦¦--¦⏑⏑⏑⏑¦⏑−⏑¦-⏑⏑¦−/−⏑⏑¦-⏑⏑¦⏑⏑−¦⏑,−⏑¦-⏑⏑¦⏑¦--¦−" n="26f">
+   <l>nABInimnA kucatawatuNgA jaGanavipulATa maDyakfSA .</l>
+   <l>BrUkuwilASayasaralA ca mAnasaM harati sA bAlA ..</l>
+  </lg>
+  <lg length="verse" pattern="xxxxx" class="AryA" type="AryA" altName="mahAvipulA" ana="mAtrAvftta" scan="--¦−-¦⏑⏑-¦⏑-⏑¦¦-−¦⏑−⏑¦-−¦−/⏑⏑⏑⏑¦⏑⏑-¦⏑⏑−¦⏑-⏑¦¦--¦⏑¦-⏑⏑¦−" n="26g">
+   <l>SastrAByAse rativallaBasya manye KalUrikA ramyA .</l>
+   <l>tava kamaladalAkzi nitambaBUmirezA mahAvipulA ..</l>
+  </lg>
+  <!-- paYcikA -->
+  <lg length="verse" pattern="xxxxx" class="AryA" type="AryA" altName="antyavipulA" ana="mAtrAvftta" scan="⏑⏑⏑⏑¦−⏑⏑¦⏑⏑-¦⏑-,⏑¦⏑⏑−¦⏑−⏑¦⏑⏑−¦−/−-¦⏑-⏑¦⏑⏑−¦−,⏑⏑¦-⏑⏑¦⏑¦⏑⏑-¦−" n="26e">
+   <l>vijayiparAkramaBujaBUmipaM Bajati vErivIrakamale 'yam .</l>
+   <l>tezAM ca nItivanitABiH saha saNgamayati sa dfzwvA ..</l>
+  </lg>
+  <lg length="verse" pattern="SjGjbhJg*SjGjblJg*" class="AryA" type="capalA" ana="mAtrAvftta" scan="⏑⏑−¦⏑−⏑¦−−¦¦⏑−⏑¦−−¦⏑−⏑¦−−¦−/⏑⏑−¦⏑−⏑¦−−¦¦⏑−⏑¦−−¦⏑¦−−¦−" n="27">
+   <l>uBayArDayor-jakArO dvitIyaturyO gamaDyagO yasyAH .</l>
+   <l>capaleti nAma tasyAH prakIrtitaM nAgarAjena ..27..</l>
+  </lg>
+  <lg length="verse" pattern="xxxxx" class="AryA" type="muKacapalA" ana="mAtrAvftta" scan="−−¦⏑−⏑¦−−¦¦⏑−⏑¦−⏑⏑¦⏑−⏑¦−−¦−/−−¦−⏑⏑¦−−¦¦⏑⏑⏑⏑¦−−¦⏑¦−⏑⏑¦−" n="28">
+   <l>AdyaM dalaM samastaM Bajeta lakzma capalAgataM yasyAH .</l>
+   <l>Seze pUrvajalakzmA muKacapalA soditA muninA ..28..</l>
+  </lg>
+  <lg length="verse" pattern="xxxxx" class="AryA" type="jaGanacapalA" ana="mAtrAvftta" scan="−⏑⏑¦−⏑⏑¦−−¦¦⏑⏑−¦⏑⏑−¦⏑−⏑¦⏑⏑−¦−/−−¦⏑−⏑¦−−¦¦⏑−⏑¦−−¦⏑¦⏑⏑⏑⏑¦−" n="29">
+   <l>prAkpratipAditam-arDe praTame praTametare tu capalAyAH .</l>
+   <l>lakzmASrayeta soktA viSudDaDIBir-jaGanacapalA ..29..</l>
+  </lg>
+  <lg length="verse" pattern="xxxxx" class="gIti" type="gIti" ana="mAtrAvftta" scan="−−¦⏑⏑⏑⏑¦−−¦¦⏑⏑⏑⏑¦⏑⏑−¦⏑−⏑¦−⏑⏑¦−/⏑⏑−¦⏑⏑⏑⏑¦−−¦¦−−¦−−¦⏑−⏑¦−−¦−" n="30">
+   <l>AryApraTamadaloktaM yadi kaTam-api lakzaRaM Baved-uBayoH .</l>
+   <l>dalayoH kftayatiSoBAM tAM gItiM gItavAnBujaNgeSaH ..30..</l>
+  </lg>
+  <lg length="verse" pattern="xxxxx" class="gIti" type="upagIti" ana="mAtrAvftta" scan="−−¦⏑−⏑¦−−¦¦−⏑⏑¦−−¦⏑¦−−¦−/−⏑⏑¦−⏑⏑¦⏑⏑−¦⏑⏑−¦−−¦⏑¦−−¦−" n="31">
+   <l>AryAdvitIyake 'rDe yad-gaditaM lakzaRaM tat-syAt .</l>
+   <l>yady-uBayor-api dalayor-upagItiM tAM munir-brUte ..31..</l>
+  </lg>
+  <lg length="verse" pattern="xxxxx" class="gIti" type="udgIti" ana="mAtrAvftta" scan="−−¦⏑⏑−¦⏑⏑−¦¦−⏑⏑¦⏑⏑−¦⏑¦−−¦−/−−¦−⏑⏑¦⏑⏑−¦¦−−¦−−¦⏑−⏑¦−−¦−" n="32">
+   <l>AryASakaladvitayaM vyatyayaracitaM Baved-yasyAH .</l>
+   <l>sodgItiH kila gaditA tadvadyatyaMSaBedasaMyuktA ..32..</l>
+  </lg>
+  <lg length="verse" pattern="xxxxx" class="gIti" type="AryAgIti" ana="mAtrAvftta" scan="−−¦−−¦−⏑⏑¦¦⏑⏑−¦−−¦⏑−⏑¦⏑⏑−¦−−/⏑⏑−¦−−¦⏑⏑−¦¦⏑−⏑¦−⏑⏑¦⏑−⏑¦−−¦−−" n="33">
+   <l>AryApUrvArDaM yadi guruREkenADikena niDane yuktam .</l>
+   <l>itarattadvanniKilaM dalaM yadIyam-uditeyam-AryAgItiH ..33..</l>
+  </lg>
+  <lg length="verse" pattern="Zrlg*Arlg*Zrlg*Arlg*" class="vEtAlIya" type="vEtAlIya" ana="mAtrAvftta" scan="−⏑⏑−¦−⏑−⏑−¦¦−⏑⏑−−¦−⏑−⏑−/⏑⏑−⏑⏑¦−⏑−⏑−¦¦−−−−¦−⏑−⏑−" n="34">
+   <l>zaq-vizame 'zwO same kalAs-tAS-ca same syurno nirantarAH .</l>
+   <l>na samAtra parASritA kalA vEtAlIye 'nte ralO guruH ..34..</l>
+  </lg>
+  <!-- Additional examples from the vfttaratnAkara with 4 commentaries -->
+  <!-- tAtparyawIkA -->
+  <lg length="verse" pattern="Zrlg*Zrlg*Zrlg*Zrlg*" class="vEtAlIya" type="vizamavEtAlIya" ana="mAtrAvftta" scan="−⏑⏑−¦−⏑−⏑−¦¦−−⏑⏑¦−⏑−⏑−/⏑⏑⏑⏑−¦−⏑−⏑−¦¦−⏑⏑−¦−⏑−⏑−" n="34a">
+   <l>bimbayugaM BAnucandrayorastodayaBUDarAnugam .</l>
+   <l>gaganayuvatyA ivekzyate kuNkumaraktaM stanadvayam ..</l>
+  </lg>
+  <!-- tAtparyawIkA -->
+  <lg length="verse" pattern="Arlg*Arlg*Arlg*Arlg*" class="vEtAlIya" type="samavEtAlIya" ana="mAtrAvftta" scan="⏑⏑−−⏑⏑¦−⏑−⏑−¦¦⏑⏑−−⏑⏑¦−⏑−⏑−/⏑⏑−−⏑⏑¦−⏑−⏑−¦¦−−−⏑⏑¦−⏑−⏑−" n="34b">
+   <l>udayAgrasTitaBAnuraSmayo rajanIDvAntavinASakAriRaH .</l>
+   <l>satataM vikramaBogaSoBino BUyAsustava BUtihetavaH ..</l>
+  </lg>
+  <!-- sukavihfdayAnandinI -->
+  <lg length="verse" pattern="Zrlg*Arlg*Zrlg*Arlg*" class="vEtAlIya" type="vEtAlIya" ana="mAtrAvftta" scan="⏑⏑−⏑⏑¦−⏑−⏑−¦¦⏑⏑−−⏑⏑¦−⏑−⏑−/⏑⏑−⏑⏑¦−⏑−⏑−¦¦−−−⏑⏑¦−⏑−⏑−" n="34d">
+   <l>pralapatyaniSaM nirargalA suparityaktaviBUzaRAMSukA .</l>
+   <l>virahe tava sA varANganA vEtAlIyamuvAha viBramam ..</l>
+  </lg>
+  <!-- Candovftti -->
+  <lg length="verse" pattern="Zrlg*Arlg*Zrlg*Arlg*" class="vEtAlIya" type="vEtAlIya" ana="mAtrAvftta" scan="⏑⏑−⏑⏑¦−⏑−⏑−¦¦⏑⏑−−⏑⏑¦−⏑−⏑−/⏑⏑−⏑⏑¦−⏑−⏑−¦¦−−−⏑⏑¦−⏑−⏑−" n="34e">
+   <l>aTavA BavadIyavEriRAmawavIkowaracAriRAM nfpa .</l>
+   <l>pratiBAti tfzAnDacetasAM vEtAlIyarasaH suDopamaH ..</l>
+  </lg>
+  <!-- paycakA -->
+  <lg length="verse" pattern="Zrlg*Arlg*Zrlg*Arlg*" class="vEtAlIya" type="vEtAlIya" ana="mAtrAvftta" scan="−⏑⏑⏑⏑¦−⏑−⏑−¦¦−⏑⏑−−¦−⏑−⏑−/⏑⏑−⏑⏑¦−⏑−⏑−¦¦−−−⏑⏑¦−⏑−⏑−" n="34f">
+   <l>tizWati navaratnanAyake tena kftArTAH paRqitA narAH .</l>
+   <l>amaradrumakowiBiSca kiM tABirvA kimu kAmaDenuBiH ..</l>
+  </lg>
+  <lg length="half" pattern="Zry*Ary*" class="vEtAlIya" type="OpacCandasika" ana="mAtrAvftta" scan="−−−¦−⏑−⏑−−¦¦−−−⏑⏑¦−⏑−⏑−−" n="35">
+   <l>paryante ryO taTEva Sezam OpacCandasikaM suDIBir-uktam ..35..</l>
+  </lg>
+  <!-- Additional examples from the vfttaratnAkara with 4 commentaries -->
+  <!-- tAtparyawIkA -->
+  <lg length="verse" pattern="Zry*Zry*Zry*Zry*" class="vEtAlIya" type="vizamOpacCandasika" ana="mAtrAvftta" scan="⏑⏑−⏑⏑¦−⏑−⏑−−¦¦⏑⏑−⏑⏑¦−⏑−⏑−−/⏑⏑−⏑⏑¦−⏑−⏑−−¦¦⏑⏑−⏑⏑¦−⏑−⏑−−" n="35a">
+   <l>pramadAH parivartitAbjanetrAH saruzaH sPuritozWabanDujIvAH .</l>
+   <l>parivartya Siro manAg jaganti BramitANgulayaSciraM jayanti ..</l>
+  </lg>
+  <!-- tAtparyawIkA -->
+  <lg length="verse" pattern="Ary*Ary*Ary*Ary*" class="vEtAlIya" type="samOpacCandasika" ana="mAtrAvftta" scan="−−−⏑⏑¦−⏑−⏑−−¦¦−−−⏑⏑¦−⏑−⏑−−/−−−⏑⏑¦−⏑−⏑−−¦¦−−−⏑⏑¦−⏑−⏑−−" n="35b">
+   <l>saMtrAsaglapitekzaRotpalABirdevAnAM kzaRamIkzito 'NganABiH .</l>
+   <l>yo 'rakzaccamaraM mahendraBIteH SrIvIraH sa BavAd BavantamavyAt ..</l>
+  </lg>
+  <!-- sukavihfdayAnandinI -->
+  <lg length="verse" pattern="Zry*Ary*Zry*Ary*" class="vEtAlIya" type="OpacCandasika" ana="mAtrAvftta" scan="⏑⏑−⏑⏑¦−⏑−⏑−−¦¦−−−⏑⏑¦−⏑−⏑−−/⏑⏑−⏑⏑¦−⏑−⏑−−¦¦−−−⏑⏑¦−⏑−⏑−−" n="35c">
+   <l>bahuvipriyakArakaM parokze pratyakze bahucAwukAradakzam .</l>
+   <l>SaWavittamimaM drutaM vayasye OzacCandasikaM vimuYca kAntam ..</l>
+  </lg>
+  <!-- Candovftti -->
+  <lg length="verse" pattern="Zry*Ary*Zry*Ary*" class="vEtAlIya" type="OpacCandasika" ana="mAtrAvftta" scan="−−⏑⏑¦−⏑−⏑−−¦¦⏑⏑−−⏑⏑¦−⏑−⏑−−/⏑⏑−⏑⏑¦−⏑−⏑−−¦¦−−−⏑⏑¦−⏑−⏑−−" n="35d">
+   <l>kIrtistava vallaBA trilokImaKilAM paryawatIti yat pravfdDAH .</l>
+   <l>kavayaH kaTayanti satyametannOpacCandasikA Bavanti santaH ..</l>
+  </lg>
+  <lg length="half" pattern="ZBgg*ABgg*" class="vEtAlIya" type="ApAtalikA" ana="mAtrAvftta" scan="−−⏑⏑¦−⏑⏑−−¦¦−⏑⏑−⏑⏑¦−⏑⏑−−" n="36">
+   <l>ApAtalikA kaTite 'yaM BAd-gurukAvaTa pUrvavad-anyat ..36..</l>
+  </lg>
+  <!-- tAtparyawIkA -->
+  <lg length="verse" pattern="ZBgg*ZBgg*ZBgg*ZBgg*" class="vEtAlIya" type="vizamApAtalikA" ana="mAtrAvftta" scan="−⏑⏑−¦−⏑⏑−−¦¦−−⏑⏑¦−⏑⏑−−/⏑⏑−⏑⏑¦−⏑⏑−−¦¦⏑⏑−⏑⏑¦−⏑⏑−−" n="36a">
+   <l>yacCata vittaM tadanityaM Darmo mftamapyanuyAti .</l>
+   <l>guRitAM BajatAsTiramAyurna guRAScalatAmupayAnti ..</l>
+  </lg>
+  <!-- tAtparyawIkA -->
+  <lg length="verse" pattern="ABgg*ABgg*ABgg*ABgg*" class="vEtAlIya" type="samApAtalikA" ana="mAtrAvftta" scan="−−−−¦−⏑⏑−−¦¦−⏑⏑−⏑⏑¦−⏑⏑−−/−−⏑⏑−¦−⏑⏑−−¦¦−−−−¦−⏑⏑−−" n="36b">
+   <l>candrABAsyAH paNkajanetryaH pInapayoDaraBAranatANgyaH .</l>
+   <l>kuryuH puruzaM kAmaparItaM lIlAvatyaH kaM na taruRyaH ..</l>
+  </lg>
+  <!-- sukavihfdayAnandinI -->
+  <lg length="verse" pattern="ZBgg*ABgg*ZBgg*ABgg*" class="vEtAlIya" type="ApAtalikA" ana="mAtrAvftta" scan="⏑⏑−⏑⏑¦−⏑⏑−−¦¦−⏑⏑−⏑⏑¦−⏑⏑−−/⏑⏑−⏑⏑¦−⏑⏑−−¦¦−−⏑⏑−¦−⏑⏑−−" n="36c">
+   <l>naranATa BavantamarIRAM nASakaraM prasamIkzya purastAt .</l>
+   <l>ripavo jahati sma BayArtA ApAtalikAM saNgaraBUmim ..</l>
+  </lg>
+  <!-- sukavihfdayAnandinI from piNgalavftti emending kulezu to kulasTA -->
+  <lg length="verse" pattern="ZBgg*ABgg*ZBgg*ABgg*" class="vEtAlIya" type="ApAtalikA" ana="mAtrAvftta" scan="−⏑⏑−¦−⏑⏑−−¦¦−−−⏑⏑¦−⏑⏑−−/−−⏑⏑¦−⏑⏑−−¦¦⏑⏑⏑⏑−−¦−⏑⏑−−" n="36d">
+   <l>piNgalakeSI kapilAkzI vAcAwA vikawonnatadantI .</l>
+   <l>ApAtalikA punarekA nfpatikulasTA BAgyamupEti ..</l>
+  </lg>
+  <!-- Candovftti -->
+  <lg length="verse" pattern="ZBgg*ABgg*ZBgg*ABgg*" class="vEtAlIya" type="ApAtalikA" ana="mAtrAvftta" scan="−−⏑⏑¦−⏑⏑−−¦¦⏑⏑−−⏑⏑¦−⏑⏑−−/⏑⏑−−¦−⏑⏑−−¦¦−⏑⏑−−¦−⏑⏑−−" n="36e">
+   <l>ApAtalikA bata sampat kzaRikaM jIvitamapyasuBAjAm .</l>
+   <l>iti matvA niScayapUrvaM SASvatikArTe yatnamupADvam ..</l>
+  </lg>
+  <!-- paYcikA emending badDisatAM yam to budDimatAM yaH -->
+  <lg length="verse" pattern="ZBgg*ABgg*ZBgg*ABgg*" class="vEtAlIya" type="ApAtalikA" ana="mAtrAvftta" scan="−−⏑⏑¦−⏑⏑−−¦¦−−−−¦−⏑⏑−−/⏑⏑⏑⏑−¦−⏑⏑−−¦¦⏑⏑−⏑⏑−¦−⏑⏑−−" n="36f">
+   <l>SrImAn sa parAkramabAhurBAsvadvarRo budDimatAM yaH .</l>
+   <l>guRanivahA yasya munInAmapi vAgvizayaM nEva vahanti ..</l>
+  </lg>
+  <lg length="half" pattern="jDrlg*jDDrlg*" class="vEtAlIya" type="vEtAlIyadakziRAntikA" ana="mAtrAvftta" scan="⏑−⏑−¦−⏑−⏑−¦¦⏑−⏑−−¦−⏑−⏑−" n="37">
+   <l>tftIyayug-dakziRAntikA samastapAdezu dvitIyalaH ..37..</l>
+  </lg>
+  <!-- tAtparyawIkA -->
+  <lg length="verse" pattern="jDry*jDDry*jDry*jDDry*" class="vEtAlIya" type="OpacCandasikadakziRAntikA" ana="mAtrAvftta" scan="⏑−⏑−¦−⏑−⏑−−¦¦⏑−⏑−−¦−⏑−⏑−−/⏑−⏑−¦−⏑−⏑−−¦¦⏑−⏑−−¦−⏑−⏑−−" n="37a">
+   <l>stuve hariM lokapUjitANGriM ramAmuKAlokEH prahfzwacittam .</l>
+   <l>PaRISaSayyAniveSitANgaM sitAbjamAlA BUzaRena yuktam ..</l>
+  </lg>
+  <!-- tAtparyawIkA change I to i in vahnI and supply tripra for missing −⏑ -->
+  <lg length="verse" pattern="jDBgg*jDDBgg*jDBgg*jDDBgg*" class="vEtAlIya" type="ApAtalikAdakziRAntikA" ana="mAtrAvftta" scan="⏑−⏑−¦−⏑⏑−−¦¦⏑−⏑−−¦−⏑⏑−−/⏑−⏑−¦−⏑⏑−−¦¦⏑−⏑−−¦−⏑⏑−−" n="37b">
+   <l>jayanti SamBornayanAni ravInduvahnitripramayAni .</l>
+   <l>himAdrijAdarSanaharze praPullarAjIvEH sadfSAni ..</l>
+  </lg>
+  <!-- sukavihfdayAnandinI -->
+  <lg length="verse" pattern="jDrlg*jDDrlg*jDrlg*jDDrlg*" class="vEtAlIya" type="vEtAlIyadakziRAntikA" ana="mAtrAvftta" scan="⏑−⏑−¦−⏑−⏑−¦¦⏑−⏑−−¦−⏑−⏑−/⏑−⏑−¦−⏑−⏑−¦¦⏑−⏑−−¦−⏑−⏑−" n="37c">
+   <l>vavO maruddakziRAntiko viyoginIprARApahArakaH .</l>
+   <l>prakampitASokacampako vasanta ezo 'naNgabAnDavaH ..</l>
+  </lg>
+  <!-- Candovftti -->
+  <lg length="verse" pattern="jDrlg*jDDrlg*jDrlg*jDDrlg*" class="vEtAlIya" type="vEtAlIyadakziRAntikA" ana="mAtrAvftta" scan="⏑−⏑−¦−⏑−⏑−¦¦⏑−⏑−⏑⏑¦−⏑−⏑−/⏑−⏑−¦−⏑−⏑−¦¦⏑−⏑⏑⏑−¦−⏑−⏑−" n="37d">
+   <l>tuzArasamBAravedanABiyEva hEmavatIM tyajan diSam .</l>
+   <l>mayUKavAneza samprati prayAti saraRiM dakziRAntikAm ..</l>
+  </lg>
+  <!-- paYcikA -->
+  <lg length="verse" pattern="jDrlg*jDDrlg*jDrlg*jDDrlg*" class="vEtAlIya" type="vEtAlIyadakziRAntikA" ana="mAtrAvftta" scan="⏑−⏑−¦−⏑−⏑−¦¦⏑−⏑−−¦−⏑−⏑−/⏑−⏑−¦−⏑−⏑−¦¦⏑−⏑−−¦−⏑−⏑−" n="37e">
+   <l>mahIBujAM SrezWa ityasO nigadyate tErnItivediBiH .</l>
+   <l>Srutena SIlena saMyutEstaTEva laNkAlocano nfpaH ..</l>
+  </lg>
+  <lg length="half" pattern="jDrlg*Arlg*" class="vEtAlIya" type="vEtAlIyodicyavftti" ana="mAtrAvftta" scan="⏑−⏑−¦−⏑−⏑−¦¦−−−⏑⏑¦−⏑−⏑−" n="38">
+   <l>udicyavfttir-dvitIyalaH sakto 'greRa Baved-ayugmayoH ..38..</l>
+  </lg>
+  <!-- sukavihfdayAnandinI In pAda d supply sUryo -->
+  <lg length="verse" pattern="jDrlg*Arlg*jDrlg*Arlg*" class="vEtAlIya" type="vEtAlIyodicyavftti" ana="mAtrAvftta" scan="⏑−⏑−¦−⏑−⏑−¦¦⏑⏑−−⏑⏑¦−⏑−⏑−/⏑−⏑−¦−⏑−⏑−¦¦⏑⏑−−−¦−⏑−⏑−" n="38a">
+   <l>giraM manojYAM pikANganA muditA svit svayamudgiratyasO .</l>
+   <l>udIcyavfttirdivAkaraH sahakAraH sUryo 'pi maYjarIm ..</l>
+  </lg>
+  <!-- Candovftti -->
+  <lg length="verse" pattern="jDrlg*Arlg*jDrlg*Arlg*" class="vEtAlIya" type="vEtAlIyodicyavftti" ana="mAtrAvftta" scan="⏑−⏑−¦−⏑−⏑−¦¦⏑⏑−−⏑⏑¦−⏑−⏑−/⏑−⏑⏑⏑¦−⏑−⏑−¦¦⏑⏑−−⏑⏑¦−⏑−⏑−" n="38b">
+   <l>vivasvatodIcyavfttinA marutA dakziRavfttinA taTA .</l>
+   <l>jano 'yamiha jAyate maDO yugapattApatuzAraBAjanam ..</l>
+  </lg>
+  <!-- Candovftti -->
+  <lg length="verse" pattern="jDBgg*ABgg*jDBgg*ABgg*" class="vEtAlIya" type="ApAtalikodicyavftti" ana="mAtrAvftta" scan="⏑−⏑⏑⏑¦−⏑⏑−−¦¦−⏑⏑−⏑⏑¦−⏑⏑−−/⏑−⏑⏑⏑¦−⏑⏑−−¦¦−⏑⏑−⏑⏑¦−⏑⏑−−" n="38c">
+   <l>vinamrasuraratnakirIwaraSmivimiSritapAdanaKAMSUH .</l>
+   <l>agADakaruRArasasinDuH pAtu sa vaScaramo jinanATaH ..</l>
+  </lg>
+  <!-- Candovftti -->
+  <lg length="verse" pattern="jDry*Ary*jDry*Ary*" class="vEtAlIya" type="OpacCandasikodicyavftti" ana="mAtrAvftta" scan="⏑−⏑⏑⏑¦−⏑−⏑−−¦¦⏑⏑−−⏑⏑¦−⏑−⏑−−/⏑−⏑⏑⏑¦−⏑−⏑−−¦¦⏑⏑−−⏑⏑¦−⏑−⏑−−" n="38d">
+   <l>BavadguRakaTASruteramarzAd daSanErozWamaKaRqayan nfpA ye .</l>
+   <l>mahISa yuDi cewacihnamete vidaDatyaNguliKaRqanaM tvadagre ..</l>
+  </lg>
+  <!-- paYcikA -->
+  <lg length="verse" pattern="jDrlg*Arlg*jDrlg*Arlg*" class="vEtAlIya" type="vEtAlIyodicyavftti" ana="mAtrAvftta" scan="⏑−⏑−¦−⏑−⏑−¦¦⏑⏑⏑⏑−⏑⏑¦−⏑−⏑−/⏑−⏑−¦−⏑−⏑−¦¦−−−⏑⏑¦−⏑−⏑−" n="38e">
+   <l>guRAH prakurvanti dUtatAM jagati parAkramabAhuBUpateH .</l>
+   <l>kaTaM samAyAnti tanna cen nAnAdvIpanivAsino janAH ..</l>
+  </lg>
+  <lg length="half" pattern="Zrlg*DjDrlg*" class="vEtAlIya" type="vEtAlIyaprAcyavftti" ana="mAtrAvftta" scan="−−⏑⏑¦−⏑−⏑−¦¦−⏑−⏑⏑⏑¦−⏑−⏑−" n="39">
+   <l>pUrveRa yuto 'Ta paYcamaH prAcyavfttir-uditeti yugmayoH ..39..</l>
+  </lg>
+  <!-- tAtparyawIkA -->
+  <lg length="verse" pattern="Zry*DjDry*Zry*DjDry*" class="vEtAlIya" type="OpacCandasikaprAcyavftti" ana="mAtrAvftta" scan="⏑⏑−⏑⏑¦−⏑−⏑−−¦¦−⏑−⏑⏑⏑¦−⏑−⏑−−/⏑⏑⏑⏑⏑⏑¦−⏑−⏑−−¦¦−⏑−⏑⏑⏑¦−⏑−⏑−−" n="39a">
+   <l>praRatAvanipAlamOlimAlApUjitANGrikamaladvayAvanISa .</l>
+   <l>tava SaSikiraRAvadAtametat SuklayatyatitarAM yaSo daSASAH ..</l>
+  </lg>
+  <!-- tAtparyawIkA -->
+  <lg length="verse" pattern="ZBgg*DjDBgg*ZBgg*DjDBgg*" class="vEtAlIya" type="ApAtalikAprAcyavftti" ana="mAtrAvftta" scan="⏑⏑⏑⏑−¦−⏑⏑−−¦¦⏑⏑⏑−⏑⏑⏑¦−⏑⏑−−/⏑⏑⏑⏑−¦−⏑⏑−−¦¦−⏑−⏑−¦−⏑⏑−−" n="39b">
+   <l>divasakaro lohitabimba udayaBUDaraSiromaRirezaH .</l>
+   <l>pravihatadozo divi BAti spfzwapadminIkaH karajAlEH ..</l>
+  </lg>
+  <!-- sukavihfdayAnandinI -->
+  <lg length="verse" pattern="Zrlg*DjDrlg*Zrlg*DjDrlg*" class="vEtAlIya" type="vEtAlIyaprAcyavftti" ana="mAtrAvftta" scan="⏑⏑−⏑⏑¦−⏑−⏑−¦¦−⏑−⏑⏑⏑¦−⏑−⏑−/⏑⏑−⏑⏑¦−⏑−⏑−¦¦−⏑−⏑⏑⏑¦−⏑−⏑−" n="39c">
+   <l>svaguREranuraYjitaprajaH prAcyavfttiparipAlane rataH .</l>
+   <l>raRaBUmizu BImavikramo vinDyavarmanfpatirjayatyasO ..</l>
+  </lg>
+  <!-- Candovftti -->
+  <lg length="verse" pattern="Zrlg*DjDrlg*Zrlg*DjDrlg*" class="vEtAlIya" type="vEtAlIyaprAcyavftti" ana="mAtrAvftta" scan="⏑⏑−⏑⏑¦−⏑−⏑−¦¦−⏑−⏑⏑⏑¦−⏑−⏑−/⏑⏑−⏑⏑¦−⏑−⏑−¦¦−⏑−⏑⏑⏑¦−⏑−⏑−" n="39d">
+   <l>Buvane daDadekavIratAM tyAgaDarmakaruRAparAkramEH .</l>
+   <l>nfpasiMha pawaccarIM nijaprAcyavfttimakaroH punarnavAm ..</l>
+  </lg>
+  <!-- Candovftti -->
+  <lg length="verse" pattern="Zry*DjDry*Zry*DjDry*" class="vEtAlIya" type="OpacCandasikaprAcyavftti" ana="mAtrAvftta" scan="⏑⏑−⏑⏑¦−⏑−⏑−−¦¦−⏑−⏑⏑⏑¦−⏑−⏑−−/⏑⏑−⏑⏑¦−⏑−⏑−−¦¦−⏑−⏑⏑⏑¦−⏑−⏑−−" n="39e">
+   <l>udayAcalavapraBAgavalgat saptasaptituragANGritAqanotTA .</l>
+   <l>navapallavapAwalA purastAd DAtuDUlipawalIva BAti sanDyA ..</l>
+  </lg>
+  <!-- paYcikA -->
+  <lg length="verse" pattern="Zrlg*DjDrlg*Zrlg*DjDrlg*" class="vEtAlIya" type="vEtAlIyaprAcyavftti" ana="mAtrAvftta" scan="⏑⏑−⏑⏑¦−⏑−⏑−¦¦−⏑−⏑⏑⏑¦−⏑−⏑−/−−−¦−⏑−⏑−¦¦−⏑−⏑⏑⏑¦−⏑−⏑−" n="39f">
+   <l>apaTaM na kimezaRaM purA SrIparAkramaBujo mahIpatiH .</l>
+   <l>DyAtvEvaM te 'Ta yAcakA vismftAnna vadatIti cAbruvan ..</l>
+  </lg>
+  <lg length="half" pattern="jDrlg*DjDrlg*" class="vEtAlIya" type="vEtAlIyapravfttaka" ana="mAtrAvftta" scan="⏑−⏑−¦−⏑−⏑−¦¦−⏑−⏑⏑⏑¦−⏑−⏑−" n="40">
+   <l>yadA samAvojayugmakO pUrvayor-Bavati tat-pravfttakam ..40..</l>
+  </lg>
+  <!-- tAtparyawIkA -->
+  <lg length="verse" pattern="jDry*DjDry*jDry*DjDry*" class="vEtAlIya" type="OpacCandasikapravfttaka" ana="mAtrAvftta" scan="⏑−⏑⏑⏑¦−⏑−⏑−−¦¦⏑⏑⏑−⏑⏑⏑¦−⏑−⏑−−/⏑−⏑⏑⏑¦−⏑−⏑−−¦¦⏑⏑⏑−⏑⏑⏑¦−⏑−⏑−−" n="40a">
+   <l>prasIda sutanu praBAYjano 'yaM kuwajaketakaSilInDraganDavAhI .</l>
+   <l>praBAtasamaye pravAti mandaM gajamadena suraBIkftaH samantAt ..</l>
+  </lg>
+  <!-- tAtparyawIkA -->
+  <lg length="verse" pattern="jDBgg*DjDBgg*jDBgg*DjDBgg*" class="vEtAlIya" type="ApAtalikApravfttaka" ana="mAtrAvftta" scan="⏑−⏑−¦−⏑⏑−−¦¦−⏑−⏑⏑⏑¦−⏑⏑−−/⏑−⏑⏑⏑¦−⏑⏑−−¦¦−⏑−⏑⏑⏑¦−⏑⏑−−" n="40b">
+   <l>ime pradIpA gataBAso BUticApalamivopadiSanti .</l>
+   <l>nihatya timiraM karajAlErno viBAnti niDane kzaRadAyAH ..</l>
+  </lg>
+  <!-- sukavihfdayAnandinI -->
+  <lg length="verse" pattern="jDrlg*DjDrlg*jDrlg*DjDrlg*" class="vEtAlIya" type="vEtAlIyapravfttaka" ana="mAtrAvftta" scan="⏑−⏑−¦−⏑−⏑−¦¦−⏑−⏑⏑⏑¦−⏑−⏑−/⏑−⏑−¦−⏑−⏑−¦¦−⏑−⏑⏑⏑¦−⏑−⏑−" n="40c">
+   <l>pravfttakAntenduraSmiBirvyAptamambaramidaM vilokyatAm .</l>
+   <l>gfhARa tAmbUlamuttamaM kopamASu vijahIhi kopane ..</l>
+  </lg>
+  <!-- Candovftti -->
+  <lg length="verse" pattern="jDrlg*DjDrlg*jDrlg*DjDrlg*" class="vEtAlIya" type="vEtAlIyapravfttaka" ana="mAtrAvftta" scan="⏑−⏑⏑⏑¦−⏑−⏑−¦¦−⏑−⏑⏑⏑¦−⏑−⏑−/⏑−⏑⏑⏑¦−⏑−⏑−¦¦−⏑−⏑⏑⏑¦−⏑−⏑−" n="40d">
+   <l>pravfttakarividravaM raTaBrazwanazwasuBawaM vivAji ca .</l>
+   <l>dvizAM balamajAyata tvayi kzmApate kzaRamaDijyaDanvani ..</l>
+  </lg>
+  <!-- Candovftti -->
+  <lg length="verse" pattern="jDry*DjDry*jDry*DjDry*" class="vEtAlIya" type="OpacCandasikapravfttaka" ana="mAtrAvftta" scan="⏑−⏑⏑⏑¦−⏑−⏑−−¦¦−⏑−⏑⏑⏑¦−⏑−⏑−−/⏑−⏑⏑⏑¦−⏑−⏑−−¦¦−⏑−⏑⏑⏑¦−⏑−⏑−−" n="40e">
+   <l>puro dinapateramuzya tadyaH paSya saMprati kaWorapAdapAtEH .</l>
+   <l>sPuwanti kamalAkarAH samantAt Siryate ca sahasA tamisrarASiH ..</l>
+  </lg>
+  <!-- Candovftti Add tat before kzu -->
+  <lg length="verse" pattern="jDBgg*DjDBgg*jDBgg*DjDBgg*" class="vEtAlIya" type="ApAtalikApravfttaka" ana="mAtrAvftta" scan="⏑−⏑⏑⏑¦−⏑⏑−−¦¦−⏑−⏑⏑⏑¦−⏑⏑−−/⏑−⏑⏑⏑¦−⏑⏑−−¦¦−⏑−⏑⏑⏑¦−⏑⏑−−" n="40f">
+   <l>BavaccaraRayoH praRayitvaM yAnyayuH kzitiBftAM na SirAMsi .</l>
+   <l>kzaRAddadfSire yuDi tAni tatkzu gfDracaraRapraRayIni ..</l>
+  </lg>
+  <!-- paYcikA -->
+  <lg length="verse" pattern="jDrlg*DjDrlg*jDrlg*DjDrlg*" class="vEtAlIya" type="vEtAlIyapravfttaka" ana="mAtrAvftta" scan="⏑−⏑−¦−⏑−⏑−¦¦−⏑−⏑⏑⏑¦−⏑−⏑−/⏑−⏑−¦−⏑−⏑−¦¦−⏑−⏑⏑⏑¦−⏑−⏑−" n="40g">
+   <l>bravIti yaH sarvadiggatAn satparAkramaBujasya sadguRAn .</l>
+   <l>sa kambunAmbUdaDeH suDIH sarvamatra parimAtumISvaraH ..</l>
+  </lg>
+  <lg length="quarter" pattern="DjDrlg*" class="vEtAlIya" type="vEtAlIyAparAntikA" ana="mAtrAvftta" scan="−⏑−⏑⏑⏑¦−⏑−⏑−" n="41">
+   <l>asya yugmaracitAparAntikA ..41..</l>
+  </lg>
+  <!-- tAtparyawIkA Delete ya in janayati -->
+  <lg length="verse" pattern="DjDry*DjDry*DjDry*DjDry*" class="vEtAlIya" type="OpacCandasikAparAntikA" ana="mAtrAvftta" scan="⏑⏑⏑−⏑−¦−⏑−⏑−−¦¦⏑⏑⏑−⏑⏑⏑¦−⏑−⏑−−/⏑⏑⏑−⏑⏑⏑¦−⏑−⏑−−¦¦−⏑−⏑⏑⏑¦−⏑−⏑−−" n="41a">
+   <l>haripadAmbujaM sidDasevyamAnaM hfdi DftaM janati sarvadA munIndrEH .</l>
+   <l>suranadIjavanapAvitatrilokaM pArijAtakusumArcitaM sureSEH ..</l>
+  </lg>
+  <!-- tAtparyawIkA -->
+  <lg length="verse" pattern="DjDBgg*DjDBgg*DjDBgg*DjDBgg*" class="vEtAlIya" type="ApAtalikAparAntikA" ana="mAtrAvftta" scan="−⏑−⏑⏑⏑¦−⏑⏑−−¦¦−⏑−⏑⏑⏑¦−⏑⏑−−/−⏑−⏑⏑⏑¦−⏑⏑−−¦¦⏑⏑⏑−⏑⏑⏑¦−⏑⏑−−" n="41b">
+   <l>nOmi vizRumahamIpsitasidDyE yo jagatsu nivasanna hi lakzyaH .</l>
+   <l>vedavAkyaviduzAmaDigamyaH sadasadAditanuhAniviSudDaH ..</l>
+  </lg>
+  <!-- sukavihfdayAnandinI -->
+  <lg length="verse" pattern="DjDrlg*DjDrlg*DjDrlg*DjDrlg*" class="vEtAlIya" type="vEtAlIyAparAntikA" ana="mAtrAvftta" scan="−⏑−⏑⏑⏑¦−⏑−⏑−¦¦−⏑−⏑⏑⏑¦−⏑−⏑−/−⏑−⏑⏑⏑¦−⏑−⏑−¦¦−⏑−⏑⏑⏑¦−⏑−⏑−" n="41c">
+   <l>tuNgapIvaraGanastanA lasaccArukuRqalavatI mfgekzaRA .</l>
+   <l>pUrRacandravadanAparAntikA cittamunmadayatIyamaNganA ..</l>
+  </lg>
+  <!-- Candovftti calls aparAntikA meters which have all pAdas the same as the even pAdas of any of the three types vEtAlIya, OpacCandasika, or ApAtalikA and the three types of prAcyavftti -->
+  <!-- Candovftti calls this vEtAlIyAparAntikA but tAtparyawIkA samavEtAlIya -->
+  <lg length="verse" pattern="Arlg*Arlg*Arlg*Arlg*" class="vEtAlIya" type="vEtAlIyAparAntikA" altName="samavEtAlIya" ana="mAtrAvftta" scan="⏑⏑−−⏑⏑¦−⏑−⏑−¦¦⏑⏑−−⏑⏑¦−⏑−⏑−/−−−⏑⏑¦−⏑−⏑−¦¦⏑⏑−−⏑⏑¦−⏑−⏑−" n="41d">
+   <l>daDatIM dugDapayoDiviBramaM lavaRAbDeriha roDasi sTitaH .</l>
+   <l>SrIsidDADipakIrtimuccakEstava gAyantyaparAntikAH striyaH ..</l>
+  </lg>
+  <!-- Candovftti calls this OpacCandasikaparAntikA but tAtparyawIkA samOpacCandasika -->
+  <lg length="verse" pattern="Ary*Ary*Ary*Ary*" class="vEtAlIya" type="OpacCandasikAparAntikA" altName="samOpacCandasika" ana="mAtrAvftta" scan="−−−⏑⏑¦−⏑−⏑−−¦¦−−−⏑⏑¦−⏑−⏑−−/−−−⏑⏑¦−⏑−⏑−−¦¦−−−⏑⏑¦−⏑−⏑−−" n="41e">
+   <l>SrIcOlukya kimadButaM papAta vyomno yattvayi divyapuzpavfzwiH .</l>
+   <l>prAktasminnarikumBikumBaBedAt kIrRA mOktikapaNktayastvayA hi ..</l>
+  </lg>
+  <!-- Candovftti calls this ApAtalikAparAntikA. Although tAtparyawIkA does not name it, it would be samApAtalikA by analogy to samavEtAlIya, samOpacCandasika -->
+  <lg length="verse" pattern="ABgg*ABgg*ABgg*ABgg*" class="vEtAlIya" type="ApAtalikAparAntikA" ana="mAtrAvftta" scan="⏑⏑−−−¦−⏑⏑−−¦¦⏑⏑−−−¦−⏑⏑−−/−⏑⏑−⏑⏑¦−⏑⏑−−¦¦−−⏑⏑−¦−⏑⏑−−" n="41f">
+   <l>taruRIvezA dIpitakAmA vikasajjAtIpuzpasuganDiH .</l>
+   <l>unnatapInapayoDaraBArA prAvfw tanute kasya na harzam ..</l>
+  </lg>
+  <!-- Candovftti calls this vEtAlIyaprAcyavfttyaparAntikA but others don't specify -->
+  <lg length="verse" pattern="DjDrlg*DjDrlg*DjDrlg*DjDrlg*" class="vEtAlIya" type="vEtAlIyaprAcyavfttyaparAntikA" ana="mAtrAvftta" scan="−⏑−⏑−¦−⏑−⏑−¦¦−⏑−⏑−¦−⏑−⏑−/⏑⏑⏑−⏑−¦−⏑−⏑−¦¦−⏑−⏑−¦−⏑−⏑−" n="41g">
+   <l>Agato 'si DUrtAparAntikAn na hyalIkavAcAmihAspadam .</l>
+   <l>jaturaso 'yamakzRostaTADare kajjalaM ca yatte vilokyate ..</l>
+  </lg>
+  <!-- Candovftti calls this OpacCandasikaprAcyavfttyaparAntikA but others don't specify -->
+  <lg length="verse" pattern="DjDry*DjDry*DjDry*DjDry*" class="vEtAlIya" type="OpacCandasikaprAcyavfttyaparAntikA" ana="mAtrAvftta" scan="−⏑−⏑⏑⏑¦−⏑−⏑−−¦¦−⏑−⏑⏑⏑¦−⏑−⏑−−/−⏑−⏑⏑⏑¦−⏑−⏑−−¦¦−⏑−⏑⏑⏑¦−⏑−⏑−−" n="41h">
+   <l>kevalasya na gireryadaNGripadmANguzWapIqanavaSAcCiraH sumeroH .</l>
+   <l>kampitaM divizadAM ca vismitAnAM pAtu paScimajinaH sa vo 'dButaSrIH ..</l>
+  </lg>
+  <!-- Candovftti calls this ApAtalikAprAcyavfttyaparAntikA but others don't specify -->
+  <lg length="verse" pattern="DjDBgg*DjDBgg*DjDBgg*DjDBgg*" class="vEtAlIya" type="ApAtalikAprAcyavfttyaparAntikA" ana="mAtrAvftta" scan="⏑⏑⏑−⏑⏑⏑¦−⏑⏑−−¦¦⏑⏑⏑−⏑⏑⏑¦−⏑⏑−−/−⏑−⏑⏑⏑¦−⏑⏑−−¦¦−⏑−⏑⏑⏑¦−⏑⏑−−" n="41i">
+   <l>suBaga he saraBasaM savilAsEH pratimuhustaralalocanapAtEH .</l>
+   <l>saNgamotsavaviDO tava satyaM hAramarpayati paNkajanetrA ..</l>
+  </lg>
+  <!-- paYcikA -->
+  <lg length="verse" pattern="DjDrlg*DjDrlg*DjDrlg*DjDrlg*" class="vEtAlIya" type="vEtAlIyAparAntikA" ana="mAtrAvftta" scan="−⏑−⏑⏑⏑¦−⏑−⏑−¦¦−⏑−⏑⏑⏑¦−⏑−⏑−/−⏑−⏑⏑⏑¦−⏑−⏑−¦¦−⏑−⏑⏑⏑¦−⏑−⏑−" n="41j">
+   <l>SrIparAkramaBujasya BUBujaH svaHpateSca BavitAtra ko guruH .</l>
+   <l>veDaseti tulitO ca tO tayorgotraBillaGutayorDvamAyayO ..</l>
+  </lg>
+  <lg length="quarter" pattern="jDrlg*" class="vEtAlIya" type="vEtAlIyacAruhAsinI" altName="vEtAlIyodIcyavftticAruhAsinI" ana="mAtrAvftta" scan="⏑−⏑−¦−⏑−⏑−" n="42">
+   <l>ayugBavA cAruhAsinI ..42..</l>
+  </lg>
+  <!-- tAtparyawIkA -->
+  <lg length="verse" pattern="jDry*jDry*jDry*jDry*" class="vEtAlIya" type="OpacCandasikacAruhAsinI" ana="mAtrAvftta" scan="⏑−⏑⏑⏑¦−⏑−⏑−−¦¦⏑−⏑−¦−⏑−⏑−−/⏑−⏑−¦−⏑−⏑−−¦¦⏑−⏑−¦−⏑−⏑−−" n="42a">
+   <l>hiraRyakaSiporuro viBidya naKANkurErdIptatIkzRavakrEH .</l>
+   <l>sureSvarEH pUjito mahAtmA dadAtu sOKyaM mahIsTitAnAm ..</l>
+  </lg>
+  <!-- tAtparyawIkA -->
+  <lg length="verse" pattern="jDBgg*jDBgg*jDBgg*jDBgg*" class="vEtAlIya" type="ApAtalikAcAruhAsinI" ana="mAtrAvftta" scan="⏑−⏑−¦−⏑⏑−−¦¦⏑−⏑⏑⏑¦−⏑⏑−−/⏑−⏑−¦−⏑⏑−−¦¦⏑−⏑⏑⏑¦−⏑⏑−−" n="42b">
+   <l>praSAntacittaH samadarSI ripO suhfdi yo hariBaktaH .</l>
+   <l>na kAmanAsaMyutacetAH sa mokzamapi yAti gfhasTaH ..</l>
+  </lg>
+  <!-- sukavihfdayAnandinI -->
+  <lg length="verse" pattern="jDrlg*jDrlg*jDrlg*jDrlg*" class="vEtAlIya" type="vEtAlIyacAruhAsinI" ana="mAtrAvftta" scan="⏑−⏑−¦−⏑−⏑−¦¦⏑−⏑−¦−⏑−⏑−/⏑−⏑−¦−⏑−⏑−¦¦⏑−⏑−¦−⏑−⏑−" n="42c">
+   <l>na kasya cetaH samanmaTaM karoti sA sundarAkftiH .</l>
+   <l>vicitravAkyoktipaRqitA vilAsinI cAruhAsinI ..</l>
+  </lg>
+  <!-- Candovftti calls cAruhAsinI meters which have all pAdas the same as the odd pAdas of any of the three types vEtAlIya, OpacCandasika, or ApAtalikA and the three types of udIcyavftti -->
+  <!-- Candovftti calls this vEtAlIyacAruhAsinI but tAtparyawIkA vizamavEtAlIya -->
+  <lg length="verse" pattern="Zrlg*Zrlg*Zrlg*Zrlg*" class="vEtAlIya" type="vEtAlIyacAruhAsinI" altName="vizamavEtAlIya" ana="mAtrAvftta" scan="⏑⏑−⏑⏑¦−⏑−⏑−¦¦⏑⏑−⏑⏑¦−⏑−⏑−/⏑⏑−⏑⏑¦−⏑−⏑−¦¦⏑⏑−⏑⏑¦−⏑−⏑−" n="42d">
+   <l>yadi sA bata cAruhAsinI kimu candrikayAnayA tataH .</l>
+   <l>yadi sA ca vilolalocanA kimu nIlasarojinIvanEH ..</l>
+  </lg>
+  <!-- Candovftti calls this OpacCandasikacAruhAsinI but tAtparyawIkA vizamOpacCandasika -->
+  <lg length="verse" pattern="Zry*Zry*Zry*Zry*" class="vEtAlIya" type="OpacCandasikacAruhAsinI" altName="vizamOpacCandasika" ana="mAtrAvftta" scan="⏑⏑⏑⏑⏑⏑¦−⏑−⏑−−¦¦⏑⏑⏑⏑⏑⏑¦−⏑−⏑−−/⏑⏑⏑⏑⏑⏑¦−⏑−⏑−−¦¦−−⏑⏑¦−⏑−⏑−−" n="42e">
+   <l>tatiriha gagane na tArakARAM pratidiSamuditA viBAti kintu .</l>
+   <l>saraBasamupasarpataH suDAMSoH kIrRaH kusumAYjalI rajanyA ..</l>
+  </lg>
+  <!-- Candovftti calls this ApAtalikAcAruhAsinI. Although tAtparyawIkA does not name it, it would be vizamApAtalikA by analogy to vizamavEtAlIya, vizamOpacCandasika -->
+  <lg length="verse" pattern="ZBgg*ZBgg*ZBgg*ZBgg*" class="vEtAlIya" type="ApAtalikAcAruhAsinI" ana="mAtrAvftta" scan="−⏑⏑⏑⏑¦−⏑⏑−−¦¦⏑⏑⏑⏑⏑⏑¦−⏑⏑−−/−−−¦−⏑⏑−−¦¦−−−¦−⏑⏑−−" n="42f">
+   <l>BAti suvadane tava BAle navamalayajacitrakaleKA .</l>
+   <l>padmaM jitvA nayanAbyAmutkzipteveha patAkA ..</l>
+  </lg>
+  <!-- Candovftti does not include an example of vEtAlIyodIcyavftticAruhAsinI because the vfttaratnAkara verse quarter is of that type -->
+  <!-- Candovftti calls this OpacCandasikodIcyavftticAruhAsinI but others don't specify -->
+  <lg length="verse" pattern="jDry*jDry*jDry*jDry*" class="vEtAlIya" type="OpacCandasikodIcyavftticAruhAsinI" ana="mAtrAvftta" scan="⏑−⏑−¦−⏑−⏑−−¦¦⏑−⏑⏑⏑¦−⏑−⏑−−/⏑−⏑⏑⏑¦−⏑−⏑−−¦¦⏑−⏑⏑⏑¦−⏑−⏑−−" n="42h">
+   <l>vidagDayUnAM patadBireBiH sKaladgatirivAyatEH kawAkzEH .</l>
+   <l>iyaM sujaGanAtimandamandaM saKe vitanute padaprapaYcam ..</l>
+  </lg>
+  <!-- Candovftti calls this ApAtalikodIcyavftticAruhAsinI but others don't specify -->
+  <lg length="verse" pattern="jDBgg*jDBgg*jDBgg*jDBgg*" class="vEtAlIya" type="ApAtalikodIcyavftticAruhAsinI" ana="mAtrAvftta" scan="⏑−⏑−¦−⏑⏑−−¦¦⏑−⏑⏑⏑¦−⏑⏑−−/⏑−⏑⏑⏑¦−⏑⏑−−¦¦⏑−⏑−¦−⏑⏑−−" n="42i">
+   <l>viSAlavaMSAdapi jAtaH sadA prakawayannatimekAm .</l>
+   <l>DanuHsadfSatAM kalaya tvaM guRADiroho 'BimataScet ..</l>
+  </lg>
+  <!-- paYcikA -->
+  <lg length="verse" pattern="jDrlg*jDrlg*jDrlg*jDrlg*" class="vEtAlIya" type="vEtAlIyacAruhAsinI" ana="mAtrAvftta" scan="⏑−⏑−¦−⏑−⏑−¦¦⏑−⏑−¦−⏑−⏑−/⏑−⏑−¦−⏑−⏑−¦¦⏑−⏑−¦−⏑−⏑−" n="42j">
+   <l>trisiMhalADISvare DarAM praSAsati prItiSAlinIm .</l>
+   <l>vimArgagAmitvamacyuteH prajAsu nAsIt satIzu vE ..</l>
+  </lg>
+  <lg length="half" pattern="x6yg*x6yg*" class="anuzwuB" type="vaktra" ana="vaktra" scan="−−−−¦⏑−−−¦¦−−−−¦⏑−−−" n="43">
+   <l>vaktraM nAdyAnnasO syAtAm-abDeryo 'nuzwuBi KyAtam ..43..</l>
+  </lg>
+  <!-- tAtparyawIkA Corrected vahani to vahni in b to fit the pattern -->
+  <lg length="verse" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="⏑−⏑⏑¦⏑−−⏑¦¦−⏑−⏑¦⏑−⏑−/−−−−¦⏑−−−¦¦⏑−−−¦⏑−⏑⏑" n="43a">
+   <l>rasASvaturagAScandravahnihavyaBujo BidaH .</l>
+   <l>vaktrAdInAM caturRAM sYuH pfTaN mAtrAsamasya ca ..</l>
+  </lg>
+  <!-- sukavihfdayAnandinI -->
+  <lg length="verse" pattern="x6yg*x6yg*x6yg*x6yg*" class="anuzwuB" type="vaktra" ana="vaktra" scan="−−⏑−¦⏑−−⏑¦¦⏑−⏑⏑¦⏑−−⏑/⏑⏑−−¦⏑−−−¦¦−−⏑−¦⏑−−−" n="43b">
+   <l>ApARqugaRqamAkarRaviSAlanayanaM suBru .</l>
+   <l>virahe cArusarvANgyAstasyAH smarAmyahaM vaktram ..</l>
+  </lg>
+  <!-- Candovftti -->
+  <lg length="verse" pattern="x6yg*x6yg*x6yg*x6yg*" class="anuzwuB" type="vaktra" ana="vaktra" scan="−−−⏑¦⏑−−−¦¦−−−−¦⏑−−−/⏑−−−¦⏑−−−¦¦−⏑−⏑¦⏑−−−" n="43c">
+   <l>tasyAstrastakuraNgAkzyA vaktreRa tvaM parABUtaH .</l>
+   <l>himAMSo kzIyase yuktaM lajjase tu na kiM vfdDyA ..</l>
+  </lg>
+  <!-- paYcikA -->
+  <lg length="verse" pattern="x6yg*x6yg*x6yg*x6yg*" class="anuzwuB" type="vaktra" ana="vaktra" scan="⏑−⏑⏑¦⏑−−−¦¦−−−−¦⏑−−−/−−⏑−¦⏑−−−¦¦−−−⏑¦⏑−−−" n="43d">
+   <l>parAkramaBujo rAjA SAstrAmBoDergataH pAram .</l>
+   <l>gacCantu tatsakASaM Bo SrotuM DarmakaTAM lokAH ..</l>
+  </lg>
+  <lg length="half" pattern="x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="⏑−−⏑¦⏑−−−¦¦−−−−¦⏑−⏑−" n="44">
+   <l>yujor-jena saridBartuH paTyAvaktraM prakIrtitam ..44..</l>
+  </lg>
+  <!-- sukavihfdayAnandinI -->
+  <lg length="verse" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="−−⏑−¦⏑−−⏑¦¦−−−−¦⏑−⏑−/⏑⏑−−¦⏑−−−¦¦−⏑−⏑¦⏑−⏑−" n="44a">
+   <l>tvaddantidantaBagnoruSAKAH paTyAyatA drumAH .</l>
+   <l>kaTayantIva BagnAnAM digjayaM tava BUpate ..</l>
+  </lg>
+  <!-- Candovftti -->
+  <lg length="verse" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="−−⏑⏑¦⏑−−⏑¦¦−−−−¦⏑−⏑−/−−⏑⏑¦⏑−−−¦¦−−⏑⏑¦⏑−⏑−" n="44b">
+   <l>AlAnitagajaskanDaDfzwAH paTyAyatadrumAH .</l>
+   <l>adyApi kaTayantyete rAjendra tava digjayam ..</l>
+  </lg>
+  <!-- paYcikA -->
+  <lg length="verse" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="⏑−⏑⏑¦⏑−−−¦¦−−⏑⏑¦⏑−⏑−/⏑⏑−−¦⏑−−−¦¦−−−−¦⏑−⏑−" n="44c">
+   <l>parAkramaBujo BUpaH sarvAyuDaviSAradaH .</l>
+   <l>matimAnnItimAn vAgmI lakzmIvAn puRyalakzaRaH ..</l>
+  </lg>
+  <lg length="half" pattern="x6jg*x6yg*" class="anuzwuB" type="viparItapaTyAvaktra" ana="vaktra" scan="−⏑−−¦⏑−⏑−¦¦⏑−⏑⏑¦⏑−−−" n="45">
+   <l>ojayor-jena vAriDestad-eva viparItAdi ..45..</l>
+  </lg>
+  <!-- sukavihfdayAnandinI -->
+  <lg length="verse" pattern="x6jg*x6yg*x6jg*x6yg*" class="anuzwuB" type="viparItapaTyAvaktra" ana="vaktra" scan="⏑⏑−−¦⏑−⏑−¦¦−−−⏑¦⏑−−−/⏑⏑−−¦⏑−⏑−¦¦−−−−¦⏑−−−" n="45a">
+   <l>viparItAnyapi priyaH kurvARo mudamADatte .</l>
+   <l>anukUlastvasO sadA tena prARADiko nUnam ..</l>
+  </lg>
+  <!-- Candovftti -->
+  <lg length="verse" pattern="x6jg*x6yg*x6jg*x6yg*" class="anuzwuB" type="viparItapaTyAvaktra" ana="vaktra" scan="⏑⏑−−¦⏑−⏑⏑¦¦⏑−⏑⏑¦⏑−−−/⏑−−−¦⏑−⏑−¦¦−−−−¦⏑−−−" n="45b">
+   <l>viparItAni re SaWa karizyasi kiyantyasmAt .</l>
+   <l>dukUlaM pracCadIkftaM tasyA Datse mamArTam yat ..</l>
+  </lg>
+  <!-- paYcikA -->
+  <lg length="verse" pattern="x6jg*x6yg*x6jg*x6yg*" class="anuzwuB" type="viparItapaTyAvaktra" ana="vaktra" scan="−−−⏑¦⏑−⏑−¦¦⏑−⏑⏑¦⏑−−−/−−⏑−¦⏑−⏑−¦¦−−−−¦⏑−−−" n="45c">
+   <l>indraH pAlayituM divaM parAkramaBujo BUmim .</l>
+   <l>jAgarti tena dAnavA duzwAScAnena damyante ..</l>
+  </lg>
+  <lg length="half" pattern="x6ng*x6yg*" class="anuzwuB" type="capalAvaktra" ana="vaktra" scan="⏑⏑−−¦⏑⏑⏑−¦¦⏑−−−¦⏑−−−" n="46">
+   <l>capalAvaktram-ayujor-nakAraS-cet-payorASeH ..46..</l>
+  </lg>
+  <!-- sukavihfdayAnandinI -->
+  <lg length="verse" pattern="x6ng*x6yg*x6ng*x6yg*" class="anuzwuB" type="capalAvaktra" ana="vaktra" scan="⏑⏑−−¦⏑⏑⏑−¦¦−⏑−−¦⏑−−−/−−−⏑¦⏑⏑⏑−¦¦−−⏑−¦⏑−−−" n="46a">
+   <l>capalApANganayane pakvabimbozWi candrAsye .</l>
+   <l>svADInaM Baja dayitaM tAruRyamasTiraM yasmAt ..</l>
+  </lg>
+  <!-- Candovftti -->
+  <lg length="verse" pattern="x6ng*x6yg*x6ng*x6yg*" class="anuzwuB" type="capalAvaktra" ana="vaktra" scan="−⏑−−¦⏑⏑⏑−¦¦⏑⏑−−¦⏑−−−/⏑−⏑−¦⏑⏑⏑−¦¦−−⏑−¦⏑−−−" n="46b">
+   <l>vIkzito 'pyeza tilakaScapalAkzi tvayA sadyaH .</l>
+   <l>daDAti navyamukulE romAYcakaYcukaM manye ..</l>
+  </lg>
+  <!-- paYcikA -->
+  <!-- Since a s is not allowed in the 6, changed parAyaRa to aparAyaRa -->
+  <lg length="verse" pattern="x6ng*x6yg*x6ng*x6yg*" class="anuzwuB" type="capalAvaktra" ana="vaktra" scan="⏑⏑−−¦⏑⏑⏑−¦¦−⏑⏑−¦⏑−−−/−−⏑−¦⏑⏑⏑−¦¦−−−−¦⏑−−⏑" n="46c">
+   <l>gaRinaH santi bahavaH svArTAparAyaRAH kiM tEH .</l>
+   <l>ekaH parAkramaBujastrIl~lokAn svaM ca saMpAti ..</l>
+  </lg>
+  <!-- vipulA section: seventh syllable in even pAdas light x6xxlg* -->
+  <lg length="half" pattern="x6yg*x6jg*" class="vipulA" type="yugmavipulA" altName="paTyAvaktra" ana="vaktra" scan="−−−−¦⏑−−−¦¦−−⏑⏑¦⏑−⏑−" n="47">
+   <l>yasyAM laH saptamo yugme sA yugmavipulA matA ..47..</l>
+  </lg>
+  <!-- sukavihfdayAnandinI -->
+  <lg length="verse" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="yugmavipulA" altName="paTyAvaktra" ana="vaktra" scan="⏑−−−¦⏑−−⏑¦¦⏑−⏑−¦⏑−⏑−/−−⏑−¦⏑−−−¦¦⏑⏑−−¦⏑−⏑−" n="47a">
+   <l>aho kasyApi Danyasya mahAkulaprasUtayA .</l>
+   <l>prItiH svakAntayA sArDaM vipulA jAyate gfhe ..</l>
+  </lg>
+  <!-- paYcikA cites definition as if of yugmavipulA but the definition matches paTyAvaktra: fifth syllable light in all pAdas and seventh syllable light in even pAdas x6lxxg*x6jg* -->
+  <lg length="verse" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="yugmavipulA" altName="paTyAvaktra" ana="vaktra" scan="−⏑−⏑¦⏑−−⏑¦¦−⏑−⏑¦⏑−⏑−/⏑⏑−−¦⏑−−−¦¦−−⏑⏑¦⏑−⏑−" n="47b">
+   <l>paYcamaM laGu sarvatra saptamaM dvicaturTayoH .</l>
+   <l>guru zazWaM tu pAdAnAM SezAstvaniyamAH smftAH ..</l>
+  </lg>
+  <!-- and so does his example -->
+  <lg length="verse" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="yugmavipulA" altName="paTyAvaktra" ana="vaktra" scan="⏑−⏑−¦⏑−−−¦¦−⏑−⏑¦⏑−⏑−/⏑−−−¦⏑−−−¦¦⏑−⏑⏑¦⏑−⏑−" n="47c">
+   <l>kaliNgadeSasaYjAtA BUmipAlakulodBavA .</l>
+   <l>sunetrA nAma devI sA parAkramaBujaM prasUH ..</l>
+  </lg>
+  <lg length="quarter" pattern="x6jg*" class="vipulA" type="sEtavavipulA" ana="vaktra" scan="−⏑−−¦⏑−⏑−" n="48">
+   <l>sEtavasyAKilezv-api ..48..</l>
+  </lg>
+  <!-- sukavihfdayAnandinI. Replaced Dikri by pragIr to conform to the meter -->
+  <lg length="verse" pattern="x6jg*x6jg*x6jg*x6jg*" class="anuzwuB" type="sEtavavipulA" ana="vaktra" scan="⏑−−−¦⏑−⏑−¦¦⏑⏑−−¦⏑−⏑−/−−⏑−¦⏑−⏑−¦¦−⏑−−¦⏑−⏑−" n="48a">
+   <l>aho Danyasya kasyacit sukaverjAyate matiH .</l>
+   <l>nUnaM yayA pragIryate sEtavaM kAvyamuttamam ..</l>
+  </lg>
+  <!-- Candovftti -->
+  <lg length="verse" pattern="x6jg*x6jg*x6jg*x6jg*" class="anuzwuB" type="sEtavavipulA" ana="vaktra" scan="⏑⏑−−¦⏑−⏑−¦¦−⏑−−¦⏑−⏑−/−⏑−⏑¦⏑−⏑−¦¦⏑⏑−−¦⏑−⏑−" n="48b">
+   <l>vipule 'pyambuDO kftaM vartma rAmeRa sEtavam .</l>
+   <l>citrametadihATa vA kimasADyaM mahAtmanAm ..</l>
+  </lg>
+  <!-- paYcikA -->
+  <lg length="verse" pattern="x6jg*x6jg*x6jg*x6jg*" class="anuzwuB" type="sEtavavipulA" ana="vaktra" scan="−−−⏑¦⏑−⏑−¦¦⏑⏑−−¦⏑−⏑−/−⏑−−¦⏑−⏑−¦¦⏑−⏑⏑¦⏑−⏑−" n="48c">
+   <l>DarmASokanfpAnvaye jayamAlo mahIpatiH .</l>
+   <l>tasya putraH prajASriye parAkramaBujo 'Bavat ..</l>
+  </lg>
+  <!-- Although the tAtparyawIkA wants all four pAdas to have B after the fourth syllable, the other commentators want it just in the odd pAdas, or even just in one pAda. I divide examples and name according to the both odd pAdas rule. -->
+  <lg length="quarter" pattern="x6Bg*x6jg*" class="vipulA" type="BavipulA" ana="vaktra" scan="−−⏑−¦−⏑⏑−" n="49">
+   <l>BenAbDito BAd-vipulA ..49..</l>
+  </lg>
+  <!-- sukavihfdayAnandinI -->
+  <lg length="verse" pattern="x6Bg*x6jg*x6Bg*x6jg*" class="anuzwuB" type="BavipulA" ana="vaktra" scan="⏑−−−¦−⏑⏑⏑¦¦−−⏑⏑¦⏑−⏑−/−−−−¦−⏑⏑−¦¦−⏑−−¦⏑−⏑−" n="49a">
+   <l>viSAlAkzI kAmagajakumBABavipulastanI .</l>
+   <l>maDyakzAmA haMsagatiH kasya na syAdratipradA ..</l>
+  </lg>
+  <lg length="verse" pattern="x6Bg*x6jg*x6Bg*x6jg*" class="anuzwuB" type="BavipulA" ana="vaktra" scan="⏑−⏑−¦−⏑⏑−¦¦−⏑−−¦⏑−⏑−/−−⏑−¦−⏑⏑−¦¦−⏑−⏑¦⏑−⏑⏑" n="49b">
+   <l>vawe vawe vESravaRaScatvare catvare Sivam .</l>
+   <l>yasya praBAvAd BuvanaM SASvate paTi tizWati ..</l>
+  </lg>
+  <!-- Candovftti. Removed Asv from the second line -->
+  <lg length="half" pattern="x6ng*x6jg*" class="anuzwuB" type="navipulA" ana="vaktra" scan="−−−−¦⏑⏑⏑⏑¦¦⏑−⏑⏑¦⏑−⏑−/−−−−¦−−⏑−¦¦⏑⏑−−¦⏑−⏑−" n="49c">
+   <l>oje turyAnnataBaramasErnavipulAdayaH .</l>
+  </lg>
+  <lg length="half" pattern="x6tg*x6jg*" class="anuzwuB" type="tavipulA" ana="vaktra" scan="−−−−¦⏑⏑⏑⏑¦¦⏑−⏑⏑¦⏑−⏑−/−−−−¦−−⏑−¦¦⏑⏑−−¦⏑−⏑−" n="49d">
+   <l>oje prAyasturyo gururyuji zaqByo laGurDruvaH ..</l>
+  </lg>
+  <lg length="verse" pattern="x6Bg*x6jg*x6Bg*x6jg*" class="anuzwuB" type="BavipulA" ana="vaktra" scan="⏑−⏑−¦−⏑⏑−¦¦⏑⏑−−¦⏑−⏑−/−−⏑−¦−⏑⏑−¦¦−⏑−⏑¦⏑−⏑−" n="49e">
+   <l>iyaM saKe candramuKI smitajyotsnAvaBAsinI .</l>
+   <l>indIvarAkzI hfdayaM dandahIti taTApi me ..</l>
+  </lg>
+  <!-- On vyaktipakza I split the two lines of the following verse -->
+  <lg length="half" pattern="x6Bg*x6jg*" class="anuzwuB" type="BavipulA" ana="vaktra" scan="−−⏑−¦−⏑⏑−¦¦−⏑−⏑¦⏑−⏑⏑" n="49f">
+   <l>yasya praBAvAd BuvanaM SASvate paTi tizWati .</l>
+  </lg>
+  <lg length="half" pattern="x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" altName="yugmavipulA" ana="vaktra" scan="−−⏑⏑¦⏑−−−¦¦−⏑−−¦⏑−⏑−" n="49g">
+   <l>devaH sa jayati SrImAn daRqaDAro mahIpatiH ..</l>
+  </lg>
+  <!-- On vyaktipakza I split the two lines of the following verse -->
+  <lg length="half" pattern="x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" altName="yugmavipulA" ana="vaktra" scan="−⏑−⏑¦⏑−−⏑¦¦⏑⏑−⏑¦⏑−⏑−" n="49h">
+   <l>muktaSezaviroDena kuliSavraRalakzmaRA .</l>
+  </lg>
+  <lg length="half" pattern="x6Bg*x6jg*" class="anuzwuB" type="BavipulA" ana="vaktra" scan="⏑−⏑−¦−⏑⏑−¦¦⏑−−⏑¦⏑−⏑−" n="49i">
+   <l>upasTitaM prAYjalinA vinItena garutmatA ..</l>
+  </lg>
+  <!-- paYcikA -->
+  <lg length="verse" pattern="x6Bg*x6Bg*x6Bg*x6Bg*" class="anuzwuB" type="BavipulA" ana="vaktra" scan="⏑−−⏑¦−⏑⏑−¦¦⏑−−−¦−⏑⏑⏑/−−⏑−¦−⏑⏑−¦¦⏑−⏑⏑¦−⏑⏑−" n="49j">
+   <l>vizAdI kapAlakaraH sadA rogAnna tyajati .</l>
+   <l>SamBUpamaH SatrugaRaH parAkramabAhupateH ..</l>
+  </lg>
+  <lg length="quarter" pattern="x6rg*x6jg*" class="vipulA" type="ravipulA" ana="vaktra" scan="−⏑−−¦−⏑−−" n="50">
+   <l>itTam-anyA raS-caturTAt ..50..</l>
+  </lg>
+  <!-- sukavihfdayAnandinI -->
+  <lg length="verse" pattern="x6rg*x6jg*x6rg*x6jg*" class="anuzwuB" type="ravipulA" ana="vaktra" scan="⏑−⏑−¦−⏑−−¦¦−−−⏑¦⏑−⏑−/⏑−⏑−¦−⏑−−¦¦⏑−⏑⏑¦⏑−⏑−" n="50a">
+   <l>taTA jitaH Satruvargo rAjan bAhuvalena te .</l>
+   <l>yaTA sahAntaH puro 'sO tatAra vipulAM nadIm ..</l>
+  </lg>
+  <!-- On vyaktipakza I split the two lines of the following verse -->
+  <lg length="half" pattern="x6rg*x6jg*" class="anuzwuB" type="ravipulA" ana="vaktra" scan="⏑−⏑−¦−⏑−−¦¦−−−−¦⏑−⏑−" n="50b">
+   <l>mahAkaviM kAlidAsaM vande vAgdevatAgurum .</l>
+  </lg>
+  <lg length="half" pattern="x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" altName="yugmavipulA" ana="vaktra" scan="−−−⏑¦⏑−−⏑¦¦−⏑−⏑¦⏑−⏑⏑" n="50c">
+   <l>yajjYAne vizayA BAnti darpaRe pratibimbavat ..</l>
+  </lg>
+  <!-- On vyaktipakza I split the two lines of the following verse -->
+  <lg length="half" pattern="x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" altName="yugmavipulA" ana="vaktra" scan="−⏑−−¦⏑−−−¦¦−⏑−⏑¦⏑−⏑−" n="50c">
+   <l>kAmanIBiH saha prItiH kasya nAma na rocate .</l>
+  </lg>
+  <lg length="half" pattern="x6rg*x6jg*" class="anuzwuB" type="ravipulA" ana="vaktra" scan="⏑⏑−−¦−⏑−⏑¦¦−⏑−⏑¦⏑−⏑⏑" n="50d">
+   <l>yadi na syAd vArivIcicaYcalaM hatajIvitam ..</l>
+  </lg>
+  <!-- Candovftti -->
+  <lg length="verse" pattern="x6rg*x6jg*x6rg*x6jg*" class="anuzwuB" type="ravipulA" ana="vaktra" scan="⏑−−−¦−⏑−−¦¦−−−−¦⏑−⏑⏑/−−⏑⏑¦−⏑−−¦¦−−−⏑¦⏑−⏑−" n="50e">
+   <l>vaDUBiH pInastanIBistUlIBiH kuNkumena ca .</l>
+   <l>kAlAguruDUpaDUmErhemante jayati smaraH ..</l>
+  </lg>
+  <!-- paYcikA -->
+  <lg length="verse" pattern="x6rg*x6rg*x6rg*x6rg*" class="anuzwuB" type="ravipulA" ana="vaktra" scan="−⏑−−¦−⏑−⏑¦¦−−⏑⏑¦−⏑−−/−−−−¦−⏑−−¦¦⏑−⏑⏑¦−⏑−−" n="50f">
+   <l>nAsti vaktuM yanna vetsi dehIti ca yAcake yam .</l>
+   <l>sarvajYo 'sti tvaM na tasmAt parAkramabAhudeva ..</l>
+  </lg>
+  <lg length="quarter" pattern="x6ng*x6jg*" class="vipulA" type="navipulA" ana="vaktra" scan="−⏑−−¦⏑⏑⏑−" n="51">
+   <l>no 'mbuDeS-cen-navipulA ..51..</l>
+  </lg>
+  <!-- sukavihfdayAnandinI -->
+  <lg length="verse" pattern="x6ng*x6jg*x6ng*x6jg*" class="anuzwuB" type="navipulA" ana="vaktra" scan="−⏑−−¦⏑⏑⏑−¦¦−−−−¦⏑−⏑−/−⏑−−¦⏑⏑⏑⏑¦¦⏑−−−¦⏑−⏑−" n="51a">
+   <l>lIlayA yena vipulA daMzwrAgreRodDftA mahI .</l>
+   <l>biBratA sOkaramapi vapurvandAmi taM harim ..</l>
+  </lg>
+  <lg length="verse" pattern="x6ng*x6jg*x6ng*x6jg*" class="anuzwuB" type="navipulA" ana="vaktra" scan="⏑−⏑−¦⏑⏑⏑−¦¦⏑−−⏑¦⏑−⏑−/⏑−⏑−¦⏑⏑⏑−¦¦−⏑−⏑¦⏑−⏑−" n="51b">
+   <l>yuyutsuneva kavacaM kimAmuktamidaM tvayA .</l>
+   <l>tapasvino hi vasane kevalAjinavalkale ..</l>
+  </lg>
+  <note>ki. 11.15</note>
+  <!-- On vyaktipakza individual an line is cited -->
+  <!-- n in first pAda -->
+  <lg length="half" pattern="x6ng*x6jg*" class="anuzwuB" type="navipulA" ana="vaktra" scan="⏑−−−¦⏑⏑⏑−¦¦−−−−¦⏑−⏑−" n="51c">
+   <l>anAkfzwasya vizayErvidyAnAM pAradfSvanaH .</l>
+  </lg>
+  <note>ra. 1.23</note>
+  <!-- On vyaktipakza I split the two lines of the following verse -->
+  <!-- n in third pAda -->
+  <lg length="half" pattern="x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" altName="yugmavipulA" ana="vaktra" scan="⏑⏑−⏑¦⏑−−-¦¦---⏑¦⏑−⏑-" n="51d">
+   <l>tava mantrakfto mantrErdUrAt saMSamitAriBiH .</l>
+  </lg>
+  <lg length="half" pattern="x6ng*x6jg*" class="anuzwuB" type="navipulA" ana="vaktra" scan="−-−-¦⏑⏑⏑-¦¦-⏑-⏑¦⏑−⏑-" n="51e">
+   <l>pratyAdiSyanta iva me dfzwalakzyaBidaH SarAH ..</l>
+  </lg>
+  <!-- Candovftti -->
+  <lg length="verse" pattern="x6ng*x6jg*x6ng*x6jg*" class="anuzwuB" type="navipulA" ana="vaktra" scan="−−⏑−¦⏑⏑⏑−¦¦⏑−−⏑¦⏑−⏑-/−−⏑-¦⏑⏑⏑−¦¦−−−-¦⏑−⏑−" n="51f">
+   <l>paSyanti deva caraRadvayaM ye tava BaktitaH .</l>
+   <l>tezAM Bavanti vipulAH sadyaH kalyARasampadaH ..</l>
+  </lg>
+  <!-- paYcikA -->
+  <lg length="verse" pattern="x6ng*x6ng*x6ng*x6ng*" class="anuzwuB" type="navipulA" ana="vaktra" scan="⏑⏑−−¦⏑⏑⏑-¦¦⏑−--¦⏑⏑⏑−/−−⏑−¦⏑⏑⏑−¦¦⏑⏑--¦⏑⏑⏑−" n="51g">
+   <l>upakArAya viduzAmasADUnAmapakfte .</l>
+   <l>jIyAt parAkramaBujo naranATo nirupamaH ..</l>
+  </lg>
+  <lg length="quarter" pattern="x6tg*x6jg*" class="vipulA" type="tavipulA" ana="vaktra" scan="−−−−¦−−⏑−" n="52">
+   <l>to 'bDestat-pUrvAnyA Bavet ..52..</l>
+  </lg>
+  <!-- sukavihfdayAnandinI -->
+  <lg length="verse" pattern="x6tg*x6jg*x6tg*x6jg*" class="anuzwuB" type="tavipulA" ana="vaktra" scan="−-−−¦--⏑−¦¦−⏑−⏑¦⏑−⏑−/⏑−⏑−¦--⏑⏑¦¦⏑−−−¦⏑−⏑−" n="52a">
+   <l>tfzReyaM re tAta SriyaM saMcitAM vipulAM haret .</l>
+   <l>vihAya tasmAt tAM Bava suKI vErAgyasampadA ..</l>
+  </lg>
+  <!-- On vyaktipakza I split the two lines of the following verse -->
+  <!-- t in first pAda -->
+  <lg length="half" pattern="x6tg*x6jg*" class="anuzwuB" type="tavipulA" ana="vaktra" scan="−−⏑−¦--⏑−¦¦−⏑−⏑¦⏑−⏑−" n="52b">
+   <l>vande kaviM SrIBAraviM lokasaMtamasacCidam .</l>
+  </lg>
+  <lg length="half" pattern="x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" altName="yugmavipulA" ana="vaktra" scan="⏑-−-¦⏑−−⏑¦¦---⏑¦⏑−⏑-" n="52c">
+   <l>divA dIpA ivABAnti yasyAgre kavayo 'pare ..</l>
+  </lg>
+  <!-- On vyaktipakza I split the two lines of the following verse -->
+  <!-- t in third pAda -->
+  <lg length="half" pattern="x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" altName="yugmavipulA" ana="vaktra" scan="-⏑−⏑¦⏑−−-¦¦-⏑--¦⏑−⏑-" n="52d">
+   <l>lokavat pratikartavyo lOkikArTaH parIkzakEH .</l>
+  </lg>
+  <lg length="half" pattern="x6tg*x6jg*" class="anuzwuB" type="tavipulA" ana="vaktra" scan="--⏑⏑¦-−⏑⏑¦¦⏑⏑--¦⏑−⏑-" n="52e">
+   <l>lokavyavahAraM prati sadfSO bAlapaRqitO ..</l>
+  </lg>
+  <!-- Examples of m and s vipulA -->
+  <!-- Since a s is not allowed in the 6, changed biBrati ... locanAH  to bibarti ... locanA (pl. to sg.)-->
+  <lg length="verse" pattern="x6mg*x6jg*x6mg*x6jg*" class="anuzwuB" type="mavipulA" ana="vaktra" scan="-−⏑−¦---−¦¦-⏑⏑-¦⏑−⏑−/-−⏑−¦---⏑¦¦−-−⏑¦⏑−⏑−" n="52f">
+   <l>sarvAtiriktaM sOBAgyaM biBarti cArulocanA .</l>
+   <l>strIlokasfzwiH sOmyeva niHsAmyasya tu veDasaH ..</l>
+  </lg>
+  <!-- On vyaktipakza I split the two lines of the following verse -->
+  <!-- m in first pAda -->
+  <lg length="half" pattern="x6mg*x6jg*" class="anuzwuB" type="mavipulA" ana="vaktra" scan="⏑-⏑-¦-−−-¦¦⏑⏑--¦⏑−⏑-" n="52g">
+   <l>mano 'BirAmAH SfRvantO raTanemisvanonmuKEH .</l>
+  </lg>
+  <note>ra 1.39</note>
+  <lg length="half" pattern="x6mg*x6jg*" class="anuzwuB" type="mavipulA" ana="vaktra" scan="⏑-⏑-¦-−−-¦¦---⏑¦⏑−⏑-" n="52h">
+   <l>aTa pradoze dozajYaH saMveSAya viSAMpatiH .</l>
+  </lg>
+  <note>ra 1.93</note>
+  <!-- On vyaktipakza I split the two lines of the following verse -->
+  <!-- m in third pAda -->
+  <lg length="half" pattern="x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" altName="yugmavipulA" ana="vaktra" scan="⏑-⏑-¦⏑−--¦¦--⏑⏑¦⏑−⏑-" n="52i">
+   <l>adUravartinIM sidDiM rAjan vigaRayAtmanaH .</l>
+  </lg>
+  <lg length="half" pattern="x6mg*x6jg*" class="anuzwuB" type="mavipulA" ana="vaktra" scan="⏑-⏑-¦-−--¦¦-⏑⏑⏑¦⏑−⏑-" n="52j">
+   <l>upasTiteyaM kalyARI nAmni kIrtita eva yat ..</l>
+  </lg>
+  <lg length="half" pattern="x6sg*x6jg*" class="anuzwuB" type="savipulA" ana="vaktra" scan="⏑⏑⏑−¦⏑⏑-−¦¦---⏑¦⏑−⏑−" n="52k">
+   <l>kzaRaviDvaMsini kAye kAcintA maraRe raRe .</l>
+  </lg>
+  <!-- Candovftti -->
+  <lg length="verse" pattern="x6tg*x6jg*x6tg*x6jg*" class="anuzwuB" type="tavipulA" ana="vaktra" scan="−−-⏑¦--⏑−¦¦-−−-¦⏑−⏑-/⏑−⏑-¦--⏑−¦¦⏑−⏑⏑¦⏑−⏑−" n="52f">
+   <l>pAdenAhatA yena sA jAtIlubDena mallikA .</l>
+   <l>alestasya dEvAdaho badaryapi sudurlaBA ..</l>
+  </lg>
+  <!-- In the example of saNkIrRavipulA I split the two lines of the following verse -->
+  <!-- t in third pAda -->
+  <lg length="half" pattern="x6ng*x6jg*" class="anuzwuB" type="navipulA" ana="vaktra" scan="⏑-−-¦⏑⏑⏑-¦¦⏑⏑--¦⏑−⏑-" n="52d">
+   <l>kvacit kAle prasaratA kvacidApatya niGnatA .</l>
+  </lg>
+  <lg length="half" pattern="x6Bg*x6jg*" class="anuzwuB" type="BavipulA" ana="vaktra" scan="⏑-⏑-¦-⏑⏑-¦¦⏑---¦⏑−⏑-" n="52e">
+   <l>Suneva sAraNgakulaM tvayA BinnaM dvizAM balam ..</l>
+  </lg>
+  <!-- paYcikA -->
+  <!-- Because s is not allowed in 6, changed latA to vallI -->
+  <lg length="verse" pattern="x6tg*x6tg*x6tg*x6tg*" class="anuzwuB" type="tavipulA" ana="vaktra" scan="⏑-⏑⏑¦--⏑-¦¦⏑⏑-⏑¦--⏑−/−⏑-−¦--⏑−¦¦-⏑-⏑¦--⏑−" n="52g">
+   <l>parAkramabAho praBo prabiBarti te sarvadA .</l>
+   <l>kIrtivallIyaM prARinAM kleSahAnaye satPalam ..</l>
+  </lg>
+  <!-- end of the vaktra prakaraRa -->
+  <!-- beginning of the mAtrAsamaka prakaraRa -->
+  <lg length="quarter" pattern="LLLL+" ana="mAtrAsamaka" type="acalaDfti" scan="⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑" n="53">
+   <l>dvikaguRitavasulaGur-acalaDftir-iha ..53..</l>
+  </lg>
+  <lg length="quarter" pattern="JHsS*" ana="mAtrAsamaka" type="mAtrAsamaka" scan="−−¦⏑⏑−¦⏑⏑−¦−−" n="54">
+   <l>mAtrAsamakaM navamo lgAntam ..54..</l>
+  </lg>
+  <lg length="quarter" pattern="JhbS*" ana="mAtrAsamaka" type="viSloka" scan="−−¦⏑−⏑¦−−¦−−" n="55">
+   <l>jo nlAvaTAmbuDer-viSlokaH ..55..</l>
+  </lg>
+  <lg length="quarter" pattern="JHhS*" ana="mAtrAsamaka" type="vAnavAsikA" scan="−⏑⏑¦−−¦⏑−⏑¦−−" n="56">
+   <l>tad-yugalAd-vAnavAsikA syAt ..56..</l>
+  </lg>
+  <lg length="quarter" pattern="JhKS*" ana="mAtrAsamaka" type="citrA" scan="−−¦⏑⏑⏑⏑¦⏑⏑−¦−−" n="57">
+   <l>vARAzwanavasu yadi laS-citrA ..57..</l>
+  </lg>
+  <lg length="quarter" pattern="JHBS*" ana="mAtrAsamaka" type="upacitrA" scan="−⏑⏑¦−−¦−⏑⏑¦−−" n="58">
+   <l>abDiyugAdBaS-ced-upacitrA ..58..</l>
+  </lg>
+  <note><r>{p}AdAkulaka</r> this meter type combines pAdas of <r>mAtrAsamaka</r> meter together and the following verse 59 is an example of it</note>
+  <lg length="quarter" pattern="JhKS*" ana="mAtrAsamaka" type="citrA" scan="⏑⏑−¦⏑⏑⏑⏑¦⏑⏑−¦⏑⏑−" n="59a">
+   <l>yad-atItakftaviviDalakzmayutEH</l>
+  </lg>
+  <lg length="quarter" pattern="JhbS*" ana="mAtrAsamaka" type="viSloka" scan="−−¦⏑−⏑¦−−¦⏑⏑−" n="59b">
+   <l>mAtrAsamAdipAdEH kalitam .</l>
+  </lg>
+  <lg length="quarter" pattern="JHhS*" ana="mAtrAsamaka" type="vAnavAsikA" scan="⏑⏑⏑⏑¦−⏑⏑¦⏑−⏑¦⏑⏑−" n="59c">
+   <l>aniyatavfttaparimARasahitaM</l>
+  </lg>
+  <lg length="quarter" pattern="JhbS*" ana="mAtrAsamaka" type="viSloka" scan="⏑⏑−¦⏑−⏑¦−−¦⏑⏑−" n="59d">
+   <l>praTitaM jagatsu pAdAkulakam ..59..</l>
+  </lg>
+  <lg length="verse" pattern="MMMM" ana="mAtrAsamaka" type="pAdAkulaka" scan="" n="59" debug="yes">
+   <l>yad-atItakftaviviDalakzmayutEH mAtrAsamAdipAdEH kalitam .</l>
+   <l>aniyatavfttaparimARasahitaM praTitaM jagatsu pAdAkulakam ..59..</l>
+  </lg>
+  <lg length="verse" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="−−⏑−¦⏑−−−¦¦−−−⏑¦⏑−⏑−/⏑⏑−−¦⏑−−−¦¦⏑−⏑⏑¦⏑−⏑−" n="60">
+   <l>vfttasya lA vinA varREr-gA varRA guruBis-taTA .</l>
+   <l>guravo lEr-dale nityaM pramARam-iti niScitam ..60..</l>
+  </lg>
+  <lg length="verse" pattern="xxxxx" class="dvipAda" type="SiKA" ana="mAtrAvftta" scan="⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦−/⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑−" n="61">
+   <l>SiKiguRitadaSalaGuracitam-apagatalaGuyugalam-aparam-idam-aKilam .</l>
+   <l>saguru Sakalayugalakam-api supariGawitalalitapadavitati Bavati SiKA ..61..</l>
+  </lg>
+  <lg length="verse" pattern="xxxxx" class="dvipAda" type="KaYjA" ana="mAtrAvftta" scan="⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑−/⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦−" n="62">
+   <l>vinimayavinihitaSakalayugalakalitapadavitativiracitaguRanicayA .</l>
+   <l>SrutisuKakfdiyam-api jagati Yi jaSira upagatavati sati Bavati KajA ..62..</l>
+  </lg>
+  <lg length="verse" pattern="xxxxx" class="dvipAda" type="anaNgakrIqA" ana="mAtrAvftta" scan="−−¦−−¦−−¦−−¦¦−−¦−−¦−−¦−−/⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑" n="63">
+   <l>azwAvarDe gA dvyaByastA yasyAH sAnaNgakrIqoktA .</l>
+   <l>dalam-aparam-api vasuguRitasalilaniDilaGu kaviracitapadavitati Bavati ..63..</l>
+  </lg>
+  <lg length="half" pattern="xxxxx" class="dvipAda" type="atirucirA" ana="mAtrAvftta" scan="⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑¦¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑⏑⏑⏑¦⏑−" n="64">
+   <l>triguRanavalaGur-avasitigurur-iti dalayugakftatanur-atirucirA ..64..</l>
+  </lg>
+ </div><!-- aDyAya 2 -->
+ <div type="aDyAya" n="3">
+  <head>samavftta</head>
+  <lg length="quarter" syllables="1" pattern="g+" class="uktA" type="SrI" ana="samavftta" scan="−," n="65">
+   <l>gSrIH ..65..</l>
+  </lg>
+  <lg length="quarter" syllables="2" pattern="gg+" class="atyuktA" type="strI" ana="samavftta" scan="−−," n="66">
+   <l>gO strI ..66..</l>
+  </lg>
+  <lg length="quarter" syllables="3" pattern="m+" class="maDyA" type="nArI" ana="samavftta" scan="−−−," n="67">
+   <l>mo nArI ..67..</l>
+  </lg>
+  <lg length="quarter" syllables="3" pattern="r+" class="maDyA" type="mfgI" ana="samavftta" scan="−⏑−," n="68">
+   <l>ro mfgI ..68..</l>
+  </lg>
+  <!-- Changed s to S, despite the edition and the vfttaratnAkara -->
+  <lg length="quarter" syllables="3" pattern="y+" class="maDyA" type="keSA" ana="samavftta" scan="⏑−−" n="68.fn6" bibl="S">
+   <l>
+    <seg>ya keSA</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="4" pattern="mg*" class="pratizWA" type="kanyA" ana="samavftta" scan="−−−−," n="69">
+   <l>mgO cet-kanyA ..69..</l>
+  </lg>
+  <!-- Changed d to q, despite the edition in accordance with the vfttaratnAkara -->
+  <lg length="quarter" syllables="4" pattern="yg*" class="pratizWA" type="vrIqA" ana="samavftta" scan="⏑−−−" n="69.fn2.1" bibl="S">
+   <l>
+    <seg>yagO vrIqA</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="4" pattern="jg*" class="pratizWA" type="lAsinI" ana="samavftta" scan="⏑−⏑−" n="69.fn2.2" bibl="S">
+   <l>
+    <seg>jga lAsinI</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="4" pattern="Bg*" class="pratizWA" type="sumuKI" ana="samavftta" scan="−⏑⏑−" n="69.fn2.3" bibl="S">
+   <l>
+    <seg>BgO sumuKI</seg>
+   </l>
+  </lg>
+  <!-- Corrected sumatI in the edition to sumati as in vfttaratnAkara -->
+  <lg length="quarter" syllables="4" pattern="sg*" class="pratizWA" type="sumati" ana="samavftta" scan="⏑⏑−−" n="69.fn2.4" bibl="S">
+   <l>
+    <seg>sumatiH sgO</seg>
+   </l>
+  </lg>
+  <!-- Corrected samfdDI in the edition to samfdDi as in vfttaratnAkara -->
+  <lg length="quarter" syllables="4" pattern="rg*" class="pratizWA" type="samfdDi" ana="samavftta" scan="−⏑−−" n="69.fn2.5" bibl="S">
+   <l>
+    <seg>rgO samfdDiH</seg>
+   </l>
+  </lg>
+  <!-- Corrected pANkti in the edition to paNkti as in vfttaratnAkara and Apte -->
+  <lg length="quarter" syllables="5" pattern="Bgg*" class="supratizWA" type="paNkti" ana="samavftta" scan="−⏑⏑−−," n="70">
+   <l>BgO giti paNktiH ..70..</l>
+  </lg>
+  <!-- Corrected prItI in the edition to priti as in vfttaratnAkara and Apte -->
+  <lg length="quarter" syllables="5" pattern="rgg*" class="supratizWA" type="prIti" ana="samavftta" scan="−⏑−−−" n="70.fn4.1" bibl="S">
+   <l>
+    <seg>rgOgiti prItiH</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="5" pattern="jgg*" class="supratizWA" type="satI" ana="samavftta" scan="⏑−⏑−−" n="70.fn4.2" bibl="S">
+   <l>
+    <seg>satI jagO gaH</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="5" pattern="tlg*" class="supratizWA" type="mandA" ana="samavftta" scan="−−⏑⏑−" n="70.fn4.3" bibl="S">
+   <l>
+    <seg>mandA talagEH</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="6" pattern="ty*" class="gAyatrI" type="tanumaDyA" ana="samavftta" scan="−−⏑⏑−−," n="71">
+   <l>tyO cet-tanumaDyA ..71..</l>
+  </lg>
+  <lg length="quarter" syllables="6" pattern="ny*" class="gAyatrI" type="SaSivadanA" ana="samavftta" scan="⏑⏑⏑⏑−−," n="72">
+   <l>SaSivadanA nyO ..72..</l>
+  </lg>
+  <lg length="quarter" syllables="6" pattern="ts*" class="gAyatrI" type="vasumatI" ana="samavftta" scan="−−⏑⏑⏑−," n="73">
+   <l>tsO ced-vasumatI ..73..</l>
+  </lg>
+  <lg length="quarter" syllables="6" pattern="mm*" class="gAyatrI" type="vidyulleKA" ana="samavftta" scan="−−−−−−" n="73.fn7.1" bibl="P, V, Dh">
+   <l>
+    <seg>vidyulleKA mo maH</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="6" pattern="rr*" class="gAyatrI" type="sragviRI" ana="samavftta" scan="−⏑−−⏑−" n="73.fn7.2" bibl="P fn">
+   <l>
+    <seg>syAd-rarO sragviRI</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="6" pattern="yy*" class="gAyatrI" type="somarAjI" ana="samavftta" scan="⏑−−⏑−−" n="73.fn7.3" bibl="P fn">
+   <l>
+    <seg>yayO somarAjI</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="6" pattern="ms*" class="gAyatrI" type="somakula" altName="mukula" ana="samavftta" scan="−−−⏑⏑−" n="73.fn7.4" bibl="P fn">
+   <l>
+    <seg>syAn-msO somakulam</seg>
+   </l>
+  </lg>
+  <!-- Corrected my to By as in Apte since my doesn't match the pattern -->
+  <lg length="quarter" syllables="6" pattern="By*" class="gAyatrI" type="kAmalatikA" ana="samavftta" scan="−⏑⏑⏑−−" n="73.fn7.5" bibl="P fn">
+   <l>
+    <seg>kAmalatikA ByO</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="6" pattern="mm*" class="gAyatrI" type="sAvitrI" altName="vidyulleKA" ana="samavftta" scan="−−−−−−" n="73.fn7.6" bibl="S">
+   <l>
+    <seg>mO sAvitrIm-AhuH</seg>
+   </l>
+  </lg>
+  <!-- Corrected vadI in the edition to nadI as in vfttaratnAkara and the altName in Apte -->
+  <lg length="quarter" syllables="6" pattern="mr*" class="gAyatrI" type="nadI" altName="tawI" ana="samavftta" scan="−−−−⏑−" n="73.fn7.7" bibl="S">
+   <l>
+    <seg>mrO yasyAH sA vadI</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="6" pattern="ms*" class="gAyatrI" type="mukula" altName="somakula" ana="samavftta" scan="−−−⏑⏑−" n="73.fn7.8" bibl="S">
+   <l>
+    <seg>msO proktaM mukulam</seg>
+   </l>
+  </lg>
+  <!-- Corrected mAlanI in the edition to mAlinI as in vfttaratnAkara and the altName in Apte -->
+  <lg length="quarter" syllables="6" pattern="rm*" class="gAyatrI" type="mAlinI" ana="samavftta" scan="−⏑−−−−" n="73.fn7.9" bibl="S">
+   <l>
+    <seg>mAlinI rmAByAM syAt</seg>
+   </l>
+  </lg>
+  <!-- Corrected ramanI in the edition to ramaRI as in vfttaratnAkara and the altName in Apte -->
+  <lg length="quarter" syllables="6" pattern="ss*" class="gAyatrI" type="ramaRI" ana="samavftta" scan="⏑⏑−⏑⏑−" n="73.fn7.10" bibl="S">
+   <l>
+    <seg>sayugaM ramaRI</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="7" pattern="msg*" class="uzRij" type="madaleKA" ana="samavftta" scan="−−−⏑⏑−−," n="74">
+   <l>msO gaH syAn-madaleKA ..74..</l>
+  </lg>
+  <lg length="quarter" syllables="7" pattern="srg*" class="uzRij" type="haMsamAlA" ana="samavftta" scan="⏑⏑−−⏑−−" n="74.fn2.1" bibl="S">
+   <l>
+    <seg>saragEH haMsamAlA</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="7" pattern="nBg*" class="uzRij" type="maDumatI" ana="samavftta" scan="⏑⏑⏑−⏑⏑−" n="74.fn2.2" bibl="S">
+   <l>
+    <seg>maDumatI naBagAH</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="7" pattern="jsg*" class="uzRij" type="kumAralalitA" ana="samavftta" scan="⏑−⏑⏑⏑−−" n="74.fn2.3" bibl="S, Dh">
+   <l>
+    <seg>kumAralalitA jsOg</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="7" pattern="tBg*" class="uzRij" type="cUqAmaRi" ana="samavftta" scan="−−⏑−⏑⏑−" n="74.fn2.4" bibl="V">
+   <l>
+    <seg>cUqAmaRistaBagAt</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="8" pattern="BBgg*" class="anuzwuB" type="citrapadA" ana="samavftta" scan="−⏑⏑−⏑⏑−−," n="75">
+   <l>BO giti citrapadA gaH ..75..</l>
+  </lg>
+  <lg length="quarter" syllables="8" pattern="mmgg*" class="anuzwuB" type="vidyunmAlA" ana="samavftta" scan="−−−−(,)−−−−" n="76">
+   <l>mo mo go go vidyunmAlA ..76..</l>
+  </lg>
+  <lg length="quarter" syllables="8" pattern="Btlg*" class="anuzwuB" type="mARavaka" ana="samavftta" scan="−⏑⏑−(,)−⏑⏑−" n="77">
+   <l>mARavakaM BAt-talagAH ..77..</l>
+  </lg>
+  <lg length="quarter" syllables="8" pattern="mngg*" class="anuzwuB" type="haMsaruta" ana="samavftta" scan="−−−⏑⏑⏑−−," n="78">
+   <l>mnO gO haMsarutam-etat ..78..</l>
+  </lg>
+  <lg length="quarter" syllables="8" pattern="rjgl+" class="anuzwuB" type="samAnikA" ana="samavftta" scan="−⏑−⏑−⏑−⏑," n="79">
+   <l>rjO samAnikA galO ca ..79..</l>
+  </lg>
+  <lg length="quarter" syllables="8" pattern="jrlg*" class="anuzwuB" type="pramARikA" ana="samavftta" scan="⏑−⏑−⏑−⏑−," n="80">
+   <l>pramARikA jarO lagO ..80..</l>
+  </lg>
+  <lg length="quarter" syllables="8" pattern="jtgg*" class="anuzwuB" type="vitAna" ana="samavftta" scan="⏑−⏑−−⏑−−," n="81">
+   <l>vitAnam-AByAM yad-anyat ..81..</l>
+  </lg>
+  <!-- sukavihfdayAnandinI -->
+  <!-- vitAna is any anuzwuB/eight-syllabled meter other than pramARikA and samAnikA = samAnI -->
+  <lg length="verse" syllables="8" pattern="trlg*trlg*trlg*trlg*" class="anuzwuB" type="vitAna" altName="nArAcaka nArAcikA" ana="samavftta" scan="--⏑-⏑-⏑-¦¦--⏑-⏑-⏑-/--⏑-⏑-⏑-¦¦--⏑-⏑-⏑-" n="81a">
+   <l>jyotsnAvitAnamEndavaM paSya priye manoramam .</l>
+   <l>kopaM tyaja priyaM Baja strERAM priyaM hi yOvanam ..</l>
+  </lg>
+  <!-- Changed mAlA to mAla in the first pAda of the following to match the pattern -->
+  <lg length="verse" syllables="8" pattern="trlg*trlg*trlg*trlg*" class="anuzwuB" type="vitAna" altName="nArAcaka nArAcikA" ana="samavftta" scan="--⏑-⏑-⏑-¦¦--⏑-⏑-⏑-/--⏑-⏑-⏑-¦¦--⏑-⏑-⏑-" n="81b">
+   <l>kaNkAlamAlaDAriRaM kandarpadarpahAriRam .</l>
+   <l>saMsArabanDamocanaM vandAmahe trilocanam ..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="trlg*trlg*trlg*trlg*" class="anuzwuB" type="vitAna" altName="nArAcaka nArAcikA" ana="samavftta" scan="--⏑-⏑-⏑-¦¦--⏑-⏑-⏑-/--⏑-⏑-⏑-¦¦--⏑-⏑-⏑-" n="81c">
+   <l>tasyAH smarAmi sundaraM candropamAnamAnanam .</l>
+   <l>kandarpacApaBaNguraM BrUviBramopaSoBitam ..</l>
+  </lg>
+  <!-- Candovftti repeats 81b and the preceding but with correct BrUvi for erroneous Sruti in d, which I changed accordingly, and defines it: nArAcakaM tarO lagO -->
+  <!-- paYcikA suggests besides jtgg*, rsll+, the latter of which is undefined previously -->
+  <lg length="verse" syllables="8" pattern="jtgg*jtgg*jtgg*jtgg*" class="anuzwuB" type="vitAna" ana="samavftta" scan="⏑-⏑--⏑--¦¦⏑-⏑--⏑--/⏑-⏑--⏑--¦¦⏑-⏑--⏑--" n="81d">
+   <l>yadA yadA DarmahAnirnfRAM Bavet pApaBAjAm .</l>
+   <l>tadA tadA dozarASirvivfdDya saMmohayettAn ..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="rsll+rsll+rsll+rsll+" class="anuzwuB" type="vitAna" ana="samavftta" scan="-⏑-⏑⏑-⏑⏑¦¦-⏑-⏑⏑-⏑⏑/-⏑-⏑⏑-⏑⏑¦¦-⏑-⏑⏑-⏑⏑" n="81e">
+   <l>pAhi mAM puruzottama sarvato jina gOtama .</l>
+   <l>Baktirastu sadA tvayi satkfpAM kuru tAM mayi ..</l>
+  </lg>
+  <lg length="quarter" syllables="8" pattern="Brlg*" class="anuzwuB" type="nAgaraka" ana="samavftta" scan="−⏑⏑−⏑−⏑−" n="81.fn5.1" bibl="S">
+   <l>
+    <seg>nAgarakaM BarO lagO</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="8" pattern="trlg*" class="anuzwuB" type="nArAcikA" ana="samavftta" scan="−−⏑−⏑−⏑−" n="81.fn5.2" bibl="S">
+   <l>
+    <seg>nArAcikA tarO lagO</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="9" pattern="rns*" class="bfhatI" type="halamuKI" ana="samavftta" scan="−⏑−(,)⏑⏑⏑⏑⏑−" n="82">
+   <l>rAn-nasAv-iha halamuKI ..82..</l>
+  </lg>
+  <lg length="quarter" syllables="9" pattern="nnm*" class="bfhatI" type="BujagaSiSuBftA" ana="samavftta" scan="⏑⏑⏑⏑⏑⏑−(,)−−" n="83">
+   <l>BujagaSiSuBftA1 nO maH ..83..</l>
+  </lg>
+  <lg length="quarter" syllables="9" pattern="rnr*" class="bfhatI" type="BadrikA" ana="samavftta" scan="−⏑−⏑⏑⏑−⏑−" n="83.fn2" bibl="V">
+   <l>
+    <seg>BadrikA Bavati ro narO</seg>
+   </l>
+  </lg>
+  <!-- Used the stem SudDavirAj instead of the edition's SudDavirAq where the vfttaratnAkara and the altName in Apte have SudDavirAw -->
+  <lg length="quarter" syllables="10" pattern="msjg*" class="paNkti" type="SudDavirAj" ana="samavftta" scan="−−−⏑⏑−⏑−⏑−," n="84">
+   <l>msO jgO SudDavirAq-idaM matam ..84..</l>
+  </lg>
+  <lg length="quarter" syllables="10" pattern="mnyg*" class="paNkti" type="paRava" ana="samavftta" scan="−−−⏑⏑(,)⏑⏑−−−" n="85">
+   <l>mnO ygO ceti paRavanAmedam ..85..</l>
+  </lg>
+  <lg length="quarter" syllables="10" pattern="rjrg*" class="paNkti" type="mayUrasAriRI" ana="samavftta" scan="−⏑−⏑−⏑−⏑−−," n="86">
+   <l>rjO ragO mayUrasAriRI syAt ..86..</l>
+  </lg>
+  <lg length="quarter" syllables="10" pattern="Bmsg*" class="paNkti" type="rukmavatI" ana="samavftta" scan="−⏑⏑−−−⏑⏑−−," n="87">
+   <l>BmO sagayuktO rukmavatIyam ..87..</l>
+  </lg>
+  <lg length="quarter" syllables="10" pattern="Bmsg*" class="paNkti" type="campakamAlA" ana="samavftta" scan="−⏑⏑−−(,)−⏑⏑−−" n="87.fn5" bibl="S">
+   <l>
+    <seg>campakamAlA ced-BamasAgaH</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="10" pattern="mBsg*" class="paNkti" type="mattA" altName="haMsI" ana="samavftta" scan="−−−−(,)⏑⏑⏑⏑−−" n="88">
+   <l>jYeyA mattA maBasagayuktA ..88..</l>
+  </lg>
+  <lg length="quarter" syllables="10" pattern="nrjg*" class="paNkti" type="manoramA" ana="samavftta" scan="⏑⏑⏑−⏑−⏑−⏑−," n="89">
+   <l>narajagEr-Baven-manoramA ..89..</l>
+  </lg>
+  <lg length="quarter" syllables="10" pattern="tjjg*" class="paNkti" type="upasTitA" ana="samavftta" scan="−−(,)⏑⏑−⏑⏑−⏑−" n="90">
+   <l>tjO jo guruReyam-upasTitA ..90..</l>
+  </lg>
+  <lg length="quarter" syllables="10" pattern="nBsg*" class="paNkti" type="haMsI" ourName="mattA" ana="samavftta" scan="−−−−⏑⏑⏑⏑−−" n="90.fn3.1" bibl="P fn">
+   <l>
+    <seg>jYeyA haMsI maBasagayuktA</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="10" pattern="Bmjg*" class="paNkti" type="dIpakamAlA" ana="samavftta" scan="−⏑⏑−−−⏑−⏑−" n="90.fn3.2" bibl="P fn">
+   <l>
+    <seg>dIpakamAlA ced-BamO jagO</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="10" pattern="sssg*" class="paNkti" type="meGavitAna" ana="samavftta" scan="⏑⏑−⏑⏑−⏑⏑−−" n="90.fn3.3" bibl="S">
+   <l>
+    <seg>trisagA api meGavitAnam</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="10" pattern="rssg*" class="paNkti" type="maRirAga" ana="samavftta" scan="−⏑−⏑⏑−⏑⏑−−" n="90.fn3.4" bibl="S">
+   <l>
+    <seg>raS-ca sO sagururmaRirAgaH</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="10" pattern="njng*" class="paNkti" type="tvaritagati" ana="samavftta" scan="⏑⏑⏑⏑−⏑⏑⏑⏑−" n="90.fn3.5" bibl="S">
+   <l>
+    <seg>tvaritagatis-tu najanagEH</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="11" pattern="ttjgg*" class="trizwuB" type="indravajrA" ana="samavftta" scan="−−⏑−−⏑⏑−⏑−−," n="91">
+   <l>syAd-indravajrA yadi tO jagO gaH ..91..</l>
+  </lg>
+  <lg length="quarter" syllables="11" pattern="jtjgg*" class="trizwuB" type="upendravajrA" ana="samavftta" scan="⏑−⏑−−⏑⏑−⏑−−," n="92">
+   <l>upendravajrA jatajAs-tato gO ..92..</l>
+  </lg>
+  <lg length="verse" syllables="11" pattern="jtjgg*ttjgg*ttjgg*jtjgg*" class="trizwuB" type="ArdrA" ana="upajAti" scan="⏑−⏑−−⏑⏑−⏑−−,/−−⏑−−⏑⏑−⏑−−,/−−⏑−−⏑⏑−⏑−−,/⏑−⏑−−⏑⏑−⏑−−," n="93">
+   <l>
+    <seg>anantarodIritalakzmaBAjO</seg>
+    <seg>pAdO yadIyAv-upajAtayas-tAH</seg>
+   </l>
+   <l>
+    <seg>itTaM kilAnyAsv-api miSritAsu</seg>
+    <seg>vadanti2 jAtizv-idam-eva nAma ..93..</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="11" pattern="njjlg*" class="trizwuB" type="sumuKI" ana="samavftta" scan="⏑⏑⏑⏑−(,)⏑⏑−⏑⏑−" n="94">
+   <l>najajalagEr-gaditA sumuKI ..94..</l>
+  </lg>
+  <lg length="quarter" syllables="11" pattern="BBBgg*" class="trizwuB" type="doDaka" ana="samavftta" scan="−⏑⏑−⏑⏑−⏑⏑−−," n="95">
+   <l>doDakavfttam-idaM BaBaBAd-gO ..95..</l>
+  </lg>
+  <lg length="quarter" syllables="11" pattern="mttgg*" class="trizwuB" type="SAlinI" ana="samavftta" scan="−−−−,−⏑−−⏑−−" n="96">
+   <l>SAliny-uktA mtO tagO go 'bDilokEH ..96..</l>
+  </lg>
+  <!-- Corrected vAtormi in the edition to vAtormI as in vfttaratnAkara and the altName in Apte, despite the fact that Urmi 'wave' is the correct word -->
+  <lg length="quarter" syllables="11" pattern="mBtgg*" class="trizwuB" type="vAtormI" ana="samavftta" scan="−−−−(,)⏑⏑−−⏑−−" n="97">
+   <l>vAtormIyaM kaTitA mBO tagO gaH ..97..</l>
+  </lg>
+  <lg length="quarter" syllables="11" pattern="Btngg*" class="trizwuB" type="SrI" ourName="anukUlA" ana="samavftta" scan="−⏑⏑−−,⏑⏑⏑⏑−−" n="98">
+   <l>bARarasEH syAd-BatanagagEH SriH ..98..</l>
+  </lg>
+  <lg length="quarter" syllables="11" pattern="mBnlg*" class="trizwuB" type="Bramaravilasita"  altName="BramaravilasitA" ana="samavftta" scan="−−−−(,)⏑⏑⏑⏑⏑⏑−" n="99">
+   <l>mBO nlO gaH syAd-Bramaravilasitam ..99..</l>
+  </lg>
+  <lg length="quarter" syllables="11" pattern="rnrlg*" class="trizwuB" type="raTodDatA" ana="samavftta" scan="−⏑−⏑⏑⏑−⏑−⏑−," n="100">
+   <l>rAnnarAv-iha raTodDatA lagO ..100..</l>
+  </lg>
+  <lg length="quarter" syllables="11" pattern="rnBgg*" class="trizwuB" type="svAgatA" ana="samavftta" scan="−⏑−⏑⏑⏑−⏑⏑−−," n="101">
+   <l>svAgateti ranaBAd-guruyugmam ..101..</l>
+  </lg>
+  <lg length="quarter" syllables="11" pattern="nnsgg*" class="trizwuB" type="vfttA" ana="samavftta" scan="⏑⏑⏑⏑(,)⏑⏑⏑⏑−−−" n="102">
+   <l>nanasagagururacitA vfttA ..102..</l>
+  </lg>
+  <lg length="quarter" syllables="11" pattern="nnrlg*" class="trizwuB" type="BadrikA" ana="samavftta" scan="⏑⏑⏑⏑⏑⏑−⏑−⏑−," n="103">
+   <l>nanaralaguruBiS-ca BadrikA ..103..</l>
+  </lg>
+  <lg length="quarter" syllables="11" pattern="Btngg*" class="trizwuB" type="mOktikamAlA" ana="samavftta" scan="−⏑⏑−−(,)⏑⏑⏑⏑−−" n="104">
+   <l>mOktikamAlA yadi BatanAd-gO ..104..</l>
+  </lg>
+  <lg length="quarter" syllables="11" pattern="jstgg*" class="trizwuB" type="upasTita" ana="samavftta" scan="⏑−⏑⏑⏑−−−⏑−−," n="105">
+   <l>upasTitam-idaM jsO tAd-gakArO ..105..</l>
+  </lg>
+  <lg length="quarter" syllables="11" pattern="jstgg*" class="trizwuB" type="SiKaRqita" ourName="upasTita" ana="samavftta" scan="⏑−⏑⏑⏑−−−⏑−−" n="105.fn1.1" bibl="P fn">
+   <l>
+    <seg>SiKaRqitam-idaM jsO tgO guruS-cet</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="11" pattern="rjrlg*" class="trizwuB" type="SyenikA" altName="vEtikA" ana="samavftta" scan="−⏑−⏑−⏑−⏑−⏑−" n="105.fn1.2" bibl="P, Dh">
+   <l>
+    <seg>SyenikA rajO ralO gurur-yadA</seg>
+   </l>
+  </lg>
+  <!-- Corrected upacitrA in the edition to upacitra as in Apte; vfttaratnAkara has upacitra only as arDasamavftta with the odd pAdas matching this definition -->
+  <lg length="quarter" syllables="11" pattern="ssslg*" class="trizwuB" type="upacitra" ana="samavftta" scan="⏑⏑−⏑⏑−⏑⏑−⏑−" n="105.fn1.3" bibl="V">
+   <l>
+    <seg>upacitram-idaM sasasA lagO</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="11" pattern="nnrgg*" class="trizwuB" type="kupuruzajanitA" ana="samavftta" scan="⏑⏑⏑⏑⏑⏑−⏑−−−" n="105.fn1.4" bibl="V">
+   <l>
+    <seg>kupuruzajanitA nanO rgO gaH</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="11" pattern="nyBgg*" class="trizwuB" type="anavasitA" ana="samavftta" scan="⏑⏑⏑⏑−−,−⏑⏑−−" n="105.fn1.5" bibl="V">
+   <l>
+    <seg>anavasitA nyO BgO guzaq-ante</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="11" pattern="msjgg*" class="trizwuB" type="ekarUpa" ana="samavftta" scan="−−−⏑⏑−⏑−⏑−−" n="105.fn1.6" bibl="S">
+   <l>
+    <seg>maH so jo guruyugmam-ekarUpam</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="11" pattern="rjrlg*" class="trizwuB" type="vEtikA" ana="samavftta" scan="−⏑−⏑−⏑−⏑−⏑−" n="105.fn1.7" bibl="S">
+   <l>
+    <seg>vEtikA rajO ralO gurur-yadA</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="12" pattern="rnBs*" class="jagatI" type="candravartma" ana="samavftta" scan="−⏑−⏑(,)⏑⏑−⏑⏑⏑⏑−" n="106">
+   <l>candravartma nigadanti ranaBasEH ..106..</l>
+  </lg>
+  <lg length="quarter" syllables="12" pattern="jtjr*" class="jagatI" type="vaMSasTa" ana="samavftta" scan="⏑−⏑−−⏑⏑−⏑−⏑−," n="107">
+   <l>jatO tu vaMSasTam-udIrataM jarO ..107..</l>
+  </lg>
+  <lg length="quarter" syllables="12" pattern="ttjr*" class="jagatI" type="indravaMSA" ana="samavftta" scan="−−⏑−−⏑⏑−⏑−⏑−," n="108">
+   <l>syAd-indravaMSA tatajE rasaMyutEH ..108..</l>
+  </lg>
+  <lg length="quarter" syllables="12" pattern="ssss*" class="jagatI" type="towaka" ana="samavftta" scan="⏑⏑−⏑⏑−⏑⏑−⏑⏑−," n="109">
+   <l>iha towakam-ambuDisEH praTitam ..109..</l>
+  </lg>
+  <lg length="quarter" syllables="12" pattern="nBBr*" class="jagatI" type="drutavilambita" ana="samavftta" scan="⏑⏑⏑−⏑⏑−⏑⏑−⏑−," n="110">
+   <l>drutavilambitam-Aha naBO BarO ..110..</l>
+  </lg>
+  <!-- Corrected puwo in edition to puwa as in Apte and vfttaratnAkara -->
+  <lg length="quarter" syllables="12" pattern="nnmy*" class="jagatI" type="puwa" ana="samavftta" scan="⏑⏑⏑⏑⏑⏑−−,−⏑−−" n="111">
+   <l>vasuyugaviratir-nO myO puwo 'yam ..111..</l>
+  </lg>
+  <lg length="quarter" syllables="12" pattern="nnrr*" class="jagatI" type="pramuditavadanA" ana="samavftta" scan="⏑⏑⏑⏑⏑⏑−⏑−−⏑−," n="112">
+   <l>pramuditavadanA Baven-nO ca rO ..112..</l>
+  </lg>
+  <lg length="quarter" syllables="12" pattern="nyny*" class="jagatI" type="kusumavicitrA" ana="samavftta" scan="⏑⏑⏑⏑−−(,)⏑⏑⏑⏑−−," n="113">
+   <l>nayasahitO nyO kusumavicitrA ..113..</l>
+  </lg>
+  <lg length="quarter" syllables="12" pattern="jsjs*" class="jagatI" type="jalodDatagati" ana="samavftta" scan="⏑−⏑⏑⏑−,⏑−⏑⏑⏑−" n="114">
+   <l>rasEr-jasajasA jalodDatagatiH ..114..</l>
+  </lg>
+  <lg length="quarter" syllables="12" pattern="yyyy*" class="jagatI" type="BujaNgaprayAta" ana="samavftta" scan="⏑−−⏑−−⏑−−⏑−−," n="115">
+   <l>BujaNgaprayAtaM Baved-yES-caturBiH ..115..</l>
+  </lg>
+  <lg length="quarter" syllables="12" pattern="rrrr*" class="jagatI" type="sragviRI" ana="samavftta" scan="−⏑−−⏑−−⏑−−⏑−," n="116">
+   <l>rES-caturBir-yutA sragviRI sammatA ..116..</l>
+  </lg>
+  <lg length="quarter" syllables="12" pattern="nBjr*" class="jagatI" type="priyaMvadA" ana="samavftta" scan="⏑⏑⏑−⏑⏑⏑−⏑−⏑−," n="117">
+   <l>Buvi Baven-naBajarEH priyaMvadA ..117..</l>
+  </lg>
+  <lg length="quarter" syllables="12" pattern="tyty*" class="jagatI" type="maRimAlA" ana="samavftta" scan="−−⏑⏑−−,−−⏑⏑−−" n="118">
+   <l>tyO tyO maRimAlA CinnA guhavaktrEH ..118..</l>
+  </lg>
+  <lg length="quarter" syllables="12" pattern="tBjr*" class="jagatI" type="lalitA" ana="samavftta" scan="−−⏑−⏑⏑⏑−⏑−⏑−," n="119">
+   <l>DIrEr-aBARi lalitA taBO jarO ..119..</l>
+  </lg>
+  <lg length="quarter" syllables="12" pattern="sjss*" class="jagatI" type="pramitAkzarA" ana="samavftta" scan="⏑⏑−⏑−⏑⏑⏑−⏑⏑−," n="120">
+   <l>pramitAkzarA sajasasEr-uditA ..120..</l>
+  </lg>
+  <lg length="quarter" syllables="12" pattern="nnBr*" class="jagatI" type="ujjvalA" ana="samavftta" scan="⏑⏑⏑⏑⏑⏑−⏑⏑−⏑−," n="121">
+   <l>nanaBarasahitA mahitojjvalA ..121..</l>
+  </lg>
+  <lg length="quarter" syllables="12" pattern="mmyy*" class="jagatI" type="vESvadevI" ana="samavftta" scan="−−−−−,−⏑−−⏑−−" n="122">
+   <l>paYcAS-cES-CinnA vESvadevI mamO yO ..122..</l>
+  </lg>
+  <lg length="quarter" syllables="12" pattern="mBsm*" class="jagatI" type="jalaDaramAlA" ana="samavftta" scan="−−−−,⏑⏑⏑⏑−−−−" n="123">
+   <l>abDyazwABir-jalaDaramAlA mBO smO ..123..</l>
+  </lg>
+  <lg length="quarter" syllables="12" pattern="njBy*" class="jagatI" type="navamAlikA" ana="samavftta" scan="⏑⏑⏑⏑−⏑−⏑(,)⏑⏑−−" n="124">
+   <l>iha navamAlikA najaBayEH syAt ..124..</l>
+  </lg>
+  <lg length="quarter" syllables="12" pattern="nnrr*" class="jagatI" type="praBA" ana="samavftta" scan="⏑⏑⏑⏑⏑⏑−,⏑−−⏑−" n="125">
+   <l>svaraSaraviratir-nanO rO praBA ..125..</l>
+  </lg>
+  <!-- Corrected mAlanI in the edition to mAlatI as in Apte and vfttaratnAkara -->
+  <lg length="quarter" syllables="12" pattern="njjr*" class="jagatI" type="mAlatI" ana="samavftta" scan="⏑⏑⏑⏑−(,)⏑⏑−⏑−⏑−" n="126">
+   <l>Bavati najAv-aTa mAlatI jarO ..126..</l>
+  </lg>
+  <lg length="quarter" syllables="12" pattern="njjy*" class="jagatI" type="aBinavatAmarasa" ana="samavftta" scan="⏑⏑⏑⏑−⏑⏑−⏑⏑−−," n="127">
+   <l>aBinavatAmarasaM najajAdyaH ..127..</l>
+  </lg>
+  <lg length="quarter" syllables="12" pattern="njjr*" class="jagatI" type="tatI" ana="samavftta" scan="⏑⏑⏑⏑−⏑⏑−⏑−⏑−" n="127.fn3.1" bibl="P fn ">
+   <l>
+    <seg>Bavati tatI najajE rasaMyutEH</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="12" pattern="jjjj+" class="jagatI" type="mOktikadAma" ana="samavftta" scan="⏑−⏑⏑−⏑⏑−⏑⏑−⏑" n="127.fn3.2" bibl="P">
+   <l>
+    <seg>catur-jagaRaM vada mOktikadAma</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="12" pattern="jrjr*" class="jagatI" type="svamocacAmara" altName="paYcacAmara" ana="samavftta" scan="⏑−⏑−⏑−⏑−⏑−⏑−" n="127.fn3.3" bibl="P fn">
+   <l>
+    <seg>jarO jarO vada svamocacAmaram</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="12" pattern="jjjj+" class="jagatI" type="mOktikadAma" ana="samavftta" scan="⏑−⏑⏑−⏑⏑−⏑⏑−⏑" n="127.fn3.4" bibl="Dh">
+   <l>
+    <seg>jajAv-iha mOktikadAma jajO ca</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="12" pattern="jBjr*" class="jagatI" type="paYcacAmara" ourName="paYcacAmara1" ana="samavftta" scan="⏑−⏑−⏑⏑⏑−⏑−⏑−" n="127.fn3.5" bibl="P">
+   <l>
+    <seg>jaBO jarO vadati paYcacAmaram</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="12" pattern="nnrr*" class="jagatI" type="mandAkinI" ana="samavftta" scan="⏑⏑⏑⏑⏑⏑−⏑−−⏑−" n="127.fn3.6" bibl="P fn">
+   <l>
+    <seg>nanararaGawitA tu mandAkinI</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="13" pattern="nnttg*" class="atijagatI" type="kzamA" ana="samavftta" scan="⏑⏑⏑⏑⏑⏑−,−⏑−−⏑−" n="128">
+   <l>turagarasayatir-nO tatO gaH kzamA ..128..</l>
+  </lg>
+  <lg length="quarter" syllables="13" pattern="mnjrg*" class="atijagatI" type="praharziRI" ana="samavftta" scan="−−−,⏑⏑⏑⏑−⏑−⏑−−" n="129">
+   <l>mnO jrO gastridaSayatiH praharziRIyam ..129..</l>
+  </lg>
+  <lg length="quarter" syllables="13" pattern="jBsjg*" class="atijagatI" type="atirucirA" ana="samavftta" scan="⏑−⏑−,⏑⏑⏑⏑−⏑−⏑−" n="130">
+   <l>catur-grahEr-atirucirA jaBasjagAH ..130..</l>
+  </lg>
+  <lg length="quarter" syllables="13" pattern="mtysg*" class="atijagatI" type="mattamayUra" ana="samavftta" scan="−−−−,−⏑⏑−−⏑⏑−−" n="131">
+   <l>vedE ranDrEr-mtO yasagA mattamayUram ..131..</l>
+  </lg>
+  <lg length="quarter" syllables="13" pattern="sjsjg*" class="atijagatI" type="maYjuBAziRI" ana="samavftta" scan="⏑⏑−⏑−⏑⏑⏑−⏑−⏑−," n="132">
+   <l>sajasA jagO Bavati maYjuBAziRI ..132..</l>
+  </lg>
+  <lg length="quarter" syllables="13" pattern="jstsg*" class="atijagatI" type="upasTita" ana="samavftta" scan="⏑−⏑⏑⏑−−−⏑⏑⏑−−" n="132.fn6.1" bibl="P">
+   <l>
+    <seg>upasTitam-idaM jsO tsO sagurukaM cet</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="13" pattern="nnttg*" class="atijagatI" type="candrikA" ana="samavftta" scan="⏑⏑⏑⏑⏑⏑−,−⏑−−⏑−" n="132.fn6.2" bibl="P, Dh">
+   <l>
+    <seg>nanatataguruBiS-candrikAS-vartuBiH</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="13" pattern="jtsjg*" class="atijagatI" type="maYjuhAsinI" ana="samavftta" scan="⏑−⏑−−⏑⏑⏑−⏑−⏑−" n="132.fn6.3" bibl="P fn">
+   <l>
+    <seg>jatO sajO go Bavati maYjuhAsinI</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="13" pattern="sjssg*" class="atijagatI" type="navanandinI" ana="samavftta" scan="⏑⏑−⏑−⏑⏑⏑−⏑⏑−−" n="132.fn6.4" bibl="P fn">
+   <l>
+    <seg>navanandinI sajasasEr-guruyuktEH</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="13" pattern="njttg*" class="atijagatI" type="kuwilagati" ana="samavftta" scan="⏑⏑⏑⏑−⏑−,−⏑−−⏑−" n="132.fn6.5" bibl="P fn">
+   <l>
+    <seg>kuwilagatir-najO saptaBistO gunA</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="13" pattern="ymrrg*" class="atijagatI" type="caYcarIkAvalI" ana="samavftta" scan="⏑−−−−−−⏑−−⏑−−" n="132.fn6.6" bibl="S">
+   <l>
+    <seg>yamO rO viKyAtA caYcarIkAvalI gaH</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="14" pattern="mtnsgg*" class="SakvarI" type="asambADA" ana="samavftta" scan="−−−−−,⏑⏑⏑⏑⏑⏑−−−" n="133">
+   <l>mtO nsO gAvakzagrahaviratir-asambADA ..133..</l>
+  </lg>
+  <lg length="quarter" syllables="14" pattern="nnrslg*" class="SakvarI" type="aparAjitA" ana="samavftta" scan="⏑⏑⏑⏑⏑⏑−,⏑−⏑⏑−⏑−" n="134">
+   <l>nanarasalaGugEH svarEr-aparAjitA ..134..</l>
+  </lg>
+  <lg length="quarter" syllables="14" pattern="nnBnlg*" class="SakvarI" type="praharaRakalitA" ana="samavftta" scan="⏑⏑⏑⏑⏑⏑−(,)⏑⏑⏑⏑⏑⏑−" n="135">
+   <l>nanaBanalag-iti praharaRakalitA ..135..</l>
+  </lg>
+  <lg length="quarter" syllables="14" pattern="tBjjgg*" class="SakvarI" type="vasantatilakA" ana="samavftta" scan="−−⏑−⏑⏑⏑−⏑⏑−⏑−−," n="136">
+   <l>uktA vasantatilakA taBajA jagO gaH ..136..</l>
+  </lg>
+  <!-- Corrected siMhonnata to siMhonnatA in edition and added altName as in vfttaratnAkara -->
+  <lg length="quarter" syllables="14" pattern="tBjjgg*" class="SakvarI" type="siMhonnatA" altName="siMhodDatA" ana="samavftta" scan="−−⏑−⏑⏑⏑−⏑⏑−⏑−−," n="137">
+   <l>siMhonnateyam-uditA munikASyapena ..137..</l>
+  </lg>
+  <lg length="quarter" syllables="14" pattern="tBjjgg*" class="SakvarI" type="udDarziRI" ana="samavftta" scan="−−⏑−⏑⏑⏑−⏑⏑−⏑−−," n="138">
+   <l>udDarziRIyam-uditA munisEtavena ..138..</l>
+  </lg>
+  <lg length="quarter" syllables="14" pattern="tBjjgg*" class="SakvarI" type="maDumADavI" ana="samavftta" scan="−−⏑−⏑⏑⏑−⏑⏑−⏑−−" n="138.fn3.1" bibl="Dh, S fn">
+   <l>
+    <seg>rAmeRa seyam-uditA maDumADavIti</seg>
+   </l>
+  </lg>
+  <!-- Corrected the name from indu in the edition to induvadanA in Apte and vfttaratnAkara -->
+  <lg length="quarter" syllables="14" pattern="Bjsngg*" class="SakvarI" type="induvadanA" altName="varasundarI" ana="samavftta" scan="−⏑⏑⏑−⏑⏑⏑−⏑⏑⏑−−" n="138.fn3.2" bibl="P, V, S">
+   <l>
+    <seg>induvadanA BajasanEH saguruyugmEH</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="14" pattern="msmBgg*" class="SakvarI" type="alolA" ana="samavftta" scan="−−−⏑⏑−−,−−−⏑⏑−−" n="138.fn3.3" bibl="P, V, S">
+   <l>
+    <seg>dviHsaptacCidalolA msO mBO gO caraRe cet</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="14" pattern="sjsylg*" class="SakvarI" type="vasuDA" ana="samavftta" scan="⏑⏑−⏑−,⏑⏑⏑−⏑−−⏑−" n="138.fn3.4" bibl="P fn">
+   <l>
+    <seg>sajasA ylagAS-ca vasuDA sapaYcagrahEH</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="14" pattern="sBnygg" class="SakvarI" type="kuwila" altName="kuwilA" ana="samavftta" scan="⏑⏑−−,⏑⏑⏑⏑⏑⏑,−−−−" n="138.fn3.5" bibl="&lt;r&gt;{C}{S}A&lt;/r&gt;">
+   <l>
+    <seg>yugadigBiH kuwilam iti matasBO nyO gO</seg>
+   </l>
+  </lg>
+  <note>Corrected sTO to sBO.  The definition cited as given in the candaHSAstra doens't match the meter of the given example.  Corrected as follows: kuwilA sBO nyO gO vedarasasamudrAH, it does, but the corrected definition is not itself an example of the meter.
+  </note>
+  <lg length="quarter" syllables="14" pattern="njBjlg*" class="SakvarI" type="Dfti" ana="samavftta" scan="⏑⏑⏑⏑−⏑−⏑⏑⏑−⏑⏑−" n="138.fn3.6" bibl="P fn">
+   <l>
+    <seg>najaBajalag-yutA DftiriyaM kaTitA</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="14" pattern="mBnygg*" class="SakvarI" type="haMsaSyenI" ana="samavftta" scan="−−−−,⏑⏑⏑⏑⏑⏑−−−−" n="138.fn3.7" bibl="P fn">
+   <l>
+    <seg>mBO nyO gO cej-jalaDidaSa ca haMsaSyenI</seg>
+   </l>
+  </lg>
+  <!-- Corrected candrOtasa in edition to candrOrasa as in Apte; not in vfttaratnAkara -->
+  <lg length="quarter" syllables="14" pattern="mBnylg*" class="SakvarI" type="candrOrasa" ana="samavftta" scan="−−−−⏑⏑⏑⏑⏑⏑−−⏑−" n="138.fn3.8" bibl="P fn">
+   <l>
+    <seg>mBO nyO lgO ced-Bavati jagati candrOrasaH</seg>
+   </l>
+  </lg>
+  <!-- Added to altName the name given the pattern in Apte -->
+  <lg length="quarter" syllables="14" pattern="Bnnnlg*" class="SakvarI" type="devaravaratanu" altName="cakrapada" ana="samavftta" scan="−⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−" n="138.fn3.9" bibl="P fn">
+   <l>
+    <seg>devaravaratanu BanananalaGugEH</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="14" pattern="mtnmgg*" class="SakvarI" type="vAsantI" ana="samavftta" scan="−−−−−⏑⏑⏑⏑−−−−−" n="138.fn3.10" bibl="P fn">
+   <l>
+    <seg>masto no mo gO yadi gaditA vAsantIyam</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="14" pattern="nntBgg*" class="SakvarI" type="vavasanta" ana="samavftta" scan="⏑⏑⏑⏑⏑⏑−,−⏑−⏑⏑−−" n="138.fn3.11" bibl="P fn">
+   <l>
+    <seg>nanataBagayutEH saptaBir-vavasantaH</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="15" pattern="nnnns*" class="atiSakvarI" type="SaSikalA" ana="samavftta" altName="candravartA" scan="⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−," n="139">
+   <l>dvihatahayalaGur-aTa giti SaSikalA ..139..</l>
+  </lg>
+  <lg length="quarter" syllables="15" pattern="nnnns*" class="atiSakvarI" type="sraj" ana="samavftta" scan="⏑⏑⏑⏑⏑⏑,⏑⏑⏑⏑⏑⏑⏑⏑−," n="140">
+   <l>sragiti Bavati rasanavakayatir-iyam ..140..</l>
+  </lg>
+  <lg length="quarter" syllables="15" pattern="nnnns*" class="atiSakvarI" type="maRiguRanikara" ana="samavftta" scan="⏑⏑⏑⏑⏑⏑⏑⏑,⏑⏑⏑⏑⏑⏑−" n="141">
+   <l>vasuhayayatir-iha maRiguRanikaraH ..141..</l>
+  </lg>
+  <lg length="quarter" syllables="15" pattern="nnmyy*" class="atiSakvarI" type="mAlinI" ana="samavftta" scan="⏑⏑⏑⏑⏑⏑−−,−⏑−−⏑−−" n="142">
+   <l>nanamayayayuteyaM mAlinI BogilokEH ..142..</l>
+  </lg>
+  <!-- Corrected praBadrakA in edition to praBadraka as in Apte and vfttaratnAkara -->
+  <lg length="quarter" syllables="15" pattern="njBjr*" class="atiSakvarI" type="praBadraka" ana="samavftta" scan="⏑⏑⏑⏑−⏑−⏑⏑⏑−⏑−⏑−," n="143">
+   <l>Bavati najO BajO rasahitO praBadrakam ..143..</l>
+  </lg>
+  <lg length="quarter" syllables="15" pattern="sjnny*" class="atiSakvarI" type="elA" ana="samavftta" scan="⏑⏑−⏑−,⏑⏑⏑⏑⏑⏑⏑⏑−−" n="144">
+   <l>sajanA nayO SaradaSayatir-iyam-elA ..144..</l>
+  </lg>
+  <lg length="quarter" syllables="15" pattern="mrmyy*" class="atiSakvarI" type="candraleKA" ana="samavftta" scan="−−−−⏑−−,−−⏑−−⏑−−" n="145">
+   <l>mrO myO yAntO BavetAM saptAzwaBiS-candraleKA ..145..</l>
+  </lg>
+  <lg length="quarter" syllables="16" pattern="Brnnng*" class="azwi" type="fzaBagajavilasita" ana="samavftta" scan="−⏑⏑−⏑−⏑,⏑⏑⏑⏑⏑⏑⏑⏑−" n="146">
+   <l>BratrinagEH svarAtKam-fzaBagajavilasitam ..146..</l>
+  </lg>
+  <lg length="quarter" syllables="16" pattern="njBjrg*" class="azwi" type="vARinI" ana="samavftta" scan="⏑⏑⏑⏑−⏑−⏑⏑⏑−⏑−⏑−−," n="147">
+   <l>najaBajarEH sadA Bavati vARinI gayuktEH ..147..</l>
+  </lg>
+  <lg length="quarter" syllables="16" pattern="jrjrjg*" class="azwi" type="paYcacAmara" ourName="paYcacAmara2" ana="samavftta" scan="⏑−⏑−⏑−⏑−⏑−⏑−⏑−⏑−" n="147.fn4" bibl="Dh">
+   <l>
+    <seg>jarO jarO jagAv-idaM vadanti paYcacAmaram</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="17" pattern="ymnsBlg*" class="atyazwi" type="SiKariRI" ana="samavftta" scan="⏑−−−−−,⏑⏑⏑⏑⏑−−⏑⏑⏑−" n="148">
+   <l>rasE rudrES-CinnA yamanasaBalA gaH SiKariRI ..148..</l>
+  </lg>
+  <lg length="quarter" syllables="17" pattern="jsjsylg*" class="atyazwi" type="pfTvI" ana="samavftta" scan="⏑−⏑⏑⏑−⏑−,⏑⏑⏑−⏑−−⏑−" n="149">
+   <l>jasO jasayalA vasugrahayatiS-ca pfTvI guruH ..149..</l>
+  </lg>
+  <lg length="quarter" syllables="17" pattern="BrnBnlg*" class="atyazwi" type="vaMSapatrapatita" ana="samavftta" scan="−⏑⏑−⏑−⏑⏑⏑−,⏑⏑⏑⏑⏑⏑−" n="150">
+   <l>diNmunivaMSapatrapatitaM BaranaBanalagEH ..150..</l>
+  </lg>
+  <lg length="quarter" syllables="17" pattern="nsmrslg*" class="atyazwi" type="hariRI" ana="samavftta" scan="⏑⏑⏑⏑⏑−,−−−−,⏑−⏑⏑−⏑−" n="151">
+   <l>rasayugahayEr-nsO mrO slO go yadA hariRI tadA ..151..</l>
+  </lg>
+  <lg length="quarter" syllables="17" pattern="mBnttgg*" class="atyazwi" type="mandAkrAntA" ana="samavftta" scan="−−−−,⏑⏑⏑⏑⏑−,−⏑−−⏑−−" n="152">
+   <l>mandAkrAntA jalaDizaqagEr-mBO natO tAd-gurU cet ..152..</l>
+  </lg>
+  <lg length="quarter" syllables="17" pattern="njBjjg*" class="atyazwi" type="narkuwaka" ana="samavftta" scan="⏑⏑⏑⏑−⏑−,⏑⏑⏑−⏑⏑−⏑⏑−" n="153">
+   <l>hayadaSaBir-najO BajajalA guru narkuwakam ..153..</l>
+  </lg>
+  <lg length="quarter" syllables="17" pattern="njBjjg*" class="atyazwi" type="kokilaka" ana="samavftta" scan="⏑⏑⏑⏑−⏑−,⏑⏑⏑−⏑⏑,−⏑⏑−" n="154">
+   <l>muniguhakArRavEH kftayatI vada kokilakam ..154..</l>
+  </lg>
+  <lg length="quarter" syllables="17" pattern="ssjBjgg*" class="atyazwi" type="atiSAyinI" ana="samavftta" scan="⏑⏑−⏑⏑−⏑−⏑−(,)⏑⏑⏑−⏑−−" n="154.fn4" bibl="P fn">
+   <l>
+    <seg>sasajOr-atiSAyinI matA BajaparEr-guruByAm</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="18" pattern="mtnyyy*" class="Dfti" type="kusumitalatAvellitA" ana="samavftta" scan="−−−−−,⏑⏑⏑⏑⏑−,−⏑−−⏑−−" n="155">
+   <l>syAd-BUtartvaSvEH kusumitalatAvellitA mtO nayO yO ..155..</l>
+  </lg>
+  <lg length="quarter" syllables="18" pattern="nnrrrr*" class="Dfti" type="sAlasA" ourName="nArAca" altName="siMhavikrIqita nArAcaka" ana="samavftta" scan="⏑⏑⏑⏑⏑⏑−⏑−−,⏑−−⏑−−⏑−" n="155.fn3.1" bibl="P fn">
+   <l>
+    <seg>daSavasuviratir-nanO rES-caturBir-yutA sAlasA</seg>
+   </l>
+  </lg>
+  <!-- Corrected edition skUrj to sPUrj as in Apte -->
+  <lg length="quarter" syllables="18" pattern="mmBmyy*" class="Dfti" type="siMhavisPUrjita" ana="samavftta" scan="−−−−−,−−⏑⏑−−,−⏑−−⏑−−" n="155.fn3.2" bibl="P fn">
+   <l>
+    <seg>syAd-BUtartvaSvEr-mO BmO viratiS-cet-siMhavisPUrjitaM yO</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="18" pattern="nnrrrr*" class="Dfti" type="siMhavikrIqita" ana="samavftta" scan="⏑⏑⏑⏑⏑⏑−⏑−−⏑−−⏑−−⏑−" n="155.fn3.3" bibl="S">
+   <l>
+    <seg>kaTitam-iha nanO rarO ced-rarO siMhavikrIqitam</seg>
+   </l>
+  </lg>
+  <!-- Corrected edition karibARaKa, which tells the caesura which I added, to haranartana and added altName mentioned in the edition -->
+  <lg length="quarter" syllables="18" pattern="rsjjBr*" class="Dfti" type="haranartana" altName="vibuDapriyA" ana="samavftta" scan="−⏑−⏑⏑−⏑−,⏑⏑−⏑−,⏑⏑−⏑−" n="155.fn3.4" bibl="S">
+   <l>
+    <seg>rsO jajO BarasaMyutO karibARaKEr-haranartakam</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="19" pattern="msjtttg*" class="atiDfti" type="SArdUlavikrIqita" ana="samavftta" scan="−−−⏑⏑−⏑−⏑⏑⏑−,−−⏑−−⏑−" n="156">
+   <l>sUryASvEr-masajas-tatAH saguravaH SArdUlavikrIqitam ..156..</l>
+  </lg>
+  <lg length="quarter" syllables="19" pattern="ymnsrrg*" class="atiDfti" type="meGavisPUrjitA" ana="samavftta" scan="⏑−−−−−,⏑⏑⏑⏑⏑−,−⏑−−⏑−−" n="156.fn5.1" bibl="S, Dh">
+   <l>
+    <seg>rasartvaSvEr-ymO nsO raraguruyutO meGavisPUrjitA syAt</seg>
+   </l>
+  </lg>
+  <!-- Corrected SUlikakudBiratra, which I believe tells the caesura SUlin = 11, kakud=vasu=8 in edition to racanA as in Apte -->
+  <lg length="quarter" syllables="19" pattern="njBysjg*" class="atiDfti" type="racanA" ana="samavftta" scan="⏑⏑⏑⏑−⏑−⏑⏑⏑−,−⏑⏑−⏑−⏑−" n="156.fn5.2" bibl="P fn">
+   <l>
+    <seg>najaBayasA jagO ca racanA SUlikakudBiratra sA</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="20" pattern="mrBnyBlg*" class="kfti" type="suvadanA" ana="samavftta" scan="−−−−⏑−−,⏑⏑⏑⏑⏑⏑−,−−⏑⏑⏑−" n="157">
+   <l>jYeyAH saptASvazaqBir-maraBanayayutA BlO gaH suvadanA ..157..</l>
+  </lg>
+  <lg length="quarter" syllables="20" pattern="rjrjrjgl+" class="kfti" type="vftta" ana="samavftta" scan="−⏑−⏑−⏑−⏑−⏑−⏑−⏑−⏑−⏑−⏑," n="158">
+   <l>trIrajO galO Baved-ihedfSena lakzaRena vfttanAma ..158..</l>
+  </lg>
+  <lg length="quarter" syllables="20" pattern="sBrnmylg*" class="kfti" type="matteBavikrIqita" ana="samavftta" scan="⏑⏑−,−⏑⏑−⏑−⏑⏑⏑−,−−⏑−−⏑−," n="158.fn5.1" bibl="S">
+   <l>
+    <seg>saBarA namylag-iti trayodaSayatir-matteBavikrIqitam</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="20" pattern="sjjBrslg*" class="kfti" type="pramadAnana" ourName="gItikA" ana="samavftta" scan="⏑⏑−⏑−⏑⏑−⏑−⏑⏑−⏑−⏑⏑−⏑−," n="158.fn5.2" bibl="S">
+   <l>
+    <seg>sajajA BarO salagAS-ca ced-uditaM tadA pramadAnanam</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="20" pattern="mrBnttgg*" class="kfti" type="suvaMSA" ana="samavftta" scan="−−−−⏑−−⏑⏑⏑⏑⏑−−⏑−−⏑−−" n="158.fn5.3" bibl="P fn">
+   <l>
+    <seg>KyAtA pUrvEH suvaMSA yadi maraBanAstadvayaM go guruS-ca</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="21" pattern="mrBnyyy*" class="prakfti" type="sragDarA" ana="samavftta" scan="−−−−⏑−−,⏑⏑⏑⏑⏑⏑−,−⏑−−⏑−−" n="159">
+   <l>mrO BnO yAnAM trayeRa trimuniyatiyutA sragDarA kIrtiteyaM ..159..</l>
+  </lg>
+  <lg length="quarter" syllables="21" pattern="BBBBBBr*" class="prakfti" type="mattavilAsinI" ana="samavftta" scan="−⏑⏑−⏑⏑−⏑⏑−⏑⏑−⏑⏑−⏑⏑−⏑−" n="159.fn8.1" bibl="S">
+   <l>
+    <seg>BO BaBaBAS-ca BarO yadi kIrtiya putraka mattavilAsinIm</seg>
+   </l>
+  </lg>
+  <!-- Corrected edition BadrakA to Badraka, and altName in Apte, and added Apte's madraka as ourName -->
+  <lg length="quarter" syllables="22" pattern="Brnrnrng*" class="Akfti" type="Badraka" ourName="madraka" ana="samavftta" scan="−⏑⏑−⏑−⏑⏑⏑−,⏑−⏑⏑⏑−⏑−⏑⏑⏑−" n="160">
+   <l>BrO naranA ranAv-aTa gurur-digarkaviramaM hi Badrakam-iti ..160..</l>
+  </lg>
+  <lg length="quarter" syllables="22" pattern="msrstjng*" class="Akfti" type="lAlitya" ana="samavftta" scan="−−−⏑⏑−−⏑,−⏑⏑−−−⏑⏑−⏑⏑⏑⏑−" n="160.fn5.1" bibl="P fn">
+   <l>
+    <seg>lAlityaM BujagendreRa BAzitam-etac-cen-masarastajanaguBiH</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="22" pattern="sjtnsrrg*" class="Akfti" type="mahAsragDarA" ana="samavftta" scan="⏑⏑−⏑−⏑−−⏑⏑⏑⏑⏑,⏑−−⏑−−⏑−−" n="160.fn5.2" bibl="P fn">
+   <l>
+    <seg>sajatA nasO rarO gaH kaRituragahayEH syAn-mahAsragDarAKyA</seg>
+   </l>
+  </lg>
+  <!-- Corrected edition aSvalalitA to aSvalalita as in vfttaratnAkara and altName in Apte -->
+  <lg length="quarter" syllables="23" pattern="njBjBjBlg*" class="vikfti" type="aSvalalita" ourName="adritanayA" ana="samavftta" scan="⏑⏑⏑⏑−⏑−⏑⏑⏑−,⏑−⏑⏑⏑−⏑−⏑⏑⏑−" n="161">
+   <l>yad-iha najO BajO BjaBalagAs-tad-aSvalalitaM harArkayatimat ..161..</l>
+  </lg>
+  <lg length="quarter" syllables="23" pattern="mmtnnnnlg*" class="vikfti" type="mattAkrIqA" altName="mattAkrIqa" ana="samavftta" scan="−−−−−−−−,⏑⏑⏑⏑⏑,⏑⏑⏑⏑⏑⏑⏑⏑⏑−" n="162">
+   <l>mattAkrIqA mO tnO nO nalg-iti Bavati vasuSaradaSayatiyutA ..162..</l>
+  </lg>
+  <lg length="quarter" syllables="23" pattern="BBBBBBBgg*" class="vikfti" type="mayUragati" ana="samavftta" scan="−⏑⏑−⏑⏑−⏑⏑−⏑⏑−⏑⏑−⏑⏑−⏑⏑−−" n="162.fn12" bibl="S">
+   <l>
+    <seg>BEr-aTa saptaBir-atra kftA guruRA guruRA ca mayUragatiH syAt</seg>
+   </l>
+  </lg>
+  <lg length="quarter" syllables="24" pattern="BtnsBBny*" class="saNkfti" type="tanvI" ana="samavftta" scan="−⏑⏑−−,⏑⏑⏑⏑⏑⏑−,−⏑⏑−⏑⏑⏑⏑⏑⏑−−" n="163">
+   <l>BUtamunInEr-yatir-iha BatanAH sBO BanayAS-ca yadi Bavati tanvI ..163..</l>
+  </lg>
+  <lg length="quarter" syllables="25" pattern="BmsBnnnng*" class="atikfti" type="krOYcapadA" ana="samavftta" scan="−⏑⏑−−,−⏑⏑−−,⏑⏑⏑⏑⏑⏑⏑⏑,⏑⏑⏑⏑⏑⏑−" n="164">
+   <l>krOYcapadA BmO sBO nananA ngAvizuSaravasumuniviratir-iha Bavet ..164..</l>
+  </lg>
+  <lg length="quarter" syllables="26" pattern="mmtnnnrslg" class="utkfti" type="BujaNgavijfmBita" ana="samavftta" scan="−−−−−−−−,⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−,⏑−⏑⏑−⏑−" n="165">
+   <l>vasvISASvac-CedopetaM mamatanayuganarasalagEr-BujaNgavijfmBitam ..165..</l>
+  </lg>
+  <lg length="quarter" syllables="26" pattern="mnnnnnnsgg" class="utkfti" type="apavAha" ana="samavftta" scan="−−−⏑⏑⏑⏑⏑⏑,⏑⏑⏑⏑⏑⏑,⏑⏑⏑⏑⏑⏑,⏑⏑−−−" n="166">
+   <l>mo nAHzaw sagag-iti yadi navarasarasaSarayatiyutam-apavAhAKyam ..166..</l>
+  </lg>
+  <lg length="quarter" syllables="27" pattern="nnrrrrrrr*" class="daRqaka" type="caRqavfzwiprayAta" ana="samavftta" scan="⏑⏑⏑⏑⏑⏑−⏑−−⏑−−⏑−−⏑−−⏑−−⏑−−⏑−," n="167">
+   <l>yad-iha nayugalaM tataH saptarePAstadA caRqavfzwiprayAto Baved-daRqakaH ..167..</l>
+  </lg>
+  <lg length="quarter" syllables="30" pattern="nnrrrrrrrr*" class="daRqaka" type="arRa" ana="samavftta" scan="⏑⏑⏑⏑⏑⏑−⏑−−⏑−−⏑−−⏑−−⏑−−⏑−−⏑−−⏑−," n="168">
+   <l>praticaraRavivfdDarePAH syur-arRArRavavyAlajImUtalIlAkaroddAmaSaMKyAdayaH ..168..</l>
+  </lg>
+  <lg length="quarter" syllables="27" pattern="nnyyyyyyy*" class="daRqaka" type="pracitaka" ana="samavftta" scan="⏑⏑⏑⏑⏑⏑⏑−−⏑−−⏑−−⏑−−⏑−−⏑−−⏑−−," n="169">
+   <l>pracitakasamaBiDo DIraDIBiH smfto daRqako nadvayAduttarEH saptaBir-yEH ..169..</l>
+  </lg>
+ </div><!-- aDyAya 3 -->
+ <div type="aDyAya" n="4">
+  <head>arDasamavftta</head>
+  <lg length="half" syllables="11/11" pattern="ssslg*BBBgg*" type="upacitra" ana="arDasamavftta" scan="⏑⏑−⏑⏑−⏑⏑−⏑−¦¦−⏑⏑−⏑⏑−⏑⏑−−" n="170">
+   <l>vizame yadi sO salagA dale BO yuji BAd-gurukAv-upacitram ..170..</l>
+  </lg>
+  <lg length="half" syllables="11/12" pattern="BBBgg*njjy*" type="drutamaDyA" ana="arDasamavftta" scan="−⏑⏑−⏑⏑¦−⏑⏑−−¦¦⏑⏑⏑⏑−⏑⏑¦−⏑⏑−−" n="171">
+   <l>Batrayam-ojagataM guruRI ced-yuji ca najO jyayutO drutamaDyA ..171..</l>
+  </lg>
+  <lg length="half" syllables="10/11" pattern="sssg*BBBgg*" type="vegavatI" ana="arDasamavftta" scan="⏑⏑−⏑⏑¦−⏑⏑−−¦¦−⏑⏑−⏑⏑¦−⏑⏑−−" n="172">
+   <l>sayugAtsagurU vizame ced-BAv-iha vegavatI yuji BAd-gO ..172..</l>
+  </lg>
+  <lg length="half" syllables="10/11" pattern="tjrg*msjgg*" type="BadravirAj" ana="arDasamavftta" scan="−−⏑⏑¦−⏑−⏑−−¦¦−−−⏑⏑¦−⏑−⏑−−" n="173">
+   <l>oje taparO jarO guruS-cen-msO jgOg-BadravirAq-Baved-anoje ..173..</l>
+  </lg>
+  <lg length="half" syllables="10/11" pattern="sjsg*Brngg*" type="ketumatI" ana="arDasamavftta" scan="⏑⏑−⏑−⏑⏑⏑−−¦¦−⏑⏑−⏑−⏑⏑⏑−−" n="174">
+   <l>asame sajO saguruyuktO ketumatI same BaranagAd-gaH ..174..</l>
+  </lg>
+  <lg length="half" syllables="11/11" pattern="ttjgg*jtjgg*" type="AKyAnakI" ourName="BadrA" altName="AKyAnikI AKyAtakI AKyAtikI" ana="arDasamavftta" scan="−−⏑−−⏑⏑−⏑−−¦¦⏑−⏑−−⏑⏑−⏑−−" n="175">
+   <l>AKyAnakI tO jagurU ga oje jatAv-anoje jagurU guruS-cet ..175..</l>
+  </lg>
+  <lg length="half" syllables="11/11" pattern="jtjgg*ttjgg*" type="viparItAKyAnakI" ana="arDasamavftta" scan="⏑−⏑−−⏑⏑−⏑−−¦¦−−⏑−−⏑⏑−⏑−−" n="176">
+   <l>jatO jagO go vizame same cet-tO jgO ga ezA viparItapUrvA ..176..</l>
+  </lg>
+  <lg length="half" syllables="11/12" pattern="ssslg*nBBr*" type="hariRaplutA" ana="arDasamavftta" scan="⏑⏑−⏑⏑−⏑⏑−⏑−¦¦⏑⏑⏑−⏑⏑−⏑⏑−⏑−" n="177">
+   <l>sayugAtsalaGU vizame gurur-yuji naBO BarakO hariRaplutA ..177..</l>
+  </lg>
+  <lg length="half" syllables="11/12" pattern="nnrlg*njjr*" type="aparavaktra" ana="arDasamavftta" scan="⏑⏑⏑⏑⏑⏑¦−⏑−⏑−¦¦⏑⏑⏑⏑−⏑⏑¦−⏑−⏑−" n="178">
+   <l>ayuji nanaralA guruH same njam-aparavaktram-idaM tato jarO ..178..</l>
+  </lg>
+  <lg length="half" syllables="10/11" pattern="ssjg*sBrlg*" type="aparavaktra" ana="arDasamavftta" scan="⏑⏑−⏑⏑¦−⏑−⏑−¦¦⏑⏑−−⏑⏑¦−⏑−⏑−" n="178.fn6" bibl="S">
+   <l>
+    <seg>vizame yadi sO jagO same sBaralO go 'paravaktram-Iritam</seg>
+   </l>
+  </lg>
+  <lg length="half" syllables="12/13" pattern="nnry*njjrg*" type="puzpitAgrA" ana="arDasamavftta" scan="⏑⏑⏑⏑⏑⏑¦−⏑−⏑−−¦¦⏑⏑⏑⏑−⏑⏑¦−⏑−⏑−−" n="179">
+   <l>ayuji nayugarePato yakAro yuji ca najO jaragAS-ca puzpitAgrA ..179..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="⏑−⏑⏑¦⏑−−−¦¦−−−−¦⏑−⏑−/⏑⏑−−¦⏑−−⏑¦¦−−−⏑¦⏑−⏑−" n="180">
+   <l>vadanty-aparavaktrAKyaM vEtAlIyaM vipaScitaH .</l>
+   <l>puzpitAgrABiDaM kecid-OpacCandasikaM taTA ..180..</l>
+  </lg>
+  <lg length="half" syllables="12/13" pattern="rjrj+jrjrg*" type="yavamatI" ana="arDasamavftta" scan="−⏑−⏑−⏑−⏑−⏑−⏑¦¦⏑−⏑−⏑−⏑−⏑−⏑−−" n="181">
+   <l>syAd-ayugmake rajO rajO same tu jarO jarO gurur-yavAt-parA matIyam ..181..</l>
+  </lg>
+  <lg length="half" syllables="10/11" pattern="ssjg*sBrlg*" type="lalitA" ana="arDasamavftta" scan="⏑⏑−⏑⏑¦−⏑−⏑−¦¦⏑⏑−−⏑⏑¦−⏑−⏑−" n="181.fn5.1" bibl="S">
+   <l>sasajA vizame yadA guruH saBarAH syal-lalitA same lagO</l>
+  </lg>
+  <lg length="half" syllables="10/11" pattern="ssjg*sBrlg*" type="sundarI" ana="arDasamavftta" scan="⏑⏑−⏑⏑¦−⏑−⏑−¦¦⏑⏑−−⏑⏑¦−⏑−⏑−" n="181.fn5.2" bibl="Dh">
+   <l>
+    <seg>ayujor-yadi sO jagO yujoH saBarAlgA yadi sundarI tadA</seg>
+   </l>
+  </lg>
+  <lg length="half" syllables="11/12" pattern="ssjgg*sBry*" type="mAlaBAriRI" ana="arDasamavftta" scan="⏑⏑−⏑⏑¦−⏑−⏑−−¦¦⏑⏑−−⏑⏑¦−⏑−⏑−−" n="181.fn5.3" bibl="P fn">
+   <l>
+    <seg>vizame sasajA gurU anoje saBarAyaS-ca tu mAlaBAriRIyam</seg>
+   </l>
+  </lg>
+  <lg length="half" syllables="11/12" pattern="ssjgg*sBry*" type="OpacCandasika" ana="arDasamavftta" scan="⏑⏑−⏑⏑¦−⏑−⏑−−¦¦⏑⏑−−⏑⏑¦−⏑−⏑−−" n="181.fn5.4" bibl="P fn">
+   <l>
+    <seg>vizame sasajA gurU anoje sBarayAS-CandasikaM tad-OpapUrvam</seg>
+   </l>
+  </lg>
+ </div><!-- aDyAya 4 -->
+ <div type="aDyAya" n="5">
+  <head>vizamavftta</head>
+  <lg length="verse" syllables="8/12/16/20" pattern="xxxxxxgg*xxxxxxxxxxgg*xxxxxxxxxxxxxxgg*xxxxxxxxxxxxxxxxxxgg*" class="padacaturUrDva" type="padacaturUrDva" ana="vizamavftta" scan="⏑⏑−−⏑−−−/⏑−−⏑⏑−⏑−⏑−−−/⏑⏑−−⏑⏑−−−−−−⏑−−−/⏑⏑⏑⏑⏑⏑⏑⏑⏑−⏑⏑⏑⏑−−⏑−−−" n="182">
+   <l>
+    <seg>muKapAdo 'zwaBir-varREH</seg>
+    <seg>pare syur-makarAlayEH kramAd-vfdDEH .</seg>
+   </l>
+   <l>
+    <seg>satataM yasya vicitrEH pAdEH sampannasOndaryam</seg>
+    <seg>tad-uditam-amalamatiBiH padacatur-UrDvABiDaM vfttam ..182..</seg>
+   </l>
+  </lg>
+  <lg length="verse" syllables="8/12/16/20" pattern="nngg*nnny*nnnnsg*nnnnnngg*" class="padacaturUrDva" type="ApIqa" ana="vizamavftta" scan="⏑⏑⏑⏑⏑⏑−−/⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−−/⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−−/⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−−" n="183">
+   <l>
+    <seg>praTamam-uditavftte</seg>
+    <seg>viracitavizamacaraRaBAji .</seg>
+   </l>
+   <l>
+    <seg>gurukayugalaniDana iha sahita ANA</seg>
+    <seg>laGuviracitapadavivftiyatir-iti Bavati pIqaH ..183..</seg>
+   </l>
+  </lg>
+  <lg length="verse" syllables="12/8/16/20" pattern="nnny*nngg*nnnnsg*nnnnnngg*" class="padacaturUrDva" type="kalikA" ana="vizamavftta" scan="⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−−/⏑⏑⏑⏑⏑⏑−−/⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−−/⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−−" n="184">
+   <l>
+    <seg>praTamam-itaracaraRasamutTaM</seg>
+    <seg>Srayati sa yadi lakzma .</seg>
+   </l>
+   <l>
+    <seg>itaraditaragaditam-api yadi ca turyaM</seg>
+    <seg>caraRayugalakamavikftam-aparam-iti kalikA sA ..184..</seg>
+   </l>
+  </lg>
+  <lg length="verse" syllables="12/16/8/20" pattern="nnny*nnnnsg*nngg*nnnnnngg*" class="padacaturUrDva" type="lavalI" ana="vizamavftta" scan="⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−−/⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−−/⏑⏑⏑⏑⏑⏑−−/⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−−" n="185">
+   <l>
+    <seg>dviguruyutasakalacaraRAntA</seg>
+    <seg>suKacaraRagatam-anuBavati ca tftIyam .</seg>
+   </l>
+   <l>
+    <seg>caraRam-iha hi lakzma</seg>
+    <seg>prakftam-aKilam-api yadidam-anuBavati lavalI sA ..185..</seg>
+   </l>
+  </lg>
+  <lg length="verse" syllables="12/16/20/8" pattern="nnny*nnnnsg*nnnnnngg*nngg*" class="padacaturUrDva" type="amftaDArA" ana="vizamavftta" scan="⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−−/⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−−/⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−−/⏑⏑⏑⏑⏑⏑−−" n="186">
+   <l>
+    <seg>praTamam-aDivasati yadi turyaM</seg>
+    <seg>caram-acaraRapadam-avasitaguruyugmam .</seg>
+   </l>
+   <l>
+    <seg>aKilam-aparam-uparigatam-iti lalitapadayuktA</seg>
+    <seg>tadiyam-amftaDArA ..186..</seg>
+   </l>
+  </lg>
+  <lg length="verse" syllables="10/10/11/13" pattern="sjsl+nsjg*Bnjlg*sjsjg*" class="udgatA" type="udgatA" ana="vizamavftta" scan="⏑⏑−⏑−⏑⏑⏑−⏑/⏑⏑⏑⏑⏑−⏑−⏑−/−⏑⏑⏑⏑⏑⏑−⏑⏑−/⏑⏑−⏑−⏑⏑⏑−⏑−⏑−" n="187">
+   <l>
+    <seg>sajamAdime salaGukO ca</seg>
+    <seg>nasajagurukEr-aTodgatA .</seg>
+   </l>
+   <l>
+    <seg>tryaNGrigataBanajalA gayutAH</seg>
+    <seg>sajasA jagO caraRam-ekataH paWat ..187..</seg>
+   </l>
+  </lg>
+  <lg length="verse" syllables="10/10/10/13" pattern="sjsl+nsjg*rnBg*sjsjg*" class="udgatA" type="sOraBaka" ana="vizamavftta" scan="⏑⏑−⏑−⏑⏑⏑−−/⏑⏑⏑⏑⏑−⏑−⏑−/−⏑−⏑⏑⏑−⏑⏑−/⏑⏑−⏑−⏑⏑⏑−⏑−⏑−" n="188">
+   <l>
+    <seg>caraRatrayaM vrajati lakzma</seg>
+    <seg>yadi sakalam-udgatAgatam .</seg>
+   </l>
+   <l>
+    <seg>rnO BagO Bavati sOraBakaM</seg>
+    <seg>caraRe yadIha Bavatas-tftIyake ..188..</seg>
+   </l>
+  </lg>
+  <lg length="verse" syllables="10/10/12/13" pattern="sjsl+nsjg*nnss*sjsjg*" class="udgatA" type="lalita" ana="vizamavftta" scan="⏑⏑−⏑−⏑⏑⏑−−/⏑⏑⏑⏑⏑−⏑−⏑−/⏑⏑⏑⏑⏑⏑⏑⏑−⏑⏑−/⏑⏑−⏑−⏑⏑⏑−⏑−⏑−" n="189">
+   <l>
+    <seg>nayugaM sakArayugalaM ca</seg>
+    <seg>Bavati caraRe tftIyake .</seg>
+   </l>
+   <l>
+    <seg>tad-uditam-urumatiBir-lalitaM</seg>
+    <seg>yadi Sezam-asya Kalu pUrvatulyakam ..189..</seg>
+   </l>
+  </lg>
+  <lg length="verse" syllables="14/13/9/15" pattern="msjBgg*snjrg*nns*nnnjy*" class="upasTitapracupita" type="upasTitapracupita" ana="vizamavftta" scan="−−−⏑⏑−⏑−⏑−⏑⏑−−/⏑⏑−⏑⏑⏑⏑−⏑−⏑−−/⏑⏑⏑⏑⏑⏑⏑⏑−/⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−⏑⏑−−" n="190">
+   <l>
+    <seg>msO jBO gO praTamANGrir-ekataH pfTag-anyat</seg>
+    <seg>tritayaM sanajaragAs-tato nanO saH .</seg>
+   </l>
+   <l>
+    <seg>trinaparikalitajayO</seg>
+    <seg>pracupitam-idam-uditam-upasTitapUrvam ..190..</seg>
+   </l>
+  </lg>
+  <lg length="verse" syllables="14/13/18/15" pattern="msjBgg*snjrg*nnsnns*nnnjy*" class="upasTitapracupita" type="varDamAna" ana="vizamavftta" scan="−−−⏑⏑−⏑−⏑−⏑⏑−−/⏑⏑−⏑⏑⏑⏑−⏑−⏑−−/⏑⏑⏑⏑⏑⏑⏑⏑−⏑⏑⏑⏑⏑⏑⏑⏑−/⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−⏑⏑−−" n="191">
+   <l>
+    <seg>nO pAde 'Ta tftIyake sanO nasayuktO</seg>
+    <seg>praTamANGrikftayatis-tu varDamAnam .</seg>
+   </l>
+   <l>
+    <seg>tritayam-aparam-api pUrvasadfSam-iha Bavati</seg>
+    <seg>pratatamatiBir-iti gaditaM laGu vfttam ..191..</seg>
+   </l>
+  </lg>
+  <lg length="verse" syllables="14/13/9/15" pattern="msjBgg*snjrg*tjr*nnnjy*" class="upasTitapracupita" type="SudDavirAqArzaBa" ana="vizamavftta" scan="−−−⏑⏑−⏑−⏑−⏑⏑−−/⏑⏑−⏑⏑⏑⏑−⏑−⏑−−/−−⏑⏑−⏑−⏑−/⏑⏑⏑⏑⏑⏑⏑⏑⏑⏑−⏑⏑−−" n="192">
+   <l>
+    <seg>asmin-neva tftIyake yadA tajarAH syuH</seg>
+    <seg>praTame ca viratirArzaBaM bruvanti .</seg>
+   </l>
+   <l>
+    <seg>tac-CudDavirAw puraH sTitaM</seg>
+    <seg>tritayam-aparam-api yadi pUrvasamaM syAt ..192..</seg>
+   </l>
+  </lg>
+  <!-- The following defines the remainder: any pattern of the 8 gaRas plus 0-2 l's and g's at the end of each pAda of unrestricted and not necessarily mutually matching length. -->
+  <lg length="verse" syllables="8/10/7/9" pattern="ssgg*tjjg*mrg*ttm*" class="gATA" type="gATA" ana="vizamavftta" scan="⏑⏑−⏑⏑−−−/−−⏑⏑−⏑⏑−⏑−/−−−−⏑−−/−−⏑−−⏑−−−" n="193">
+   <l>
+    <seg>vizamAkzarapAdaM vA</seg>
+    <seg>pAdEr-asamaM daSaDarmavat .</seg>
+   </l>
+   <l>
+    <seg>yac-Cando noktam-atra</seg>
+    <seg>gATeti tat-sUriBiH proktam ..193..</seg>
+   </l>
+  </lg>
+ </div><!-- aDyAya 5 -->
+ <div type="aDyAya" n="6">
+  <head>prasTArAdi</head>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="−−−−¦⏑−−⏑¦¦−−−⏑¦⏑−⏑−/−−⏑−¦⏑−−⏑¦¦⏑−−−¦⏑−⏑−" n="194">
+   <l>prasTAro nazwam-uddizwam-ekad-vyAdilagakriyA .</l>
+   <l>saMKyAnamaDvayogaS-ca zaqete pratyayAH smftAH ..194..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="−−−⏑¦⏑−−−¦¦⏑−−⏑¦⏑−⏑−/⏑−⏑⏑¦⏑−−−¦¦−−−−¦⏑−⏑−" n="195">
+   <l>pAde sarvagurAvAdyAl-laGuM nyasya guroraDaH .</l>
+   <l>yaTopari taTA SezaM BUyaH kuryAdamuM viDim ..195..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="−−−−¦⏑−−⏑¦¦−−−⏑¦⏑−⏑−/−−−−¦⏑−−−¦¦−−⏑⏑¦⏑−⏑−" n="196">
+   <l>Une dad-yAd-gurUn-eva yAvat-sarvalaGur-Bavet .</l>
+   <l>prastAro 'yaM samAKyAtaS-CandovicitivediBiH ..196..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="−−⏑−¦⏑−−−¦¦−−−−¦⏑−⏑−/⏑⏑−−¦⏑−−−¦¦−−−−¦⏑−⏑−" n="197">
+   <l>nazwasya yo Baved-aNkastasyArDe 'rDe same ca laH .</l>
+   <l>vizame cEkamADAya syAd-arDe 'rDe gurur-Bavet ..197..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="−−−⏑¦⏑−−−¦¦⏑−−−¦⏑−⏑−/⏑−−−¦⏑−−−¦¦−−−−¦⏑−⏑−" n="198">
+   <l>uddizwaM dviguRAnAdyAd-upary-aNkAn-samAliKet .</l>
+   <l>laGusTA ye ca tatrANkAstEH sEkEr-miSritEr-Bavet ..198..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="−−−⏑¦⏑−−−¦¦−⏑−−¦⏑−⏑−/−−−⏑¦⏑−−−¦¦⏑−⏑⏑¦⏑−⏑−" n="199">
+   <l>varRAn-vfttaBavAn-sEkAn-OttarADaryataH sTitAt .</l>
+   <l>ekAdikramataS-cEtAn-upary-upari nikzipet ..199..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="⏑−⏑−¦⏑−−−¦¦⏑−−−¦⏑−⏑−/⏑−−−¦⏑−−⏑¦¦−−−⏑¦⏑−⏑−" n="200">
+   <l>upAntyato nivarteta tyajannekEkam-UrDvataH .</l>
+   <l>upary-AdyAd-guror-ekag-ekad-yAdilagakriyA ..200..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="⏑−⏑−¦⏑−−−¦¦⏑−−−¦⏑−⏑−/−−−⏑¦⏑−−−¦¦−−−⏑¦⏑−⏑−" n="201">
+   <l>lagakriyANkasandohe Bavet-saMKyA vimiSrite .</l>
+   <l>uddizwAMkasamAhAraH sEko vA janayed-imAm ..201..</l>
+  </lg>
+  <lg length="verse" syllables="8" pattern="x6yg*x6jg*x6yg*x6jg*" class="anuzwuB" type="paTyAvaktra" ana="vaktra" scan="−−−⏑¦⏑−−−¦¦−⏑−−¦⏑−⏑−/−−−⏑¦⏑−−⏑¦¦⏑−−−¦⏑−⏑−" n="202">
+   <l>saMKyEva dviguREkonA sadBir-aDvA prakIrtitaH .</l>
+   <l>vfttasyANgulikI vyAptiraDaH kuryAt-taTANgulim ..202..</l>
+  </lg>
+  <lg length="verse" syllables="21" pattern="mrBnyyy*" class="prakfti" type="sragDarA" ana="samavftta" scan="−−−−⏑−−,⏑⏑⏑⏑⏑⏑−,−⏑−−⏑−−/−−−−⏑−−,⏑⏑⏑⏑⏑⏑−,−⏑−−⏑−−/−−−−⏑−−,⏑⏑⏑⏑⏑⏑−−⏑−−⏑−−/−−−−⏑−−,⏑⏑⏑⏑⏑⏑−,−⏑−−⏑−−" n="203">
+   <l>
+    <seg>vaMSe 'BUt-kaSyapasya prakawaguRagaRaH SEvasidDAntavettA</seg>
+    <seg>vipraH pavyekanAmA vimalataramatir-vedatattvArTaboDe .</seg>
+   </l>
+   <l>
+    <seg>kedAras-tasya sUnuH SivacaraRayugArADanEkAgracittaH</seg>
+    <seg>CandastenABirAmaM praviracitam-idaM vfttaratnAkarAKyam ..203..</seg>
+   </l>
+  </lg>
+ </div><!-- aDyAya 6 -->
+</body>

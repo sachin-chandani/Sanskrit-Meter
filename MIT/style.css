@@ -1,0 +1,152 @@
+p{ 	text-align:justify; line-height: 1em; }
+p2{	text-align:center; line-height: 1em; }
+p.big {
+    line-height: 135%;
+}
+
+h1, h2, h3, h4 ,h6
+{
+    color: black;
+	font-weight: normal;
+	line-height: 1.1em;
+	margin: 0 0 .5em 0;
+}
+h1 { font-size: 1.7em; }
+h2 { font-size: 1.5em; }
+h3 { font-weight: bold}
+h6 {text-align:left;
+	font-weight: 1.5em;}
+h5 { font-size: 1.8em;
+	 line-height: 1.1em;
+	 color: white; 
+	 margin: 0.5em 0 0.5em 0;	 }
+
+
+
+a:visited {
+    background-color: yellow;
+}
+
+a:hover {
+    background-color: lightgreen;
+}
+
+a:active {
+    background-color: hotpink;
+} 
+	a:hover,
+	a:active{ text-decoration: underline; }
+body{
+    font-family: Linux Libertine; line-height: 1.2em; background: #FFFFFF;
+    
+}
+
+a {
+    color: red;
+}
+
+pink{
+	color: 	#FF1493;
+}
+
+blue{
+	color: #1E90FF;
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+
+}
+table, td, th {
+    border: 1px solid #ddd; 
+    width:100%;
+    padding: 2px;
+    text-align: left;
+    vertical-align: top;
+}
+.righttable{
+	
+}
+
+.center {
+    margin: auto;
+    width: 1300px;
+    
+    padding: 5px;
+}
+
+
+
+#header {
+    background-color: #A51C30;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+
+#header2 {
+    background-color: #EED2AB;
+    color:black;
+    text-align:left;
+    padding:5px;
+}
+#navs {
+    
+    background-color:#EEEEEE;
+    height:530px;
+    width:500px;
+    float:left;
+    padding:10px; 
+    display:inline
+}
+#section {
+    
+    background-color: #FAFAFA;
+    height:530px;
+    width:520px;
+    float:left;
+    padding:10px; 
+    overflow: scroll;
+    
+}
+#section2 {
+    
+    background-color: #FAFAFA;
+    height:530px;
+    width:760px;
+    float:left;
+    padding:10px; 
+    overflow: scroll;
+    
+}
+#section3 {
+    
+    background-color: #FAFAFA;
+    height:530px;
+    width:760px;
+    float:left;
+    padding:10px; 
+    
+    
+}
+#right {
+    
+    background-color:#EEEEEE;
+    height:530px;
+    width:400px;
+    float:left;
+    padding:10px; 
+    display:inline
+}
+#footer {
+    background-color: #A51C30;
+    color: white;
+    clear:both;
+    text-align:center;
+    padding:1px; 
+    table.lamp {
+    width:auto;
+    border:1px solid #d4d4d4;
+}

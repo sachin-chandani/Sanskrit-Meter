@@ -1,0 +1,946 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE meterClasses SYSTEM "meterClasses.dtd">
+<meterClasses>
+ <parameters>
+  <parameter name="findAll" value="y"/> <!-- Do not stop when first match occurs, find them all-->
+ </parameters>
+ <meterClass name="samavftta" pAda="1">
+  <!-- 1 syllable per pAda -->
+  <meter name="SrI" class="uktA" pattern="g+"/>
+  <!-- 2 syllables per pAda -->
+  <meter name="strI" class="atyuktA" altName="gI" pattern="gg+"/>
+  <meter name="jatru" class="atyuktA" altName="duHKa sAra" pattern="gl+"/>
+  <meter name="suKa" class="atyuktA" altName="mahI" pattern="lg+"/>
+  <meter name="mada" class="atyuktA" altName="puzpa maDu vali" pattern="ll+"/>
+  <!-- 3 syllables per pAda -->
+  <meter name="suvastu" class="maDyA" altName="mfgendra" pattern="j+"/>
+  <meter name="senA" class="maDyA" altName="paYcAla" pattern="t+"/>
+  <meter name="dfk" class="maDyA" altName="kamala" pattern="n+"/>
+  <meter name="hfdya" class="maDyA" altName="mandara" pattern="B+"/>
+  <meter name="nArI" class="maDyA" altName="tAlI SyAmANgI" pattern="m+"/>
+  <meter name="keSA" class="maDyA" altName="DUH Dfti manojYa vana SaSI" pattern="y+"/>
+  <meter name="mfgI" class="maDyA" altName="caYcalA taqit priyA mfgI suDI" pattern="r+"/>
+  <meter name="madana" class="maDyA" altName="pravara rajanI ramaRa" pattern="s+"/>
+  <!-- 4 syllables per pAda -->
+  <meter name="japA" class="pratizWA" pattern="jl+"/>
+  <meter name="jayA" class="pratizWA" altName="nagAnitA nagARikA lAsinI vilAsinI" pattern="jg*"/>
+  <meter name="trapu" class="pratizWA" pattern="tl+"/>
+  <meter name="tArA" class="pratizWA" pattern="tg*"/>
+  <meter name="dayi" class="pratizWA" pattern="nl+"/>
+  <meter name="maDu" altName="kusumitA mfgavaDU satI" class="pratizWA" pattern="ng*"/>
+  <meter name="jatu" class="pratizWA" pattern="Bl+"/>
+  <meter name="sumuKI" altName="lalitA" class="pratizWA" pattern="Bg*"/>
+  <meter name="vallI" class="pratizWA" pattern="ml+"/>
+  <meter name="kanyA" altName="gIti tIrRA" class="pratizWA" pattern="mg*"/>
+  <meter name="sadma" class="pratizWA" pattern="yl+"/>
+  <meter name="vrIqA" altName="vfdDi" class="pratizWA" pattern="yg*"/>
+  <meter name="vartma" altName="DArI" class="pratizWA" pattern="rl+"/>
+  <meter name="samfdDi" altName="fdDi puRya puzpa" class="pratizWA" pattern="rg*"/>
+  <meter name="kadalI" class="pratizWA" pattern="sl+"/>
+  <meter name="sumati" altName="BramarI" class="pratizWA" pattern="sg*"/>
+  <!-- 5 syllables per pAda -->
+  <meter name="satI" altName="SiKA" class="supratizWA" pattern="jgg*"/>
+  <meter name="tizWadgu" altName="hAri" class="supratizWA" pattern="tgg*"/>
+  <meter name="nandA" altName="mandA" class="supratizWA" pattern="tlg*"/>
+  <meter name="yamaka" class="supratizWA" pattern="nll+"/>
+  <meter name="Dfti" altName="aBimuKI kamalamuKI mfgacapalA" class="supratizWA" pattern="nlg*"/>
+  <meter name="paNkti" altName="akzaropapadA akzarapaNkti kAYcanamAlA kuntalatanvI BUtalatanvI haMsa" class="supratizWA" pattern="Bgg*"/>
+  <meter name="Sarma" altName="rati" class="supratizWA" pattern="Blg*"/>
+  <meter name="vidyutBrAntA" altName="saMmohA" class="supratizWA" pattern="mgg*"/>
+  <meter name="sAvitrI" class="supratizWA" pattern="mlg*"/>
+  <meter name="jayA" class="supratizWA" pattern="ylg*"/>
+  <meter name="prIti" class="supratizWA" pattern="rgg*"/>
+  <meter name="Dfti" altName="BAminI bAgurA vidagDaka" class="supratizWA" pattern="rlg*"/>
+  <meter name="GanapaNkti" altName="sudatI" class="supratizWA" pattern="sgg*"/>
+  <meter name="ramA" altName="priyA" class="supratizWA" pattern="slg*"/>
+  <!-- 6 syllables per pAda -->
+  <meter name="sumAlatI" class="gAyatrI" pattern="jj*"/>
+  <meter name="manTAna" altName="KAmAvatAra" class="gAyatrI" pattern="tt*"/>
+  <meter name="tanumaDyA" pattern="ty*"/>
+  <meter name="jalA" class="gAyatrI" pattern="tr*"/>
+  <meter name="vasumatI" class="gAyatrI" pattern="ts*"/>
+  <meter name="damanaka" class="gAyatrI" pattern="nn*"/>
+  <meter name="SaSivadanA" altName="kanakalatA caturaMSA makaraSIrzA mukulitA" pattern="ny*"/>
+  <meter name="maRiruci" altName="girA SaParikA" class="gAyatrI" pattern="nr*"/>
+  <meter name="vikrAntA" class="gAyatrI" pattern="Bm*"/>
+  <meter name="kAmalatikA" altName="kAmalalitA" class="gAyatrI" pattern="By*"/>
+  <meter name="laGumAlinI" altName="mAlinI" class="gAyatrI" pattern="Br*"/>
+  <meter name="sAvitrI" altName="vidyulleKA SezarAja" pattern="mm*"/>
+  <meter name="tawI" hom="1" altName="ramyA sunandA" class="gAyatrI" pattern="my*"/>
+  <meter name="tawI" hom="2" altName="nadI" class="gAyatrI" pattern="mr*"/>
+  <meter name="mukula" altName="paNkti vITI anukUla somakula" class="gAyatrI" pattern="ms*"/>
+  <meter name="SiKaRqinI" class="gAyatrI" pattern="ym*"/>
+  <meter name="somarAjI" altName="druta SaNKanArI" pattern="yy*"/>
+  <meter name="kacCapI" class="gAyatrI" pattern="rn*"/>
+  <meter name="mAlinI" altName="nIlatoyA" class="gAyatrI" pattern="rm*"/>
+  <meter name="haMsamAlA" altName="dviyoDA sragviRI" pattern="rr*"/>
+  <meter name="gurumaDyA" class="gAyatrI" pattern="sB*"/>
+  <meter name="sUcImuKI" class="gAyatrI" pattern="sm*"/>
+  <meter name="vimalA" class="gAyatrI" pattern="sy*"/>
+  <meter name="ramaRI" altName="kumuda tilla tilaka nalinI" class="gAyatrI" pattern="ss*"/>
+  <!-- 7 syllables per pAda -->
+  <meter name="suBadrA" altName="vilambitA" class="uzRik" pattern="jrg*"/>
+  <meter name="kumAralalitA" pattern="jsg*" caesura="3-4"/>
+  <meter name="kumAralalitA" pattern="jsg*" caesura="2-5"/>
+  <meter name="maDukarikA" altName="vajra" class="uzRik" pattern="tng*"/>
+  <meter name="cUqAmaRi" class="uzRik" pattern="tBg*"/>
+  <meter name="BramaramAlA" altName="vajraka" class="uzRik" pattern="tsg*"/>
+  <meter name="suvAsa" class="uzRik" pattern="njl*"/>
+  <meter name="maDumatI" hom="1" pattern="nng*" altName="capalA drutagati lawaha harivilasita"/>
+  <meter name="maDumatI" hom="2" pattern="nBg*"/>
+  <meter name="kumukvatI" altName="kusumavatI" class="uzRik" pattern="nyg*"/>
+  <meter name="manojYA" altName="prakASitA" class="uzRik" pattern="nrg*"/>
+  <meter name="karahaYcI" class="uzRik" pattern="nsl*"/>
+  <meter name="SAradI" altName="DunI paYcamagati" class="uzRik" pattern="Bjg*"/>
+  <meter name="citra" class="uzRik" pattern="Bng*"/>
+  <meter name="kalikA" altName="BogavatI sopAna" class="uzRik" pattern="BBg*"/>
+  <meter name="viDuvaktrA" altName="madaleKA" class="uzRik" pattern="Bsg*"/>
+  <meter name="sarala" class="uzRik" pattern="mBg*"/>
+  <meter name="gAnDarvI" altName="SIrzarUpaka" class="uzRik" pattern="mmg*"/>
+  <meter name="madaleKA" class="uzRik" pattern="msg*"/>
+  <meter name="muditA" class="uzRik" pattern="ysg*"/>
+  <meter name="uzRik" altName="kAminI Kewaka gominI raktA SiKA samAnikA" class="uzRik" pattern="rjg*"/>
+  <meter name="haMsamAlA" class="uzRik" pattern="rrg*"/>
+  <meter name="udDatA" altName="udyatA" class="uzRik" pattern="rsg*"/>
+  <meter name="vimalA" class="uzRik" pattern="sjg*"/>
+  <meter name="dIptA" altName="haMsamAlA" pattern="srg*"/>
+  <!-- anuzwuB 8 syllables -->
+  <meter name="vitAna" class="anuzwuB" pattern="jtgg*"/>
+  <meter name="vitAna" class="anuzwuB" pattern="rsll+"/>
+  <!-- vitAna is any anuzwuB/eight-syllabled meter other than pramARikA and samAnikA = samAnI, but I have named so only the patterns explicitly mentioned and exemplified by the four commentators: including, besides the above, an alternate name viTana for nArAcikA and citrapadA -->
+  <meter name="sucandrapraBA" class="anuzwuB" pattern="jrgl+"/>
+  <meter name="pramARikA" altName="nagasvarUpiRI nArAcaka bAlagarBiRI mattacezwita sTira" class="anuzwuB" pattern="jrlg*"/>
+  <meter name="anuzwuB" class="anuzwuB" pattern="tjlg*"/>
+  <meter name="ketumAlA" class="anuzwuB" pattern="ttgg*"/>
+  <meter name="mftyuYjaya" class="anuzwuB" pattern="tmgl+"/>
+  <meter name="viBA" class="anuzwuB" pattern="trgg*"/>
+  <meter name="narAca" altName="nArAcaka nArAcikA" class="anuzwuB" pattern="trlg*"/>
+  <meter name="SyAmA" class="anuzwuB" pattern="tsgg*"/>
+  <meter name="cittavilAsita" class="anuzwuB" pattern="njgg*"/>
+  <meter name="lalitagati" class="anuzwuB" pattern="njlg*"/>
+  <meter name="ratimAlA" altName="tuNga maDukarasadfSa" class="anuzwuB" pattern="nngg*"/>
+  <meter name="acala" class="anuzwuB" pattern="nnll+"/>
+  <meter name="kusuma" altName="suvikasitakusuma" class="anuzwuB" pattern="nnlg*"/>
+  <meter name="gajagati" class="anuzwuB" pattern="nBlg*"/>
+  <meter name="sumAlatI" class="anuzwuB" pattern="nrlg*"/>
+  <meter name="guRalayanI" class="anuzwuB" pattern="nsgg*"/>
+  <meter name="mahI" altName="kamala" class="anuzwuB" pattern="nslg*"/>
+  <meter name="mARavaka" altName="mAravakakrIqitaka" class="anuzwuB" pattern="Btlg*" caesura="4-4"/>
+  <meter name="nadI" class="anuzwuB" pattern="Bnlg*"/>
+  <meter name="citrapadA" altName="vitAna" class="anuzwuB" pattern="BBgg*"/>
+  <meter name="nAgaraka" class="anuzwuB" pattern="Brlg*"/>
+  <meter name="haMsaruta" class="anuzwuB" pattern="mngg*"/>
+  <meter name="vidyunmAlA" altName="vidyulleKA somakrAnta" class="anuzwuB" pattern="mmgg*" caesura="4-4"/>
+  <meter name="kzamA" class="anuzwuB" pattern="mrlg*"/>
+  <meter name="sicamdrABA" class="anuzwuB" pattern="yrgl+"/>
+  <meter name="samAnI" altName="samAnikA" class="anuzwuB" pattern="rjgl+"/>
+  <meter name="siMhaleKA" altName="mAninI mAlinI samAnikA siMhalIlA" class="anuzwuB" pattern="rjgg*"/>
+  <meter name="latA" altName="anuzwuB haMsinI" class="anuzwuB" pattern="rylg*"/>
+  <meter name="padmamAlA" altName="padminI" class="anuzwuB" pattern="rrgg*"/>
+  <meter name="gATa" class="anuzwuB" pattern="rsgg*"/>
+  <meter name="vimalajalA" class="anuzwuB" pattern="snlg*"/>
+  <meter name="moda" class="anuzwuB" pattern="sBgg*"/>
+  <meter name="suvilAsA" class="anuzwuB" pattern="srgl+"/>
+  <meter name="mahI" class="anuzwuB" pattern="sslg*"/>
+  <!-- 9 syllables -->
+  <meter name="cAruhAsinI" class="bfhatI" pattern="jtr*"/>
+  <meter name="makaralatA" altName="kanakalatA" class="bfhatI" pattern="tnm*"/>
+  <meter name="rucirA" class="bfhatI" pattern="tBy*"/>
+  <meter name="SaSileKA" class="bfhatI" pattern="njy*"/>
+  <meter name="budbuda" class="bfhatI" pattern="njr*"/>
+  <meter name="BujagaSiSuBftA" altName="maDukarikA BujagSiSusftA" class="bfhatI" pattern="nnm*"/>
+  <meter name="upacyuta" class="bfhatI" pattern="nnr*"/>
+  <meter name="laGuaRiguRanikara" altName="kamalA" class="bfhatI" pattern="nns*"/>
+  <meter name="sArANgikA" class="bfhatI" pattern="nys*"/>
+  <meter name="kusumitA" altName="bfhatikA" class="bfhatI" pattern="nrr*"/>
+  <meter name="viSAlA" altName="gurvI bimba SalaBavicalitA" class="bfhatI" pattern="nsy*"/>
+  <meter name="udaya" class="bfhatI" pattern="Bjs*"/>
+  <meter name="utsuka" class="bfhatI" pattern="BBr*"/>
+  <meter name="snigDA" altName="vaktra" class="bfhatI" pattern="Bmm*" caesura="5-4"/>
+  <meter name="maRimaDya" altName="maRibanDa maRimaDyA siMhAkrAntA" class="bfhatI" pattern="Bms*"/>
+  <meter name="sundaraleKA" class="bfhatI" pattern="mty*"/>
+  <meter name="makaralatA" class="bfhatI" pattern="mny*"/>
+  <meter name="siMhakrAntA" altName="pavitrA" class="bfhatI" pattern="mBs*"/>
+  <meter name="rUpamAlA" altName="karpUra" class="bfhatI" pattern="mmm*"/>
+  <meter name="kanaka" altName="gATA" class="bfhatI" pattern="mss*"/>
+  <meter name="bfhatya" class="bfhatI" pattern="yyy*"/>
+  <meter name="kAminI" altName="taraNgavatI BAvinI" class="bfhatI" pattern="rjr*"/>
+  <meter name="BadrikA" hom="1" class="bfhatI" pattern="rnr*"/>
+  <meter name="halamuKI" class="bfhatI" pattern="rns*" caesura="3-6"/>
+  <meter name="mahAlakzmI" class="bfhatI" pattern="rrr*"/>
+  <meter name="tomara" class="bfhatI" pattern="sjj*"/>
+  <meter name="BujaNgasaNgatA" class="bfhatI" pattern="sjr*"/>
+  <meter name="akzi" class="bfhatI" pattern="sjs*"/>
+  <meter name="tAra" class="bfhatI" pattern="ssm*"/>
+  <meter name="sOmyA" class="bfhatI" pattern="sss*"/>
+  <!-- 10 syllables -->
+  <meter name="uzitA" class="paNkti" pattern="jjjg*"/>
+  <meter name="upasTitA" class="paNkti" pattern="tjjg*"/>
+  <meter name="AndolikA" altName="" class="paNkti" pattern="ttrg*" caesura="5-5"/>
+  <meter name="suzamA" class="paNkti" pattern="tyBg*"/>
+  <meter name="madirAkzI" class="paNkti" pattern="tysg*"/>
+  <meter name="kulawA" altName="amftagati tvaritagati" class="paNkti" pattern="njng*" caesura="5-5"/>
+  <meter name="vipulaBujA" class="paNkti" pattern="njyg*"/>
+  <meter name="nilayA" class="paNkti" pattern="nnng*"/>
+  <meter name="manoramA" class="paNkti" pattern="nrjg*" caesura="6-4"/>
+  <meter name="mfgacapalA" altName="suradayitA" class="paNkti" pattern="Btng*"/>
+  <meter name="banDUka" class="paNkti" pattern="Bnmg*"/>
+  <meter name="citragati" altName="doDaka vftta sAravatI" class="paNkti" pattern="BBBg*"/>
+  <meter name="banDUka" altName="" class="paNkti" pattern="BBmg*"/>
+  <meter name="dIpakamAlA" hom="1" class="paNkti" pattern="Bmjg*"/>
+  <meter name="dIpakamAlA" hom="2" altName="" class="paNkti" pattern="Bmtg*"/>
+  <meter name="vfttasamfdDA" class="paNkti" pattern="Bmng*"/>
+  <meter name="rukmavatI" altName="campakamAlA puzpasamfDi rUpavatI suBAvA" class="paNkti" pattern="Bmsg*" caesura="5-5"/>
+  <meter name="paRava" class="paNkti" pattern="mnjg*"/>
+  <meter name="kumudinI" altName="kusumasamuditA" class="paNkti" pattern="mnng*"/>
+  <meter name="paRava" altName="kuvalayamAlA" class="paNkti" pattern="mnyg*" caesura="3-7"/>
+  <meter name="haMsI" hom="1" class="paNkti" pattern="mBng*" caesura="4-6"/>
+  <meter name="haMsakrIqA" class="paNkti" pattern="mBBg*" caesura="4-6"/>
+  <meter name="mattA" altName="vilAsitA haMsI" class="paNkti" pattern="mBsg*" caesura="4-6"/>
+  <meter name="SudDavirAj" class="paNkti" pattern="msjg*"/>
+  <meter name="udData" class="paNkti" pattern="mssg*"/>
+  <meter name="mayUrasAriRI" class="paNkti" pattern="rjrg*"/>
+  <meter name="kalikA" class="paNkti" pattern="rmsg*"/>
+  <meter name="mOktika" altName="paNktikA paTyA marAlikA" class="paNkti" pattern="ryjg*" caesura="5-5"/>
+  <meter name="lAlinI" class="paNkti" pattern="rsjg*"/>
+  <meter name="maRiraNga" altName="maRirAga" class="paNkti" pattern="rssg*"/>
+  <meter name="kamalA" altName="saMyutA" class="paNkti" pattern="sjjg*" caesura="5-5"/>
+  <meter name="mAlA" altName="pramitA" class="paNkti" pattern="sjsg*"/>
+  <meter name="kalagIta" class="paNkti" pattern="styg*" caesura="5-5"/>
+  <meter name="ekarUpa" class="paNkti" pattern="ssjg*"/>
+  <meter name="meGavitAna" altName="vitAna" class="paNkti" pattern="sssg*"/>
+  <meter name="trayI" altName="" class="paNkti" pattern="rrrg*"/>
+  <!-- 11 syllables -->
+  <meter name="upendravajrA" class="trizwuB" pattern="jtjgg*" caesura="5-6"/>
+  <meter name="vilAsinI" class="trizwuB" pattern="jrjgg*"/>
+  <meter name="upasTita" hom="1" altName="SiKaRqita" class="trizwuB" pattern="jstgg*"/>
+  <meter name="saNgatA" altName="sAriRI" class="trizwuB" pattern="jsylg*"/>
+  <meter name="SiKaRqita" class="trizwuB" pattern="jsrgg*"/>
+  <meter name="upasTitA" class="trizwuB" pattern="tjjgg*"/>
+  <meter name="mowanaka" altName="mowaka" class="trizwuB" pattern="tjjlg*"/>
+  <meter name="indravajrA" class="trizwuB" pattern="ttjgg*"/>
+  <meter name="viDvaNkamAlA" altName="layagrAhin" class="trizwuB" pattern="tttgg*"/>
+  <meter name="muKacapalA" altName="aBihitA" class="trizwuB" pattern="tnnlg*"/>
+  <meter name="udyatA" class="trizwuB" pattern="tnrlg*"/>
+  <meter name="utTApanI" altName="viSloka" class="trizwuB" pattern="tBjlg*"/>
+  <meter name="sumuKI" altName="drutapAdagati" class="trizwuB" pattern="njjlg*" caesura="5-6"/>
+  <meter name="asuvilAsa" class="trizwuB" pattern="ntnlg*"/>
+  <meter name="damanaka" class="trizwuB" pattern="nnngg*"/>
+  <meter name="agari" class="trizwuB" pattern="nnnll+"/>
+  <meter name="damanaka" class="trizwuB" pattern="nnnlg*"/>
+  <meter name="kupuruzajanitA" class="trizwuB" pattern="nnrgg*"/>
+  <meter name="BadrikA" hom="2" altName="aparavaktra suBadrikA candrikA" class="trizwuB" pattern="nnrlg*"/>
+  <meter name="vfntA" altName="citrA vfttA vfttANgI pfTvI" class="trizwuB" pattern="nnsgg*"/>
+  <meter name="kamaladalAkzI" altName="ruciramuKI" class="trizwuB" pattern="nynlg*"/>
+  <meter name="anavasitA" altName="patitA SrI mARikyamAlA" class="trizwuB" pattern="nyBgg*" caesura="6-5"/>
+  <meter name="anavasitA" class="trizwuB" pattern="nysgg*"/>
+  <meter name="rAjahaMsI" altName="viBUzaRA" class="trizwuB" pattern="nrrlg*" caesura="6-5"/>
+  <meter name="aSokA" altName="gataviSokA" class="trizwuB" pattern="nsngg*"/>
+  <meter name="sAndrapada" class="trizwuB" pattern="Btngl+"/>
+  <meter name="anukUlA" altName="mOktikamAlA SrI strI kudmaladantI rucirA sAndrapada Badrapada" class="trizwuB" pattern="Btngg*" caesura="5-6"/>
+  <meter name="doDaka" altName="Bittaka" class="trizwuB" pattern="BBBgg*"/>
+  <meter name="rocaka" class="trizwuB" pattern="BBrgg*"/>
+  <meter name="amandapAda" class="trizwuB" pattern="Bsjgg*"/>
+  <meter name="guRANgI" class="trizwuB" pattern="mtjgg*" caesura="4-7"/>
+  <meter name="SAlinI" class="trizwuB" pattern="mttgg*" caesura="4-7"/>
+  <meter name="vAtormI" hom="1" altName="UrmimAlA vAtormimAlA" class="trizwuB" pattern="mBtgg*" caesura="4-7"/>
+  <meter name="Bramaravilasita" altName="BramaravilasitA" class="trizwuB" pattern="mBnlg*" caesura="4-7"/>
+  <meter name="vAtormI" hom="2" class="trizwuB" pattern="mBBgg*" caesura="4-7"/>
+  <meter name="pInaSreRi" class="trizwuB" pattern="mBsgg*"/>
+  <meter name="mAlatI" class="trizwuB" pattern="mmmgg*"/>
+  <meter name="ekarUpa" altName="maRi merurUpA" class="trizwuB" pattern="msjgg*" caesura="6-5"/>
+  <meter name="antarvanitA" class="trizwuB" pattern="msmgg*"/>
+  <meter name="SreRi" altName="tAla niHSreRikA SyenI SyenikA vEtikA senikA" class="trizwuB" pattern="rjrlg*"/>
+  <meter name="drutA" altName="raYjitA" class="trizwuB" pattern="rjslg*" caesura="5-6"/>
+  <meter name="svAgatA" altName="dIpaka" class="trizwuB" pattern="rnBgg*"/>
+  <meter name="raTodDatA" class="trizwuB" pattern="rnrlg*"/>
+  <meter name="acyuta" class="trizwuB" pattern="rsslg*"/>
+  <meter name="sAriRI" class="trizwuB" pattern="sjylg*"/>
+  <meter name="aparAntikA" class="trizwuB" pattern="sBrlg*"/>
+  <meter name="vimalA" class="trizwuB" pattern="smnlg*"/>
+  <meter name="apayoDA" class="trizwuB" pattern="srmgg*"/>
+  <meter name="upacitra" altName="viduzI" class="trizwuB" pattern="ssslg*"/>
+  <!-- 12 syllables -->
+  <meter name="mOktikadAma" class="jagatI" pattern="jjjj+"/>
+  <meter name="vaMSasTa" altName="aBravaMSA vaMSasTA vaMSasTabila SudDavirAj" class="jagatI" pattern="jtjr*" caesura="6-6"/>
+  <meter name="paYcacAmara" hom="1" altName="priyaMvadA" class="jagatI" pattern="jBjr*"/>
+  <meter name="smfti" class="jagatI" pattern="jBsy*" caesura="4-8"/>
+  <meter name="paYcacAmara" altName="pramARa vasantacatvara vasantacAmara viBAvarI svamocacAmara" class="jagatI" pattern="jrjr*"/>
+  <meter name="haMsa" class="jagatI" pattern="jrBr*"/>
+  <meter name="jalodDatagati" class="jagatI" pattern="jsjs*" caesura="6-6"/>
+  <meter name="kola" class="jagatI" pattern="jssy*"/>
+  <meter name="indravaMSA" class="jagatI" pattern="ttjr*"/>
+  <meter name="kAmAvatAra" altName="sAraNgarUpaka" class="jagatI" pattern="tttt+"/>
+  <meter name="lalitA" class="jagatI" pattern="tBjr*"/>
+  <meter name="Sruti" class="jagatI" pattern="tBsy*" caesura="4-8"/>
+  <meter name="maRimAlA" altName="abjavicitrA puzpavicitrA" class="jagatI" pattern="tyty*" caesura="6-6"/>
+  <meter name="vAhinI" class="jagatI" pattern="tymy*" caesura="7-5"/>
+  <meter name="aBinavatAmarasa" altName="kamalavilAsinI tAmarasa lalitapadA" class="jagatI" pattern="njjy*" caesura="8-4"/>
+  <meter name="mAlatI" altName="tati tatI yamunA varatanu" class="jagatI" pattern="njjr*" caesura="6-6"/>
+  <meter name="mAlatI" altName="tati tatI yamunA varatanu" class="jagatI" pattern="njjr*" caesura="5-7"/>
+  <meter name="navamAlinI" altName="navamAlikA vanamAlinI" class="jagatI" pattern="njBy*" caesura="8-4"/>
+  <meter name="navamAlinI" altName="navamAlikA vanamAlinI" class="jagatI" pattern="njBy*" caesura="7-5"/>
+  <meter name="kamalalocanA" class="jagatI" pattern="nnjs*"/>
+  <meter name="taralanayanA" class="jagatI" pattern="nnnn+"/>
+  <meter name="ujjvalA" altName="calanetrikA" class="jagatI" pattern="nnBr*"/>
+  <meter name="puwa" class="jagatI" pattern="nnmy*" caesura="8-4"/>
+  <meter name="lalita" altName="tata" class="jagatI" pattern="nnmr*"/>
+  <meter name="kAmadattA" class="jagatI" pattern="nnry*" caesura="5-7"/>
+  <meter name="mandAkinI" altName="gOrI caYcalAkzI pramuditavadanA praBA" class="jagatI" pattern="nnrr*" caesura="7-5"/>
+  <meter name="muKara" altName="kalahaMsA drutapada" class="jagatI" pattern="nBjy*" caesura="5-9"/>
+  <meter name="priyaMvadA" altName="mattakokila" class="jagatI" pattern="nBjr*"/>
+  <meter name="drutapada" class="jagatI" pattern="nBny*"/>
+  <meter name="drutavilambita" altName="sundarI hariRaplutA ujjvalA" class="jagatI" pattern="nBBr*"/>
+  <meter name="kusumavicitrA" altName="gajalalita" class="jagatI" pattern="nyny*" caesura="6-6"/>
+  <meter name="kumudaniBA" class="jagatI" pattern="nyry*" caesura="6-6"/>
+  <meter name="matA" altName="bahumatA" class="jagatI" pattern="nrnr*" caesura="6-6"/>
+  <meter name="meGAvalI" altName="vasantA" class="jagatI" pattern="nrrr*"/>
+  <meter name="lalanA" altName="rati" class="jagatI" pattern="Btns*" caesura="5-7"/>
+  <meter name="mowaka" altName="BAminI modaka" class="jagatI" pattern="BBBB+" caesura="3-3-3-3"/>
+  <meter name="jalamAlA" class="jagatI" pattern="BBms*" caesura="4-8"/>
+  <meter name="kAntotpIqA" class="jagatI" pattern="Bmsm*"/>
+  <meter name="lalanA" altName="lalitA" class="jagatI" pattern="Bmss*" caesura="5-7"/>
+  <meter name="puRwarIka" class="jagatI" pattern="mBry*" caesura="4-8"/>
+  <meter name="jalaDaramAlA" class="jagatI" pattern="mBsm*" caesura="4-8"/>
+  <meter name="vidyADara" altName="kalyARa kAYcana" class="jagatI" pattern="mmmm*"/>
+  <meter name="vikrAntA" class="jagatI" pattern="mmms*"/>
+  <meter name="vESvadevI" altName="candrakAntA candraleKA" class="jagatI" pattern="mmyy*" caesura="5-7"/>
+  <meter name="BujaNgaprayAta" altName="aprameyA" class="jagatI" pattern="yyyy*"/>
+  <meter name="samAna" class="jagatI" pattern="rjrj+"/>
+  <meter name="candravartma" altName="vitAna" class="jagatI" pattern="rnBs*"/>
+  <meter name="dugDa" class="jagatI" pattern="rBjr*"/>
+  <meter name="kumudinI" class="jagatI" pattern="ryny*"/>
+  <meter name="sragviRI" altName="padminI lakzmIDara" class="jagatI" pattern="rrrr*"/>
+  <meter name="pramitAkzarA" class="jagatI" pattern="sjss*"/>
+  <meter name="mahendravajrA" altName="kekirava SivikA" class="jagatI" pattern="sysy*"/>
+  <meter name="towaka" altName="Cittaka nandinI BramarAvali" class="jagatI" pattern="ssss*"/>
+  <!-- 13 syllables -->
+  <meter name="maYjuhAsinI" altName="maYjuBAziRI maYjuvAdinI mandaBAziRI sanDivarziRI" class="atijagatI" pattern="jtsjg*" caesura="5-8"/>
+  <meter name="rucirA" altName="kalAvatI praBAvatI atirucirA sadAgati" class="atijagatI" pattern="jBsjg*" caesura="4-9"/>
+  <meter name="upasTita" hom="2" class="atijagatI" pattern="jstsg*"/>
+  <meter name="aBraka" class="atijagatI" pattern="tBjjg*"/>
+  <meter name="praBavatI" class="atijagatI" pattern="tBrjg*" caesura="4-9"/>
+  <meter name="lakzmI" altName="praBAvatI ruci" class="atijagatI" pattern="tBsjg*" caesura="4-9"/>
+  <meter name="mfgendramuKa" altName="suvaktrA acala" class="atijagatI" pattern="njjrg*"/>
+  <meter name="kuwilagati" altName="kuwajagati" class="atijagatI" pattern="njttg*" caesura="7-6"/>
+  <meter name="madakalitA" class="atijagatI" pattern="njnsg*"/>
+  <meter name="kuwajagati" class="atijagatI" pattern="njmjg*" caesura="7-6"/>
+  <meter name="maYjuBAziRI" class="atijagatI" pattern="njsjg*"/>
+  <meter name="kOmudI" altName="urvaSI" class="atijagatI" pattern="ntttg*"/>
+  <meter name="UrvaSI" class="atijagatI" pattern="nttrg*" caesura="7-6"/>
+  <meter name="kuwilagati" altName="kzamA candrikA vidyut" class="atijagatI" pattern="nnttg*" caesura="7-6"/>
+  <meter name="kzamA" class="atijagatI" pattern="nntrg*" caesura="4-9"/>
+  <meter name="gOrI" class="atijagatI" pattern="nntsg*"/>
+  <meter name="tvaritagati" altName="capalA laGugati" class="atijagatI" pattern="nnnng*"/>
+  <meter name="gOrI" class="atijagatI" pattern="nnnsg*"/>
+  <meter name="kzmA" class="atijagatI" pattern="nnmrg*" caesura="7-6"/>
+  <meter name="candrikA" class="atijagatI" pattern="nnryg*"/>
+  <meter name="gOrI" class="atijagatI" pattern="nnsrg*"/>
+  <meter name="caRqI" altName="kamalalocanA kamalAkzI" class="atijagatI" pattern="nnssg*"/>
+  <meter name="laya" class="atijagatI" pattern="nsjjg*"/>
+  <meter name="vidyunmAlikA" altName="vidyut" class="atijagatI" pattern="nsttg*" caesura="6-7"/>
+  <meter name="candraleKA" altName="vidyut" class="atijagatI" pattern="nsrrg*" caesura="6-7"/>
+  <meter name="paNkAvalI" class="atijagatI" pattern="Bnjjl+"/>
+  <meter name="aNgaruci" class="atijagatI" pattern="BBBBg*"/>
+  <meter name="mattamayUra" class="atijagatI" pattern="mtysg*" caesura="4-9"/>
+  <meter name="kOqqamBa" class="atijagatI" pattern="mtsrg*" caesura="5-8"/>
+  <meter name="praharziRI" altName="mayUrapicCa" class="atijagatI" pattern="mnjrg*" caesura="3-10"/>
+  <meter name="mohapralApa" class="atijagatI" pattern="mBBBg*" caesura="4-9"/>
+  <meter name="SreyomAlA" class="atijagatI" pattern="mmjjg*" caesura="4-9"/>
+  <meter name="vidyunmAlA" hom="2" class="atijagatI" pattern="mmtng*"/>
+  <meter name="caYcarIkAvalI" altName="candrikA candriRI maYjarIkAvalI" class="atijagatI" pattern="ymrrg*" caesura="6-7"/>
+  <meter name="kanda" class="atijagatI" pattern="yyyyl+"/>
+  <meter name="kanduka" class="atijagatI" pattern="yyyyg*"/>
+  <meter name="jaYA" altName="kanakapraBA nandinI praboDitA maYjuBAziRI manovatI vilambitA sunandinI sumaNgalI" class="atijagatI" pattern="sjsjg*" caesura="5-8"/>
+  <meter name="sunandinI" class="atijagatI" pattern="sjsmg*"/>
+  <meter name="kuwaja" altName="kalahaMsa nandinI navanandinI BramarI siMhanAda sumaNgalikA" class="atijagatI" pattern="sjssg*"/>
+  <meter name="budbudaka" class="atijagatI" pattern="snstg*"/>
+  <meter name="rati" class="atijagatI" pattern="sBnsg*" caesura="4-9"/>
+  <meter name="maRikuRqala" altName="sudanta" class="atijagatI" pattern="sysjg*"/>
+  <meter name="tAraka" class="atijagatI" pattern="ssssg*"/>
+  <!-- 14 syllables -->
+  <meter name="kuwila" class="SakvarI" pattern="jBnygg*" caesura="4-10"/>
+  <meter name="rAjaramaRIya" class="SakvarI" pattern="jsrngg*" caesura="7-7"/>
+  <meter name="vasantatilakA" altName="vasantatilaka indumuKI udDarziRI karRotpalA maDumADavI SoBAvatI siMhodDatA siMhonnatA" class="SakvarI" pattern="tBjjgg*" caesura="8-6"/>
+  <meter name="kalahaMsI" class="SakvarI" pattern="tysBgg*" caesura="6-8"/>
+  <meter name="kumArI" class="SakvarI" pattern="njBjgg*" caesura="8-6"/>
+  <meter name="pramadA" altName="Dfti maRikaRwaka" class="SakvarI" pattern="njBjlg*"/>
+  <meter name="nadI" class="SakvarI" pattern="nntjgg*" caesura="7-7"/>
+  <meter name="nandImuKI" altName="vasanta" class="SakvarI" pattern="nnttgg*" caesura="7-7"/>
+  <meter name="vavasanta" class="SakvarI" pattern="nntBgg*"/>
+  <meter name="supavitra" altName="upacitra" class="SakvarI" pattern="nnnngg*" caesura="8-6"/>
+  <meter name="praharaRakalitA" altName="praharaRakalikA" class="SakvarI" pattern="nnBnlg*" caesura="7-7"/>
+  <meter name="karimakaraBujA" class="SakvarI" pattern="nnmylg*" caesura="7-7"/>
+  <meter name="aparAjitA" class="SakvarI" pattern="nnrslg*" caesura="7-7"/>
+  <meter name="viBramA" class="SakvarI" pattern="nnssgg*"/>
+  <meter name="SaraBalalita" altName="SaraBA" class="SakvarI" pattern="nBntgg*" caesura="4-6-4"/>
+  <meter name="siMha" class="SakvarI" pattern="nmrslg*" caesura="7-7"/>
+  <meter name="sukesara" class="SakvarI" pattern="nrnrlg*"/>
+  <meter name="induvadanA" hom="1" class="SakvarI" pattern="Bjsnlg*"/>
+  <meter name="induvadanA" hom="2" altName="kAntA mahitA vanamayUra varasundarI vilAsinI sKalita" class="SakvarI" pattern="Bjsngg*"/>
+  <!-- Added altName as in vrttaratnakaraVerses.pdf to the following -->
+  <meter name="cakrapada" altName="devaravaratanu" class="SakvarI" pattern="Bnnnlg*"/>
+  <meter name="durdaraka" class="SakvarI" pattern="BBrslg*"/>
+  <meter name="rudrA" altName="lakzmI" class="SakvarI" pattern="Bsttgg*"/>
+  <meter name="vAsantI" class="SakvarI" pattern="mtnmgg*"/>
+  <meter name="asambADA" class="SakvarI" pattern="mtnsgg*" caesura="5-9"/>
+  <meter name="BUtalatanvI" altName="kusumavatI" class="SakvarI" pattern="mtynlg*"/>
+  <meter name="govfza" class="SakvarI" pattern="mtysgg*" caesura="4-10"/>
+  <meter name="maDyakzAmA" altName="haMsaSyenI" class="SakvarI" pattern="mBnmgg*" caesura="4-10"/>
+  <meter name="kuwilaka" altName="kuwilA kuwila" class="SakvarI" pattern="mBnygg*" caesura="4-6-4"/>
+  <meter name="haMsaSyAmA" altName="haMsaSyenI maDyakzAmA" class="SakvarI" pattern="mBnygg*" caesura="4-10"/>
+  <meter name="candrOrasa" class="SakvarI" pattern="mBnylg*"/>
+  <meter name="candraSAlA" altName="lakzmI" class="SakvarI" pattern="mrttgg*" caesura="7-7"/>
+  <meter name="jyotsnA" class="SakvarI" pattern="mrmylg*" caesura="7-7"/>
+  <meter name="jayA" class="SakvarI" pattern="mrrslg*" caesura="7-7"/>
+  <meter name="lakzmI" hom="1" class="SakvarI" pattern="mstngg*"/>
+  <meter name="lakzmI" hom="2" class="SakvarI" pattern="mstBgg*"/>
+  <meter name="alolA" altName="lolA" class="SakvarI" pattern="msmBgg*" caesura="7-7"/>
+  <meter name="vanalatA" altName="latA valanA" class="SakvarI" pattern="rnBBgg*"/>
+  <meter name="sudarSanA" class="SakvarI" pattern="sjnrlg*" caesura="5-9"/>
+  <meter name="maYjarI" altName="vasuDA paTyA praTitA" class="SakvarI" pattern="sjsylg*" caesura="5-9"/>
+  <meter name="paTyA" class="SakvarI" pattern="sjsylg*" caesura="10-4"/>
+  <meter name="kuwila" class="SakvarI" pattern="sBnygg*" caesura="4-10"/>
+  <meter name="sunandA" class="SakvarI" pattern="sBsjgg*" caesura="4-10"/>
+  <!-- 15 syllables -->
+  <meter name="mayUralalita" class="atiSakvarI" pattern="jsnBy*"/>
+  <meter name="SiSu" class="atiSakvarI" pattern="tjssy*"/>
+  <meter name="mfdangaka" class="atiSakvarI" pattern="tBjjr*"/>
+  <meter name="aravindaka" altName="kalaBAziRI" class="atiSakvarI" pattern="njjBr*"/>
+  <meter name="praBadraka" altName="sukesara suKelaka" class="atiSakvarI" pattern="njBjr*"/>
+  <meter name="upamAlinI" class="atiSakvarI" pattern="nntBr*" caesura="8-7"/>
+  <meter name="candrAvartA" altName="candravartma SaSikalA" class="atiSakvarI" pattern="nnnns*" caesura="7-8"/>
+  <meter name="mAlA" altName="SaraBa sraj" class="atiSakvarI" pattern="nnnns*" caesura="6-9"/>
+  <meter name="maRiguRanikara" class="atiSakvarI" pattern="nnnns*" caesura="8-7"/>
+  <meter name="rucirA" class="atiSakvarI" pattern="nnnns*" caesura="4-1-4-6"/>
+  <meter name="gO" class="atiSakvarI" pattern="nnBBr*"/>
+  <meter name="mAlinI" altName="nAndImuKI" class="atiSakvarI" pattern="nnmyy*" caesura="8-7"/>
+  <meter name="candrodyata" class="atiSakvarI" pattern="nnmrr*" caesura="8-7"/>
+  <meter name="BoginI" class="atiSakvarI" pattern="nnryy*"/>
+  <meter name="vipinatilaka" class="atiSakvarI" pattern="nsnrr*"/>
+  <meter name="niSipAlaka" class="atiSakvarI" pattern="Bjsnr*"/>
+  <meter name="saNgataka" class="atiSakvarI" pattern="BBmss*"/>
+  <meter name="BUtalatanvI" class="atiSakvarI" pattern="BmsBs*"/>
+  <meter name="ketana" class="atiSakvarI" pattern="Byssy*"/>
+  <meter name="kAmakrIqA" altName="jyotis mitra lIlAKela sAraNgI" class="atiSakvarI" pattern="mmmmm*" caesura="4-4-4-3"/>
+  <meter name="caYcalA" altName="citrA maRqUkI" class="atiSakvarI" pattern="mmmyy*" caesura="8-7"/>
+  <meter name="candraleKA" altName="candrasenA" class="atiSakvarI" pattern="mrmyy*" caesura="7-8"/>
+  <meter name="mahotsava" altName="utsava utsAha tURaka" class="atiSakvarI" pattern="rjrjr*" caesura="7-8"/>
+  <meter name="maRiBUzaRa" altName="sundara" class="atiSakvarI" pattern="rnBBr*" caesura="5-10"/>
+  <meter name="ramaRIyaka" altName="utsara" class="atiSakvarI" pattern="rnBBr*" caesura="3-12"/>
+  <meter name="cAmara" altName="tURaka" class="atiSakvarI" pattern="rrjjr*" caesura="7-8"/>
+  <meter name="candraleKA" class="atiSakvarI" pattern="rrttm*" caesura="8-7"/>
+  <meter name="candrakrAntA" class="atiSakvarI" pattern="rrtyy*" caesura="7-8"/>
+  <meter name="candrakAntA" hom="1" altName="candraleKA" class="atiSakvarI" pattern="rrmyy*" caesura="7-8"/>
+  <meter name="candrakAntA" hom="1" class="atiSakvarI" pattern="rrmsy*" caesura="7-8"/>
+  <meter name="candraleKA" class="atiSakvarI" pattern="rrrrr*"/>
+  <meter name="mAnasahaMsa" altName="manohaMsa" class="atiSakvarI" pattern="sjjBr*"/>
+  <meter name="SaradaSakavirati" altName="atireKA elA reKA" class="atiSakvarI" pattern="sjnny*" caesura="5-10"/>
+  <meter name="fzaBa" altName="vfzaBa" class="atiSakvarI" pattern="sjssy*"/>
+  <meter name="nalinI" altName="BramarAvali SrI" class="atiSakvarI" pattern="sssss*"/>
+  <!-- 16 syllables -->
+  <meter name="paYcacAmara" hom="2" altName="nArAca mahotsava" class="azwi" pattern="jrjrjg*"/>
+  <meter name="bAlA" class="azwi" pattern="tnBtyg*"/>
+  <meter name="mandAkinI" class="azwi" pattern="tmyrtg*" caesura="4-4-4-4"/>
+  <meter name="garuqaruta" class="azwi" pattern="njBjtg*"/>
+  <meter name="vARinI" class="azwi" pattern="njBjrg*" caesura="7-9"/>
+  <meter name="maRikalpalatA" altName="indumuKI cintAmaRi" class="azwi" pattern="njrBBg*"/>
+  <meter name="kamaladala" class="azwi" pattern="nnnjsg*" caesura="5-11"/>
+  <meter name="acalaDfti" altName="gItyAryA" class="azwi" pattern="nnnnnl+"/>
+  <meter name="calaDfti" class="azwi" pattern="nnnnng*"/>
+  <meter name="maNgalamaNganA" class="azwi" pattern="nBjjjg*" caesura="4-12"/>
+  <meter name="sulalitA" class="azwi" pattern="nmjsng*" caesura="4-4-4-4"/>
+  <meter name="kAnta" class="azwi" pattern="nynysg*" caesura="12-4"/>
+  <meter name="aSvagati" altName="aSvakrAntA Kagati nIla padmamuKI saNgata sopAnaka" class="azwi" pattern="BBBBBg*"/>
+  <meter name="SaramAlA" altName="smaraSaramAlA" class="azwi" pattern="BBBBsg*"/>
+  <meter name="fzaBagajavilasita" altName="gajavaravilasita gajaturagavilasita mattagajavilasita" class="azwi" pattern="Brnnng*" caesura="7-9"/>
+  <meter name="BAminI" altName="SElaSiKA" class="azwi" pattern="BrnBBg*" caesura="5-6-5"/>
+  <meter name="DIralalitA" altName="pramuditA mahizI lalitA" class="azwi" pattern="Brnrng*" caesura="10-6"/>
+  <meter name="varayuvati" class="azwi" pattern="Brynng*" caesura="10-6"/>
+  <meter name="cakitA" class="azwi" pattern="Bsmtng*" caesura="8-8"/>
+  <meter name="komalalatA" class="azwi" pattern="mtsttg*" caesura="4-5-7"/>
+  <meter name="suratalalitA" class="azwi" pattern="mnstrg*"/>
+  <meter name="madanalalitA" class="azwi" pattern="mBnmng*" caesura="4-6-6"/>
+  <meter name="kAmukI" altName="brahmarUpa" class="azwi" pattern="mmmmmg*"/>
+  <meter name="jayAnanda" altName="sulalita pravaralalita" class="azwi" pattern="ymnsrg*" caesura="6-10"/>
+  <meter name="caYcalA" altName="citraSoBA" class="azwi" pattern="rjrjrl+"/>
+  <meter name="citra" class="azwi" pattern="rjrjrg*"/>
+  <meter name="lalanA" class="azwi" pattern="rnnnng*"/>
+  <meter name="udgatA" class="azwi" pattern="sjssjg*"/>
+  <meter name="pramadA" class="azwi" pattern="stysBg*" caesura="4-4-4-4"/>
+  <meter name="sKalitavikramA" class="azwi" pattern="sBmsBg*"/>
+  <meter name="vellitA" class="azwi" pattern="ssnnmg*"/>
+  <meter name="kAmukI" altName="somaqaka" class="azwi" pattern="sssssg*"/>
+  <!-- 17 syllables -->
+  <meter name="pfTvI" altName="vilambitagati" class="atyazwi" pattern="jsjsylg*" caesura="8-9"/>
+  <meter name="ruciramuKI" class="atyazwi" pattern="njjynlg*"/>
+  <meter name="vARinI" altName="narkuwaka" class="atyazwi" pattern="njBjjgg*" caesura="7-10"/>
+  <meter name="narkuwaka" altName="avitaTa kuwaka nardawaka" class="atyazwi" pattern="njBjjlg*" caesura="7-10"/>
+  <meter name="kokilaka" class="atyazwi" pattern="njBjjlg*" caesura="7-6-4"/>
+  <meter name="vilAsinI" altName="samadavilAsinI" class="atyazwi" pattern="njBjBlg*" caesura="12-5"/>
+  <meter name="vasuDArA" class="atyazwi" pattern="nnnnngg*" caesura="5-12"/>
+  <meter name="DanamayUra" class="atyazwi" pattern="nnBsrlg*" caesura="7-6-4"/>
+  <meter name="hari" class="atyazwi" pattern="nnmrslg*" caesura="6-4-7"/>
+  <meter name="mAlADara" class="atyazwi" pattern="nsjsylg*"/>
+  <meter name="padma" class="atyazwi" pattern="nsmttgg*" caesura="6-4-7"/>
+  <meter name="rohiRI" class="atyazwi" pattern="nsmmylg*" caesura="6-4-7"/>
+  <meter name="hariRI" altName="vfzaBacarita vfzaBalalita" class="atyazwi" pattern="nsmrslg*" caesura="6-4-7"/>
+  <meter name="vaMSapatrapatita" altName="vaMSadala vaMSapatra lalita" class="atyazwi" pattern="BrnBnlg*" caesura="10-7"/>
+  <meter name="mandAkrAntA" altName="SrIDarA" class="atyazwi" pattern="mBnttgg*" caesura="4-6-7"/>
+  <meter name="hAriRI" class="atyazwi" pattern="mBnmylg*" caesura="4-6-7"/>
+  <meter name="BArAkrAntA" class="atyazwi" pattern="mBnrslg*" caesura="4-6-7"/>
+  <meter name="kalAtantra" class="atyazwi" pattern="ytnsBlg*"/>
+  <meter name="kAntA" altName="BArAkrAntA" class="atyazwi" pattern="yBnrslg*" caesura="4-6-7"/>
+  <meter name="SiKariRI" class="atyazwi" pattern="ymnsBlg*" caesura="6-11"/>
+  <meter name="citraleKA" altName="atiSAyinI" class="atyazwi" pattern="ssjBjgg*" caesura="10-7"/>
+  <!-- 18 syllables -->
+  <meter name="nandana" class="Dfti" pattern="njBjrr*" caesura="11-7"/>
+  <meter name="lalita" class="Dfti" pattern="nnmtBr*" caesura="7-4-7"/>
+  <meter name="candramAlA" class="Dfti" pattern="nnmmyy*" caesura="7-4-7"/>
+  <meter name="latA" class="Dfti" pattern="nnrBrr*" caesura="10-8"/>
+  <meter name="gajendralatA" class="Dfti" pattern="nnrBrs*" caesura="10-8"/>
+  <meter name="nArAca" altName="nArAcaka mahAmAlikA lAlasI niSA baradA lAlasA siMhavikrIqita sAlasA" class="Dfti" pattern="nnrrrr*" caesura="10-8"/>
+  <meter name="tArakA" altName="niSA priyA" class="Dfti" pattern="nnrrrr*" caesura="13-5"/>
+  <meter name="paNkajamuktA" altName="paNkajavaktrA" class="Dfti" pattern="nnssty*" caesura="4-9-5"/>
+  <meter name="hariRIpada" class="Dfti" pattern="nsmtBr*" caesura="6-4-8"/>
+  <meter name="anaNgaleKA" class="Dfti" pattern="nsmmyy*" caesura="6-5-7"/>
+  <meter name="BaNgi" altName="vicCitti" class="Dfti" pattern="BBBBny*" caesura="6-4-8"/>
+  <meter name="aSvagati" class="Dfti" pattern="BBBBBs*"/>
+  <meter name="maRimAlA" class="Dfti" pattern="BBBBBs*" caesura="11-7"/>
+  <meter name="Bramarapadaka" class="Dfti" pattern="Brnnns*" caesura="9-9"/>
+  <meter name="hIraka" class="Dfti" pattern="Bsnjnr*" caesura="6-5-7"/>
+  <meter name="kuraNgikA" class="Dfti" pattern="mtnjBr*" caesura="5-7-6"/>
+  <meter name="kusumitalatAvellitA" altName="candraleKA citraleKA" class="Dfti" pattern="mtnyyy*" caesura="5-6-7"/>
+  <meter name="citraleKA" hom="1" class="Dfti" pattern="mtnyyy*" caesura="4-7-7"/>
+  <meter name="citraleKA" hom="2" class="Dfti" pattern="mnnttm*" caesura="4-7-7"/>
+  <meter name="cala" class="Dfti" pattern="mBnjBr*" caesura="4-7-7"/>
+  <meter name="candraleKA" class="Dfti" pattern="mBnyyy*" caesura="4-7-7"/>
+  <meter name="kesara" altName="keSara" class="Dfti" pattern="mBnyrr*" caesura="4-7-7"/>
+  <meter name="siMhavisPUrjita" class="Dfti" pattern="mmBmyy*" caesura="5-6-7"/>
+  <meter name="maYjIrA" class="Dfti" pattern="mmBmsm*" caesura="9-9"/>
+  <meter name="mahAsena" class="Dfti" pattern="mrBnts*" caesura="7-11"/>
+  <meter name="kAYcI" altName="vAcAlakAYcI" class="Dfti" pattern="mrByrr*" caesura="11-7"/>
+  <meter name="hariRaplutA" altName="haranartaka" class="Dfti" pattern="msjjBr*" caesura="8-5-5"/>
+  <meter name="SArdUlalalita" class="Dfti" pattern="msjsts*" caesura="12-6"/>
+  <meter name="SArdUla" class="Dfti" pattern="msjsrm*" caesura="12-6"/>
+  <meter name="vilAsa" class="Dfti" pattern="mssrrr*" caesura="3-6-8-1"/>
+  <meter name="suDA" altName="krIqA muktAmAlA" class="Dfti" pattern="ymnsts*" caesura="6-6-6"/>
+  <meter name="krIqAcakra" class="Dfti" pattern="ymyyyy*"/>
+  <meter name="haranartana" altName="ujjvala carcari mAlikottaramAlikA vibuDapriyA" class="Dfti" pattern="rsjjBr*" caesura="8-5-5"/>
+  <meter name="varakfttana" class="Dfti" pattern="rsjyBr*" caesura="6-5-7"/>
+  <meter name="budbuda" class="Dfti" pattern="sjsjtr*"/>
+  <meter name="mandAramAlA" class="Dfti" pattern="stnyyy*" caesura="5-6-7"/>
+  <meter name="suraBi" altName="SuBa" class="Dfti" pattern="snjnBs*" caesura="3-5-5-5"/>
+  <!-- 19 syllables -->
+  <meter name="varUTinI" class="atiDfti" pattern="jnBsnjg*" caesura="5-5-5-4"/>
+  <meter name="ratilIlA" class="atiDfti" pattern="jsjsjsg*" caesura="6-6-7"/>
+  <meter name="samudratatA" class="atiDfti" pattern="jsjstBg*" caesura="8-4-7"/>
+  <meter name="racanA" hom="1" class="atiDfti" pattern="njByBjg*" caesura="7-12"/>
+  <meter name="racanA" hom="2" class="atiDfti" pattern="njBysjg*" caesura="11-8"/>
+  <meter name="candramAlA" class="atiDfti" pattern="nnnjnnl+"/>
+  <meter name="kanakalatA" class="atiDfti" pattern="nnnntng*"/>
+  <meter name="DavalA" class="atiDfti" pattern="nnnnnng*"/>
+  <meter name="paYcacAmara" hom="3" class="atiDfti" pattern="nnrjrjg*"/>
+  <meter name="paYcacAmara" hom="4" class="atiDfti" pattern="nnjrjrl+"/>
+  <meter name="sarala" altName="tarala" class="atiDfti" pattern="nBrsjjg*" caesura="9-10"/>
+  <meter name="bimba" altName="candrabimba vaYcita vicita" class="atiDfti" pattern="mtnsttg*" caesura="5-7-7"/>
+  <meter name="puzpadAma" altName="PulladAma" class="atiDfti" pattern="mtnsrrg*" caesura="5-7-7"/>
+  <meter name="sumaDurA" class="atiDfti" pattern="mrBnmng*"/>
+  <meter name="surasA" class="atiDfti" pattern="mrBnyng*" caesura="7-7-5"/>
+  <meter name="mADavIlatA" class="atiDfti" pattern="mrBssjg*" caesura="7-12"/>
+  <meter name="SArdUlavikrIqita" class="atiDfti" pattern="msjsttg*" caesura="12-7"/>
+  <meter name="SArdUlalalita" class="atiDfti" pattern="msjstsg*"/>
+  <meter name="vAyuvegA" class="atiDfti" pattern="msjsnjg*" caesura="12-7"/>
+  <meter name="maRimaYjari" class="atiDfti" pattern="yBnyjjg*" caesura="12-7"/>
+  <meter name="mugDaka" class="atiDfti" pattern="ymnnrrg*" caesura="6-7-6"/>
+  <meter name="makarandikA" class="atiDfti" pattern="ymnsjjg*" caesura="6-6-7"/>
+  <meter name="CAyA" hom="1" class="atiDfti" pattern="ymnsttg*" caesura="5-7-7"/>
+  <meter name="CAyA" hom="2" class="atiDfti" pattern="ymnsBtg*" caesura="6-6-7"/>
+  <meter name="meGavisPUrjitA" altName="candrakAntA ramBA vismitA suvfttA" class="atiDfti" pattern="ymnsrrg*" caesura="6-6-7"/>
+  <meter name="vallakI" class="atiDfti" pattern="rBjtttg*" caesura="10-9"/>
+  <meter name="SArNgi" altName="Urjita" class="atiDfti" pattern="rsstjjg*" caesura="10-9"/>
+  <meter name="SamBu" class="atiDfti" pattern="styBmmg*" caesura="10-9"/>
+  <meter name="taruRIvadanendu" class="atiDfti" pattern="ssssssg*"/>
+  <!-- 20 syllables -->
+  <meter name="SaSANkaracita" class="kfti" pattern="tBjBjBlg*"/>
+  <meter name="madakalanI" class="kfti" pattern="njnBsnlg*"/>
+  <meter name="kanakalatA" class="kfti" pattern="nnnnnnlg*"/>
+  <meter name="mudrA" altName="ujjvala" class="kfti" pattern="nBBmsslg*" caesura="11-9"/>
+  <meter name="dIpikASiKA" class="kfti" pattern="Bnynnrlg*" caesura="3-6-11"/>
+  <meter name="BAsura" altName="nandaka" class="kfti" pattern="BBBBrslg*"/>
+  <meter name="utpalamAlikA" altName="kAmalatA" class="kfti" pattern="BrnBBrlg*" caesura="9-11"/>
+  <meter name="sadratnamAlA" class="kfti" pattern="mnsnmylg*" caesura="5-8-7"/>
+  <meter name="citramAlA" altName="supraBA suvaMSA" class="kfti" pattern="mrBnttgg*" caesura="7-6-7"/>
+  <meter name="suvadanA" class="kfti" pattern="mrBnyBlg*" caesura="7-7-6"/>
+  <meter name="suvaMSA" class="kfti" pattern="mrBnssgg*" caesura="7-6-7"/>
+  <meter name="SOBA" class="kfti" pattern="ymnnttgg*" caesura="6-7-7"/>
+  <meter name="vftta" altName="gaRqakA" class="kfti" pattern="rjrjrjgl+"/>
+  <meter name="mAlava" class="kfti" pattern="rjrjrjlg*"/>
+  <meter name="puwaBeda" class="kfti" pattern="rssssslg*"/>
+  <meter name="gItikA" altName="gItA pramadAnana" class="kfti" pattern="sjjBrslg*"/>
+  <meter name="matteBavikrIqita" class="kfti" pattern="sBrnmylg*" caesura="13-7"/>
+  <!-- 21 syllables -->
+  <meter name="kaTAgati" class="prakfti" pattern="trBnjBr*" caesura="7-7-7"/>
+  <meter name="vanamaYjari" class="prakfti" pattern="njjjjBr*"/>
+  <meter name="sarasI" altName="citralatA campakamAlikA rucirA salilaniDi sidDi DftaSrI sidDaka" class="prakfti" pattern="njBjjjr*"/>
+  <meter name="paYcakAvalI" altName="SaSivadanA" class="prakfti" pattern="njBjjjr*" caesura="11-10"/>
+  <meter name="mattavilAsinI" class="prakfti" pattern="BBBBBBr*"/>
+  <meter name="narendra" class="prakfti" pattern="Brnnjjy*"/>
+  <meter name="lalitavikrama" class="prakfti" pattern="Brnrnrr*" caesura="10-11"/>
+  <meter name="mattakrIqA" class="prakfti" pattern="mmtnnns*" caesura="8-5-8"/>
+  <meter name="sragDarA" class="prakfti" pattern="mrBnyyy*" caesura="7-7-7"/>
+  <meter name="SreRi" class="prakfti" pattern="rjtnnns*"/>
+  <meter name="taraNga" altName="taraNgamAlikA" class="prakfti" pattern="rnrnrnr*"/>
+  <meter name="suranartakI" class="prakfti" pattern="rnrnrnr*" caesura="6-6-6-3"/>
+  <meter name="padmasadma" class="prakfti" pattern="rsnjnBr*" caesura="11-10"/>
+  <!-- 22 syllables -->
+  <meter name="matteBa" class="Akfti" pattern="tByjsrng*" caesura="7-15"/>
+  <meter name="aSvalalita" class="Akfti" pattern="njBjBjBg*"/>
+  <meter name="madanasAyaka" class="Akfti" pattern="nBjBjBjg*"/>
+  <meter name="madirA" altName="latAkusuma saNgatA" class="Akfti" pattern="BBBBBBBg*"/>
+  <meter name="madraka" altName="viSudDacarita Badraka praBadraka" class="Akfti" pattern="Brnrnrng*" caesura="10-12"/>
+  <meter name="varatanu" altName="krOYcA" class="Akfti" pattern="mtynnnng*"/>
+  <meter name="haMsI" hom="2" class="Akfti" pattern="mmtnnnsg*"/>
+  <meter name="lAlitya" hom="1" class="Akfti" pattern="msjyBBng*"/>
+  <meter name="dIpArci" class="Akfti" pattern="msjsjsjg*" caesura="12-10"/>
+  <meter name="lAlitya" hom="2" class="Akfti" pattern="msrstjng*"/>
+  <meter name="mahAsragDarA" hom="1" class="Akfti" pattern="sjtnsrrg*" caesura="8-7-7"/>
+  <meter name="mahAsragDarA" hom="2" class="Akfti" pattern="sttnsrrg*" caesura="8-7-7"/>
+  <!-- 23 syllables -->
+  <meter name="vfndAraka" class="vikfti" pattern="jsjsyyylg*"/>
+  <meter name="SaNKa" class="vikfti" pattern="tjjjjjjlg*"/>
+  <meter name="haMsagati" altName="mahAtaruRIdayita suDAlaharI" class="vikfti" pattern="njjjjjjlg*"/>
+  <meter name="aSvalalita" hom="1" altName="hayalIlagati" class="vikfti" pattern="njBjBjjlg*" caesura="11-12"/>
+  <meter name="adritanayA" altName="aSvalalita lalita" class="vikfti" pattern="njBjBjBlg*" caesura="11-12"/>
+  <meter name="aSvalalita" hom="2" class="vikfti" pattern="njBjsjnlg*" caesura="11-12"/>
+  <meter name="mayUragati" altName="madirA" class="vikfti" pattern="BBBBBBBgg*" caesura="12-11"/>
+  <meter name="puzpasamfdDA" class="vikfti" pattern="BmnBnnngg*"/>
+  <meter name="capalagati" class="vikfti" pattern="BmsBnnnlg*"/>
+  <meter name="mattAkrIqa" altName="vidyunmAlA mandakrIqA mattAkrIqA" class="vikfti" pattern="mmtnnnnlg*" caesura="8-5-10"/>
+  <meter name="citraka" altName="urutaraNgamAlikA" class="vikfti" pattern="rnrnrnrlg*"/>
+  <meter name="sundarikA" altName="sundarI" class="vikfti" pattern="ssBstjjlg*"/>
+  <!-- 24 syllables -->
+  <meter name="lalitalatA" class="saNkfti" pattern="nnBnjnny*" caesura="7-7-10"/>
+  <meter name="meGamAlA" altName="BfNgAbjanIlAlakA" class="saNkfti" pattern="nnrrrrrr*"/>
+  <meter name="mahAmadanasAyaka" class="saNkfti" pattern="nBjBjBjr*"/>
+  <meter name="samBrAntA" class="saNkfti" pattern="nyBtnnns*"/>
+  <meter name="tanvI" class="saNkfti" pattern="BtnsBBny*" caesura="5-7-12"/>
+  <meter name="drutalaGupadagati" altName="sKalitA" class="saNkfti" pattern="BBBtnnns*"/>
+  <meter name="kirIwa" altName="suBadra" class="saNkfti" pattern="BBBBBBBB+"/>
+  <meter name="haMsapada" class="saNkfti" pattern="BmsBnnny*" caesura="5-5-8-6"/>
+  <meter name="veSyAprIti" class="saNkfti" pattern="mBymnBns*" caesura="8-8-8"/>
+  <meter name="viBramagati" class="saNkfti" pattern="msjsttBr*"/>
+  <meter name="svEriRIkrIqana" class="saNkfti" pattern="rrrrrrrr*" caesura="8-8-8"/>
+  <meter name="durmila" altName="Gowaka" class="saNkfti" pattern="ssssssss*" caesura="8-8-8"/>
+  <!-- 25 syllables -->
+  <meter name="haMsapadA" class="atikfti" pattern="tyBBnnnng*" caesura="10-15"/>
+  <meter name="capala" class="atikfti" pattern="njjynnnng*"/>
+  <meter name="haMsalaya" class="atikfti" pattern="nnnnsBBBg*" caesura="8-7-10"/>
+  <meter name="krOYcapadA" altName="krOYcapada" class="atikfti" pattern="BmsBnnnng*" caesura="5-5-8-7"/>
+  <meter name="manteBa" class="atikfti" pattern="mmmmmtymg*" caesura="4-4-5-12"/>
+  <meter name="kalakaRQa" class="atikfti" pattern="sjnjBnrng*" caesura="8-8-9"/>
+  <!-- 26 syllables -->
+  <meter name="vegavatI" class="utkfti" pattern="njnsBnnnlg*"/>
+  <meter name="suDAkalaSa" class="utkfti" pattern="njBjjjBjlg*" caesura="14-12"/>
+  <meter name="vanalatikA" class="utkfti" pattern="nnnnnnnngg*" caesura="8-8-10"/>
+  <meter name="makaranda" class="utkfti" pattern="nynynnnngg*" caesura="6-6-8-6"/>
+  <meter name="raYjana" class="utkfti" pattern="BnjnsnnBgg*" caesura="7-7-7-5"/>
+  <meter name="ApIqa" class="utkfti" pattern="Bnnsmnnnlg*" caesura="13-13"/>
+  <meter name="ApIqa" class="utkfti" pattern="Bnnsmnnnlg*" caesura="14-12"/>
+  <meter name="apavAha" class="utkfti" pattern="mnnnnnnsgg*" caesura="9-6-6-5"/>
+  <meter name="BujaNgavijfmBita" class="utkfti" pattern="mmtnnnrslg*" caesura="8-11-7"/>
+  <meter name="BujaNgerita" hom="1" class="utkfti" pattern="myntnnrylg*" caesura="8-11-7"/>
+  <meter name="BujaNgerita" hom="2" class="utkfti" pattern="myntnnrslg*" caesura="8-11-7"/>
+  <meter name="cewIgati" class="utkfti" pattern="yyyyyyyylg*"/>
+  <meter name="kamalA" class="utkfti" altName="maRikiraRa" pattern="nnBnjnnnnlg*" caesura="9-7-10"/>
+  <!-- 27 syllables -->
+  <meter name="tripadalalita" class="SezajAti27" pattern="nnnnBnBns*" caesura="13-6"/>
+  <meter name="triBaNgI" class="SezajAti" pattern="nsBntjtsy*" caesura="7-7-13"/>
+  <meter name="mAlAcitra" class="SezajAti" altName="mAlAvftta" pattern="mtttnnyyy*" caesura="11-16"/>
+  <meter name="vikasitakusuma" class="SezajAti" pattern="mBnnnnnns*" caesura="4-8-8-7"/>
+  <meter name="mAlAvftta" class="SezajAti" pattern="mmtnBmmBm*" caesura="8-11-8"/>
+  <!-- 28 syllables -->
+  <meter name="manojaSeKara" class="SezajAti28" pattern="jrjrjrjrjg*"/>
+  <meter name="aSokapuzpamaYjarI" class="SezajAti28" pattern="rjrjrjrjrl+"/>
+  <!-- 29 syllables -->
+  <meter name="SAlUra" class="SezajAti29" pattern="tnnnnnnnnlg*"/>
+  <meter name="kalA" class="SezajAti29" pattern="xxxxx" caesura="nnnnnnnnnlg*"/>
+  <meter name="maRikiraRa" class="SezajAti29" pattern="nnBnjnnnnlg*" caesura="7-7-8-7"/>
+  <meter name="pramodamahodaya" class="SezajAti29" pattern="mtytnnnrslg*" caesura="4-7-11-7"/>
+  <!-- 30 syllables -->
+  <meter name="vfttalalita" class="SezajAti30" altName="lalitavftta" pattern="BjsnBjsnBy*"/>
+  <meter name="pipIlikA" class="SezajAti30" pattern="mmtnnnnjBr*" caesura="8-15-7"/>
+  <!-- 31 syllables -->
+  <meter name="laharikA" class="SezajAti31" pattern="nnnnnnnnnng*" caesura="8-8-8-7"/>
+  <meter name="GanAkzarI" class="SezajAti31" pattern="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxg*" caesura="16-15"/>
+  <!-- 32 syllables -->
+  <meter name="rUpaGanAkzarI" class="SezajAti32" pattern="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxl+" caesura="16-16"/>
+  <!-- 33 syllables -->
+  <meter name="cakra" class="SezajAti33" pattern="BnnBnnBnnBy*"/>
+  <!-- 34 syllables -->
+  <meter name="citralaya" class="SezajAti34" pattern="BnnBnnBnnBng*"/>
+  <meter name="meGadaRqaka" class="SezajAti34" altName="aticCandas" pattern="mmtnnnnnsjjg*"/>
+  <!-- 35 syllables -->
+  <meter name="pipIlikAkaraBa" class="SezajAti35" pattern="mmtnnnnnlljBr"/>
+  <!-- 38 syllables -->
+  <meter name="lalitalatA" class="SezajAti38" pattern="nnnnnnnnnnnnlg*" caesura="10-10-10-8"/>
+  <!-- 40 syllables -->
+  <meter name="pipIlikApaRava" class="SezajAti40" pattern="mmtnnnnnnnljBr*"/>
+  <!-- 45 syllables -->
+  <meter name="pipIlikAmAlA" class="SezajAti45" pattern="mmtnnnnnnnnnjBr*"/>
+  <!-- daRqaka incomplete -->
+  <meter name="caRqavfzwiprayAta" class="daRqaka" pattern="nnrrrrrrr*"/>
+  <meter name="arRa" class="daRqaka" pattern="nnrrrrrrrr*"/>
+  <meter name="arRava" class="daRqaka" pattern="nnrrrrrrrrr*"/>
+  <meter name="vyAla" class="daRqaka" pattern="nnrrrrrrrrrr*"/>
+  <meter name="jImUta" class="daRqaka" pattern="nnrrrrrrrrrrr*"/>
+  <meter name="lIlAkara" class="daRqaka" pattern="nnrrrrrrrrrrrr*"/>
+  <meter name="uddAma" class="daRqaka" pattern="nnrrrrrrrrrrrrr*"/>
+  <meter name="SaNKa" class="daRqaka" pattern="nnrrrrrrrrrrrrrr*"/>
+  <meter name="samudra" class="daRqaka" pattern="nnrrrrrrrrrrrrrrr*"/>
+  <meter name="BujaNga" class="daRqaka" pattern="nnrrrrrrrrrrrrrrrr*"/>
+  <meter name="pracitaka" class="daRqaka" pattern="nnyyyyyyy*"/>
+ </meterClass> <!-- samavftta -->
+ <meterClass name="arDasamavftta" pAda="2">
+  <meter name="kAminI" pattern="r*jrlg*"/>
+  <meter name="SiKI" pattern="r*jrjr*"/>
+  <meter name="nitambinI" pattern="r*jrjrjg*"/>
+  <meter name="vAruRI" pattern="r*jrjrjrlg*"/>
+  <meter name="vataMsinI" pattern="r*jrjrjrjr*"/>
+  <meter name="ilA" pattern="slg*sslg*"/>
+  <meter name="mfgANkamuKI" pattern="slg*ssssssss*"/>
+  <meter name="pravartaka" pattern="rjg*jrlg*"/>
+  <meter name="vAnarI" pattern="jrlg*r*"/>
+  <meter name="lalitA" pattern="rslg*sjjg*"/>
+  <meter name="BAminI" pattern="sss*BBBg*"/>
+  <meter name="BadravirAj" pattern="tjrg*msjgg*"/>
+  <meter name="ketumatI" pattern="sjsg*Brngg*"/>
+  <meter name="muralI" altName="aparavaktra praboDitA lalitA viboDitA viyoginI SaKAmaRi sundarI" pattern="ssjg*sBrlg*"/>
+  <meter name="vegavatI" altName="sArasikA" pattern="sssg*BBBgg*"/>
+  <meter name="prasannA" pattern="BBBg*ssss*"/>
+  <meter name="kariRI" pattern="mssg*sBBs*"/>
+  <meter name="upacitra" pattern="ssslg*BBBgg*"/>
+  <meter name="aparavaktra" altName="pallavitAgra" pattern="nnrlg*njjr*"/>
+  <meter name="drutamaDyA" altName="calamaDyA" pattern="BBBgg*njjy*"/>
+  <meter name="mAlaBAriRI" altName="vasantamAlikA OpacCandasika suboDitA priyA" pattern="ssjgg*sBry*"/>
+  <meter name="hariRaplutA" pattern="ssslg*nBBr*"/>
+  <meter name="vilasitalIlA" pattern="BBtlg*njnsg*"/>
+  <meter name="cUqAmaRi" pattern="ttjgg*tBjjgg*"/>
+  <meter name="SiKanRqI" pattern="jrjr*r*"/>
+  <meter name="cUqA" altName="kzAnti" pattern="nnny*mmg*"/>
+  <meter name="AmalakI" altName="cukzA" pattern="BBBB+BBBgg*"/>
+  <meter name="viparItaBAmA" pattern="jBsy*tBsy*"/>
+  <meter name="BAmA" pattern="tBsy*jBsy*"/>
+  <meter name="kOmudI" pattern="nnBB+nnrr*"/>
+  <meter name="maYjusOraBa" pattern="njjr*sjyjg*"/>
+  <meter name="puzpitAgrA" pattern="nnry*njjrg*"/>
+  <meter name="parAvatI" altName="yavaDvani yavamatI yavavatI" pattern="rjrj+jrjrg*"/>
+  <meter name="mfgI" altName="yavAnI" pattern="rjrj+trjrg*"/>
+  <meter name="makarAvalI" pattern="nBBr*nBBBr*"/>
+  <meter name="zawpadAvalI" pattern="jrjrg*rjrj+"/>
+  <meter name="mitaBAziRI" pattern="sjsjg*sjss*"/>
+  <meter name="yavamatI" pattern="rjrjg*jrjrg*"/>
+  <meter name="urugI" pattern="nnnns*nnBnlg*"/>
+  <meter name="sArasI" pattern="jrjrjg*r*"/>
+  <meter name="zawpadA" pattern="tBrjrgg*rjry*"/>
+  <meter name="mAninI" hom="1" pattern="Brnjnlg*njBjns*"/>
+  <meter name="mAninI" hom="2" pattern="BrnBnlg*njBjns*"/>
+  <meter name="aparA" pattern="jrjrjrlg*r*"/>
+  <meter name="kalikAlalitA" pattern="sBtysBgg*sBtyss*"/>
+  <meter name="haMsI" hom="3" pattern="jrjrjrjr*r*"/>
+ </meterClass> <!-- arDasamavftta -->
+ <meterClass name="vizamavftta" pAda="4">
+  <!-- upajAti meters, whether arDasamavftta or vizamavftta, are defined in a separate meter class below -->
+  <!-- vaktra meters are defined according to the vfttaratnAkara and commentaries in a separate meter class below, skipping these in Apte's appendix p. 28 -->
+  <meter name="ApIqa" altName="padaruci dAmAvArA" pattern="nngg*nnny*nnnnsg*nnnnnngg*"/>
+  <meter name="pratyApIqa" altName="anupadaruci" pattern="tnll+tnnn+tnnnnl+tnnnnnll+"/>
+  <meter name="sampIqa" pattern="tngg+tnny+tnnnsg+tnnnnngg+"/>
+  <meter name="kalikA" altName="maRqarI maYjarI" pattern="nnny*nngg*nnnnsg*nnnnnngg*"/>
+  <meter name="lavalI" hom="1" altName="labalI" pattern="nnnnsg*nnny*nngg*nnnnnngg*"/>
+  <meter name="lavalI" hom="2" altName="labalI" pattern="nnny*nnnnsg*nngg*nnnnnngg*"/>
+  <meter name="turya" pattern="nnnnnngg*nnny*nnnnsg*nngg*"/>
+  <meter name="tftIyaka" pattern="nngg*nnny*nnnnnngg*nnnnsg*"/>
+  <meter name="aNGri" pattern="nngg*nnnnsg*nnny*nnnnnngg*"/>
+  <meter name="amftaDArA" altName="maYjarI" pattern="nnny*nnnnsg*nnnnnngg*nngg*"/>
+  <meter name="padacaturUrDva" pattern="xxxxxxgg*xxxxxxxxxxgg*xxxxxxxxxxxxxxgg*xxxxxxxxxxxxxxxxxxgg"/>
+  <meter name="udgatA" pattern="sjsl+nsjg*Bnjlg*sjsjg*"/>
+  <meter name="sOraBaka" altName="sOralaka" pattern="sjsl+nsjg*rnBg*sjsjg*"/>
+  <meter name="lalita" pattern="sjsl+nsjg*nnss*sjsjg*"/>
+  <meter name="sarala" pattern="sjsl+nsjg*Bnjlg*nnng*"/>
+  <meter name="kIrti" pattern="sjsl+nsjg*nBjlg*sjsjg*"/>
+  <meter name="upasTitapracupita" altName="upasTitaprakupita" pattern="msjBgg*snjrg*nns*nnnjy*"/>
+  <meter name="varDamAna" pattern="msjBgg*snjrg*nnsnns*nnnjy*"/>
+  <meter name="SudDavirAqfzaBa" altName="SudDavirAqArzaBa" pattern="msjBgg*snjrg*tjr*nnnjy*"/>
+  <meter name="vilAsa" hom="1" pattern="tmyg*ttjg*stm*ssslg*"/>
+  <meter name="vilAsa" hom="2" pattern="tmm*trjg*stm*ssslg*"/>
+  <meter name="Bf0SaM043" pattern="yym*Byy*jmsy*mmjlg*"/>
+  <meter name="Bf0SaM043" pattern="msr*jsngg*trgg*rrgg*"/>
+  <meter name="ramA" pattern="jlxlgl+xlxlxlxl+"/>
+ </meterClass> <!-- vizamavftta -->
+ <meterClass name="upajAti" pAda="4">
+  <!-- 11 syllables per pada indramAlA -->
+  <meter name="kIrti" class="indramAlA" pattern="jtjgg*ttjgg*ttjgg*ttjgg*"/>
+  <meter name="vARI" class="indramAlA" pattern="ttjgg*jtjgg*ttjgg*ttjgg*"/>
+  <meter name="mAlA" class="indramAlA" pattern="jtjgg*jtjgg*ttjgg*ttjgg*"/>
+  <meter name="SAlA" class="indramAlA" pattern="ttjgg*ttjgg*jtjgg*ttjgg*"/>
+  <meter name="haMsI" hom="4" altName="viparItAKyAnakI" class="indramAlA" pattern="jtjgg*ttjgg*" pAda="2"/>
+  <meter name="mAyA" class="indramAlA" pattern="ttjgg*jtjgg*jtjgg*ttjgg*"/>
+  <meter name="jAyA" class="indramAlA" pattern="jtjgg*jtjgg*jtjgg*ttjgg*"/>
+  <meter name="bAlA" class="indramAlA" pattern="ttjgg*ttjgg*ttjgg*jtjgg*"/>
+  <meter name="ArdrA" class="indramAlA" pattern="jtjgg*ttjgg*ttjgg*jtjgg*"/>
+  <meter name="BadrA" altName="AKyAnakI" class="indramAlA" pattern="ttjgg*jtjgg*" pAda="2"/>
+  <meter name="rAmA" class="indramAlA" pattern="jtjgg*jtjgg*ttjgg*jtjgg*"/>
+  <meter name="fdDi" class="indramAlA" pattern="jtjgg*ttjgg*jtjgg*jtjgg*"/>
+  <meter name="budDi" class="indramAlA" pattern="ttjgg*jtjgg*jtjgg*jtjgg*"/>
+  <meter name="sidDi" class="indramAlA" pattern="ttjgg*ttjgg*jtjgg*jtjgg*"/>
+  <!-- 12 syllables per pada vaMSamAlA -->
+  <meter name="vaMSamAlA" class="vaMSamAlA" pattern="jtjr*ttjr*ttjr*ttjr*"/>
+  <meter name="vaMSamAlA" class="vaMSamAlA" pattern="ttjr*jtjr*ttjr*ttjr*"/>
+  <meter name="vaMSamAlA" class="vaMSamAlA" pattern="jtjr*jtjr*ttjr*ttjr*"/>
+  <meter name="vaMSamAlA" class="vaMSamAlA" pattern="ttjr*ttjr*jtjr*ttjr*"/>
+  <meter name="SaNKaniDi" altName="sunandinI" class="vaMSamAlA" pattern="jtjr*ttjr*" pAda="2"/>
+  <meter name="vaMSamAlA" class="vaMSamAlA" pattern="ttjr*jtjr*jtjr*ttjr*"/>
+  <meter name="vaMSamAlA" class="vaMSamAlA" pattern="jtjr*jtjr*jtjr*ttjr*"/>
+  <meter name="vaMSamAlA" class="vaMSamAlA" pattern="ttjr*ttjr*ttjr*jtjr*"/>
+  <meter name="vaMSamAlA" class="vaMSamAlA" pattern="jtjr*ttjr*ttjr*jtjr*"/>
+  <meter name="padmaniDi" altName="nandinI" class="vaMSamAlA" pattern="ttjr*jtjr*" pAda="2"/>
+  <meter name="vaMSamAlA" class="vaMSamAlA" pattern="jtjr*jtjr*ttjr*jtjr*"/>
+  <meter name="vaMSamAlA" class="vaMSamAlA" pattern="jtjr*ttjr*jtjr*jtjr*"/>
+  <meter name="vaMSamAlA" class="vaMSamAlA" pattern="ttjr*jtjr*jtjr*jtjr*"/>
+  <meter name="vaMSamAlA" class="vaMSamAlA" pattern="ttjr*ttjr*jtjr*jtjr*"/>
+  <!-- Other mixtures mentioned in Apte p. 29 are not included -->
+ </meterClass> <!-- upajAti -->
+ <meterClass name="vaktra" pAda="2">
+  <!-- anuzwuB vaktra meters all have 8 syllables per pAda.  The definitions have one or two pAdas defined partially which don't have to match each other exactly but have to conform to the definition which uses an x = [lg] for syllables that permit variation -->
+  <!-- The first has all four pAdas matching the given pattern as do samavftta meters -->
+  <meter name="vaktra" class="anuzwuB" pattern="x6yg*" pAda="1"/>
+  <!-- The rest have each line consisting of two pAdas matching the given pattern as do the arDasamavftta meters -->
+  <meter name="paTyAvaktra" altName="yugmavipulA" class="anuzwuB" pattern="x6yg*x6jg*"/>
+  <meter name="viparItapaTyAvaktra" class="anuzwuB" pattern="x6jg*x6yg*"/>
+  <meter name="capalAvaktra" class="anuzwuB" pattern="x6ng*x6yg*"/>
+  <!-- anuzwuB vipulA meters all have 8 syllables per pAda. -->
+  <!-- The first has all four pAdas matching the given pattern as do samavftta meters. tAtparyawIkA on sEtavavipulA: saptamo laH iti jagaRasyopalakzaRam, i.e. x6xxlg* means x6jg* -->
+  <meter name="sEtavavipulA" class="anuzwuB" pattern="x6jg*" pAda="1"/>
+  <!-- The paYcikA commentary defines the following meters as having all four pAdas with B, r, etc. and so exemplifies it, so a second definition is provided for a samavftta type pAda. -->
+  <!-- The sukavihfdayAnandinI commentary allows the name even if just one odd pAda has it, but this permits multiple classifications so not adopted.  Its statement that usually prAyeRa the fourth syllable is heavy is not included in the definition. -->
+  <meter name="BavipulA" class="anuzwuB" pattern="x6Bg*x6jg*"/>
+  <meter name="BavipulA" class="anuzwuB" pattern="x6Bg*" pAda="1"/>
+  <meter name="ravipulA" class="anuzwuB" pattern="x6rg*x6jg*"/>
+  <meter name="ravipulA" class="anuzwuB" pattern="x6rg*" pAda="1"/>
+  <meter name="navipulA" class="anuzwuB" pattern="x6ng*x6jg*"/>
+  <meter name="navipulA" class="anuzwuB" pattern="x6ng*" pAda="1"/>
+  <meter name="tavipulA" class="anuzwuB" pattern="x6tg*x6jg*"/>
+  <meter name="tavipulA" class="anuzwuB" pattern="x6tg*" pAda="1"/>
+  <meter name="mavipulA" class="anuzwuB" pattern="x6mg*x6jg*"/>
+  <meter name="mavipulA" class="anuzwuB" pattern="x6mg*" pAda="1"/>
+  <meter name="savipulA" class="anuzwuB" pattern="x6sg*x6jg*"/>
+  <meter name="savipulA" class="anuzwuB" pattern="x6sg*" pAda="1"/>
+ </meterClass> <!-- vaktra -->
+ <meterClass name="mAtrAsamaka" pAda="1">
+  <!-- the pattern shows one pAda using the same system as used in the mAtrAvftta.  Each pAda has sixteen morae each of which must conform to the definition but need not be identical to each other. -->
+  <meter name="acalaDfti" altName="gItyAryA" pattern="LLLL+"/>
+  <meter name="mAtrAsamaka" pattern="JHsS*"/>
+  <meter name="viSloka" pattern="JhbS*"/>
+  <meter name="vAnavAsikA" pattern="JHhS*"/>
+  <meter name="citra" altName="citrA" pattern="JhKS*"/>
+  <meter name="upacitrA" pattern="JHBS*"/>
+  <meter name="pAdAkulaka" pattern="M"/>
+ </meterClass> <!-- mAtrAsamaka -->
+ <meterClass name="mAtrAvftta" pAda="4">
+  <!-- The pattern defines a verse -->
+  <!-- The caesura value refers to mAtrAs not syllables here.  When the caesura is after the 12th mAtrA it is paTyA; when after more than the 12th vipulA -->
+  <meter name="capalA" class="AryA" pattern="SjGjbhJg*SjGjblJg*" caesura="12-18-12-15"/>
+  <meter name="muKacapalA" class="AryA" pattern="SjGjbhJg*44J4JlJg*" caesura="12-18-12-15"/>
+  <meter name="jaGanacapalA" class="AryA" pattern="44J4JhJg*SjGjblJg*" caesura="12-18-12-15"/>
+  <meter name="AryAgIti" class="AryA" pattern="44J4JhJgg*44J4JhJgg*" caesura="12-20-12-20"/>
+  <meter name="AryA" class="AryA" pattern="44J4JhJg*44J4JlJg*" caesura="12-18-12-15"/>
+  <meter name="gIti" class="AryA" pattern="44J4JhJg*44J4JhJg*" caesura="12-18-12-18"/>
+  <meter name="udgIti" class="AryA" pattern="44J4JlJg*44J4JhJg*" caesura="12-15-12-18"/>
+  <meter name="upagIti" class="AryA" pattern="44J4JlJg*44J4JlJg*" caesura="12-15-12-15"/>
+  <meter name="SiKA" class="AryA" pattern="LLLLLLLg*LLLLLLLs*"/>
+  <meter name="KaYjA" class="AryA" pattern="LLLLLLLs*LLLLLLLg*"/>
+  <meter name="atirucirA" class="AryA" pattern="LLLLLLng*LLLLLLng*"/>
+  <meter name="sOmyaSiKA" class="AryA" altName="anaNgakrIqA" pattern="GGGGGGGG*LLLLLLLL+"/>
+  <meter name="jyotiHSiKA" class="AryA" pattern="LLLLLLLL*GGGGGGGG*"/>
+  <!-- vEtAlIya: The pattern defines a line or a quarter -->
+  <meter name="vEtAlIya" class="vEtAlIya" pattern="Zrlg*Arlg*" pAda="2"/>
+  <meter name="vizamavEtAlIya" class="vEtAlIya" pattern="Zrlg*" pAda="1" altName="vEtAlIyacAruhAsinI"/>
+  <meter name="samavEtAlIya" altName="vEtAlIyAparAntikA" class="vEtAlIya" pattern="Arlg*" pAda="1"/>
+  <meter name="OpacCandasika" class="vEtAlIya" altName="OpacCandasikAparAntikA" pattern="Zry*Ary*" pAda="2"/>
+  <meter name="vizamOpacCandasika" class="vEtAlIya" pattern="Zry*" pAda="1" altName="OpacCandasikacAruhAsinI"/>
+  <meter name="samOpacCandasika" altName="OpacCandasikAparAntikA" class="vEtAlIya" pattern="Ary*" pAda="1"/>
+  <meter name="ApAtalikA" class="vEtAlIya" pattern="ZBgg*ABgg*" pAda="2"/>
+  <!-- In the following three dakziRAntikA meters each pAda begins with j = lgl, followed in odd pAdas by 1 x 2 = two possibilities D (g, ll) and in even by 2 x 2 = four DD (gg, gll, llg, llll) -->
+  <!-- The rest of each pAda is like vEtAlIya, OpacCandasika, or ApAtalikA respectively -->
+  <meter name="vEtAlIyadakziRAntikA" class="vEtAlIya" pattern="jDrlg*jDDrlg*" pAda="2"/>
+  <meter name="OpacCandasikadakziRAntikA" class="vEtAlIya" pattern="jDry*jDDry*" pAda="2"/>
+  <meter name="ApAtalikAdakziRAntikA" class="vEtAlIya" pattern="jDBgg*jDDBgg*" pAda="2"/>
+  <!-- In the following three udicyavftti meters each odd pAda begins with j = lgl, followed by 1 x 2 = two possibilities D (g, ll) -->
+  <!-- The rest is like vEtAlIya, OpacCandasika, or ApAtalikA respectively -->
+  <meter name="vEtAlIyodicyavftti" class="vEtAlIya" pattern="jDrlg*Arlg*" pAda="2"/>
+  <meter name="OpacCandasikodicyavftti" class="vEtAlIya" pattern="jDry*Ary*" pAda="2"/>
+  <meter name="ApAtalikodicyavftti" class="vEtAlIya" pattern="jDBgg*ABgg*" pAda="2"/>
+  <!-- In the following three prAcyavftti meters each even pAda joins the 4th and 5th mAtrA in a g, i.e. has j = lgl, preceded and followed by 1 x 2 = two possibilities D (g, ll) for four variants in each pAda -->
+  <!-- The rest is like vEtAlIya, OpacCandasika, or ApAtalikA respectively -->
+  <meter name="vEtAlIyaprAcyavftti" class="vEtAlIya" pattern="Zrlg*DjDrlg*" pAda="2"/>
+  <meter name="OpacCandasikaprAcyavftti" class="vEtAlIya" pattern="Zry*DjDry*" pAda="2"/>
+  <meter name="ApAtalikAprAcyavftti" class="vEtAlIya" pattern="ZBgg*DjDBgg*" pAda="2"/>
+  <!-- When the odd and even pAdas conform to the udIcyavftti and prAcyavftti meter definitions respectively the meter is pravfttaka. -->
+  <!-- Each odd pAda begins with j = lgl, followed by 1 x 2 = two possibilities D (g, ll) -->
+  <!-- Each even pAda joins the 4th and 5th mAtrA in a g, i.e. has j = lgl, preceded and followed by 1 x 2 = two possibilities D (g, ll) for four variants in each pAda -->
+  <!-- Each pAda has 2 x 4 = 8 variants. -->
+  <!-- The rest is like vEtAlIya, OpacCandasika, or ApAtalikA respectively -->
+  <meter name="vEtAlIyapravfttaka" class="vEtAlIya" pattern="jDrlg*DjDrlg*" pAda="2"/>
+  <meter name="OpacCandasikapravfttaka" class="vEtAlIya" pattern="jDry*DjDry*" pAda="2"/>
+  <meter name="ApAtalikApravfttaka" class="vEtAlIya" pattern="jDBgg*DjDBgg*" pAda="2"/>
+  <!-- When all pAdas conform to the even pAdas of a pravfttaka of the three preceding types, then it is an aparAntika of that type. -->
+  <!-- Each pAda joins the 4th and 5th mAtrA in a g, i.e. has j = lgl, preceded and followed by 1 x 2 = two possibilities D (g, ll) for four variants in each pAda -->
+  <!-- Each pAda has 2 x 4 = 8 variants. -->
+  <!-- The rest is like vEtAlIya, OpacCandasika, or ApAtalikA respectively -->
+  <meter name="vEtAlIyAparAntikA" altName="vEtAlIyaprAcyavfttyaparAntikA" class="vEtAlIya" pattern="DjDrlg*" pAda="1"/>
+  <meter name="OpacCandasikAparAntikA" altName="OpacCandasikaprAcyavfttyaparAntikA" class="vEtAlIya" pattern="DjDry*" pAda="1"/>
+  <meter name="ApAtalikAparAntikA" altName="ApAtalikAprAcyavfttyaparAntikA" class="vEtAlIya" pattern="DjDBgg*" pAda="1"/>
+  <!-- Candovftti calls aparAntikA any of the three types vEtAlIya, OpacCandasika, or ApAtalikA and the three forms of the prAcyavftti type which have all pAdas matching the even pAdas of these types.  The first two: Arlg, Ary, are already dealt with under the names of samavEtAlIya and samOpacCandasika.  Although the tAtparyawIkA does not describe the sama- and vizama- types of ApAtalikA, dakziRAntika, udIcyavftti, and prAcyavftti, the commentary counts them at the end of the section on p. 88.  The remaining four types of aparAntikA according to the Candovftti are the following and vEtAlIyaprAcyavfttyaparAntikA, OpacCandasikaprAcyavfttyaparAntikA, and ApAtalikAprAcyavfttyaparAntikA which are alternate names for the three above: -->
+  <meter name="ApAtalikAparAntikA" altName="samApAtalikA" class="vEtAlIya" pattern="ABgg*" pAda="1"/>
+  <!-- When all pAdas conform to the odd pAdas of a pravfttaka of the three preceding types, then it is a cAruhAsinI of that type. -->
+  <!-- Each pAda joins the 4th and 5th mAtrA in a g, i.e. has j = lgl, preceded and followed by 1 x 2 = two possibilities D (g, ll) for four variants in each pAda -->
+  <!-- Each pAda has 2 x 4 = 8 variants. -->
+  <!-- The rest is like vEtAlIya, OpacCandasika, or ApAtalikA respectively -->
+  <meter name="vEtAlIyacAruhAsinI" altName="vEtAlIyodIcyavftticAruhAsinI" class="vEtAlIya" pattern="jDrlg*" pAda="1"/>
+  <meter name="OpacCandasikacAruhAsinI" altName="OpacCandasikodIcyavftticAruhAsinI" class="vEtAlIya" pattern="jDry*" pAda="1"/>
+  <meter name="ApAtalikAcAruhAsinI" altName="ApAtalikodIcyavftticAruhAsinI" class="vEtAlIya" pattern="jDBgg*" pAda="1"/>
+  <!-- Candovftti calls cAruhAsinI any of the three types vEtAlIya, OpacCandasika, or ApAtalikA and these three forms of the udIcyavftti type which have all pAdas matching the odd pAdas of these types.  The first two: Zrlg, Zry, are already dealt with under the names of vizamavEtAlIya and vizamOpacCandasika.  The remaining four types of cAruhAsinI according to the Candovftti are the following and vEtAlIyodIcyavftticAruhAsinI, OpacCandasikodIcyavftticAruhAsinI, and ApAtalikodIcyavftticAruhAsinI which are the alternate names of the above three: -->
+  <meter name="ApAtalikAcAruhAsinI" altName="vizamApAtalikA" class="vEtAlIya" pattern="ZBgg*" pAda="1"/>
+ </meterClass>
+</meterClasses>
+
+<!--
+The meterClasses file identifies three levels of meter classification.  
+The most general one is given in the name attribute.  
+The meterClass element is the parent element of meter elements.  
+Each meter element of the samavftta general type includes a name and a class, 
+while meters of the other major classes include only a name.
+
+The name is the most specific, the meter element class is intermediate, and the meterClass name is most general.  
+The last is the value of the ana attribute in the vrttaratnakaraVerses file.  
+The first is the value of the type attribute and the medial is the value of the class attribute
+
+meterClasses = vrttaratnakaraVerses
+
+meterClass name = ana
+meter class = class
+meter name = type
+
+There are just 22 lg elements in the vrttaratnakaraVerses.xml file that do not have a type attribute; all of these are at the top, 21 are anuzwuB and one is AryA as identified in the class attribute (because these are general class names though AryA is also a specific meter type name).  I believe the anuzwuB3 identification made by MIT is a last resort if no other 8-syllable per pAda meter is found.  'anuzwuB' should be its class and 'samavftta' its ana.  We can keep anuzwuB3 as its type though I need to examine what this identification includes.  Can you tell me where to look at the code to see what is getting identified in this way?
+
+Multiplication of definitions that is necessary:
+multiply a samavftta verse defined for a single pAda by two when looking in a line or by four when looking in a whole verse.
+multiply an arDasamavftta verse defined for a line (two quarters) by two when looking in a whole verse.
+multiply a vaktra verse defined for a single pAda by two when looking in a line or by four when looking in a whole verse.
+multiply a vaktra verse defined for a line (two quarters) by two when looking in a whole verse.
+multiply a mAtrAsamaka verse defined for a single pAda by two when looking in a line or by four when looking in a whole verse.
+The multiplication required is defined explicitly by the value of the pAda attribute in the meterClass element, or if absent there, as in the case of the meterClass vaktra, then in the child meter elements.
+pAda="1": the definition defines one verse quarter (pAda)
+pAda="2": the definition defines one verse line = two quarters
+pAda="4": the definition defines one verse = four quarters
+-->

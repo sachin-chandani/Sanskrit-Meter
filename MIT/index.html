@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!--GOOGLE TRANSLITERATE API SCRIPT--> 
+    <script type="text/javascript" src="https://www.google.com/jsapi?key=ABQIAAAAcaLlMdnVT3N44H7x504_FRTm3QlNi32Qto_q4ApmWl2h24Y4ZBThIHiDymFNDPXorqAD1uGyzREBow"></script> 
+    <script type="text/javascript"> 
+        // Load the Google Transliterate API 
+        google.load("elements", "1", { 
+            packages: "transliteration" 
+        }); 
+ 
+        function onLoad() { 
+              var options = { 
+            sourceLanguage: 'en', // or google.elements.transliteration.LanguageCode.ENGLISH, 
+                  destinationLanguage: ['hi'], // or [google.elements.transliteration.LanguageCode.HINDI], 
+                  shortcutKey: 'ctrl+g', 
+                  transliterationEnabled: true 
+            }; 
+            // Create an instance on TransliterationControl with the required options. 
+            var control = new google.elements.transliteration.TransliterationControl(options); 
+ 
+            // Enable transliteration in the textfields with the given ids. 
+            var ids = [ "verse" ]; 
+            control.makeTransliteratable(ids); 
+ 
+            // Show the transliteration control which can be used to toggle between 
+            // English and Hindi. 
+            control.showControl('translControl'); 
+          } 
+          google.setOnLoadCallback(onLoad); 
+</script>
+<meta charset="UTF-8">
+<title>MIT</title>
+</head>
+<body bgcolor="#FFFFFF" link="#B74E11">
+<div id="header" style="background-color:#984242; clear:both;text-align:center;" >
+<font size="6" color="#FFFFFF" face="Arial Unicode MS"><center>  MIT - METER IDENTIFYING TOOL</center></font></div>
+<font face="calibri" >
+<b>Input Verse :</b>
+<form action="process.jsp">
+<textarea rows="3" cols="100" id="verse" name="verse"></textarea><br>
+<form action="">
+<input type="radio" name="full" value="full">quarter verse(one pAda)  &nbsp;
+<input type="radio" name="half" value="half">half verse (two pAdas)
+<input type="radio" name="full" value="full">full verse&nbsp;
+<input type="radio" name="full" value="full"> two and more verses&nbsp;
+<input type="radio" name="full" value="full">verse with prose&nbsp;
+
+<input type="submit" value="Submit">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="enco.jpg" target="_blank">Click here</a> for SLP1 Encoding.
+</form>
+</form>
+
+
+</font>
+
+<table border="1" >
+<tr>
+<td valign="baseline" width="50%" bgcolor="white" > <font face="calibri">
+
+<b>Please Note:</b> <br>
+<p >This tool identifies the meter of the given Sanskrit verse. As of now it recognizes 503 classical <br>Sanskrit meters. Vedic meters like Gāyatrī and Uṣṇik and some āryā meters are in the process of being implemented. Right side some examples are given in both Unicode Devanagari and SLP1 . Try them by just copying only SLP1 text and pasting it in the input box. At present it accepts only SLP1 (Sanskrit Library Phonetic Basic) input method. At the top right corner a link is given for SLP1 encoding. To convert the text to SLP1 from other input methods use this link - <a href="http://sanskritlibrary.org/transcodeText.html" target="_blank">http://sanskritlibrary.org/tomcat/sl/TranscodeText </a>.
+</p>
+
+
+<p>
+All the verses contain four quarters. Here the user is give a provision to give the input as one quarter or half or full of a verse. Even the user can give two and more verses or verse along with prose. When verse along with prose is given as input, the tool only read the verse and give the result. There is no need of dandas or periods at the endings of lines. The tool eliminates all the unnecessary characters such as numbers and symbols if they are typed by mistake. Please refer to the example verses.</p>
+<p>
+This tool is prepared by <b>Keshav Melnad,</b> Ph.D student, IIT Bombay under the guidance of <b>Prof. Peter Scharf </b>and <b>Prof. Malhar Kulkarni </b>
+and with the help of <b>Pawan Goyal </b>and <b>Arjun Atreya</b> as a part of paper presentation titled "Meter Identification of Sanskrit Verse" 
+which was presented in the <a href="http://sanskritlibrary.org/syntaxParis/announcement.html" target="_blank">'Seminar on Sanskrit syntax and discourse structures'</a>, Université Paris Diderot, Paris on 14th June, 2013. The updated version of the tool will be available to the user very soon.
+</p>
+<p>
+<b>Our Meter Database </b> <br>
+Samavṛtta &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;442<br>
+Ardhasamavṛtta  &nbsp;47<br>
+Viṣamavṛtta &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11<br>
+Mātrāvṛtta &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     3<br>
+<b>Total &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          503</b>
+
+</p>
+</font>
+</td>
+<td valign="baseline" width="50%" bgcolor="white"> <font face="calibri">
+<B>Examples: </b><br><p>
+1. upendravajrā - samavṛttam<br>           
+<font color="#1F62B0">
+परोपकाराय फलन्ति वृक्षाः परोपकाराय वहन्ति नद्यः| <br>
+परोपकाराय दुहन्ति गावः परोपकारार्थमिदं शरीरम् || <br></font>
+<font color=black>In SLP1:</font> &nbsp;&nbsp;
+<font color=#B74E11>paropakArAya Palanti vfkzAH paropakArAya vahanti nadyaH|<br> 
+paropakArAya duhanti gAvaH paropakArArTamidaM SarIram||<br><br>
+</font>
+2. vegavatī - ardhasamavṛttam <br>
+<font color="#1F62B0">
+स्मरवेगवती व्रजरामा केशववंशरवैरतिमुग्धा| <br>
+रभसान्न गुरून् गणयन्ती केलिनिकुञ्जगृहाय जगाम|| <br></font>
+<font color=black>In SLP1:</font>&nbsp;&nbsp;
+<font color="#B74E11">smaravegavatI vrajarAmA keSavavaMSaravEratimugDA| <br>
+raBasAnna gurUn gaRayantI kelinikuYjagfhAya jagAma||<br><br></font>
+3. saurabhakam – viṣamasamavṛttam <br>
+<font color="#1F62B0">चरणत्रयं भवति लक्ष्म यदि सकलमुद्गतागतम् | <br>
+र्नौ भगौ भवति सौरभकं चरणे यदीह भवतस्तृतीयके || <br></font>
+<font color=black>In SLP1:</font> &nbsp;&nbsp;
+<font color="#B74E11">caraRatrayaM Bavati lakzma yadi sakalamudgatAgatam| <br>
+rnO BagO Bavati sOraBakaM caraRe yadIha BavatastftIyake||<br><br></font>
+4. āryā - mātrāvṛttam <br>
+<font color="#1F62B0">आद्यं दलं समस्तं भजेत लक्ष्म चपलागतं यस्याः |<br>
+ शेषे पूर्वजलक्ष्मा मुखचपला सोदिता मुनिना ||<br></font>
+<font color=black>In SLP1:</font> &nbsp;&nbsp;
+<font color="#B74E11">AdyaM dalaM samastaM Bajeta lakzma capalAgataM yasyAH |<br> 
+Seze pUrvajalakzmA muKacapalA soditA muninA||</font>
+
+</p>
+</td>
+</tr>
+</table>
+<div id="footer" style="background-color:#984242;clear:both;text-align:center;">
+<font face="calibri" color="#FFFFFF">
+Copyright © Keshav Melnad 2013</font></div>
+</body>
+</html>

@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>Report</title>
+<style type='text/css'>
+.red {color:red}
+</style>
+</head>
+<body>
+<pre>
+%s
+</pre>
+<table border='1' style='border-collapse:collapse' >
+<tr><th>Matra</th><th>Expansion</th><th>Matched</th></tr>
+%s
+</table>
+</body>
+</html>
